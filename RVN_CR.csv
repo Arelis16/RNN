@@ -1,0 +1,1750 @@
+﻿FID;Ruta;Seccion;Sentido;Largo_m;Tramo;Cant_Carri;Orden;PNT_Tipo;FMP;TMP;Tipo_2022;Provincia
+0;20101;29001;2;712,0084461;0;0;0;Travesía;0;0;Asfalto;2_Alajuela
+1;10107;19206;2;1363,550234;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+2;10106;19205;2;1454,937178;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+3;11512;19221;2;592,624246;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+4;40713;49287;2;1597,3751;0;0;0;Travesía;0;0;Asfalto;4_Heredia
+5;10101;19200;2;2776,276883;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+6;10102;19201;2;3987,705855;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+7;10103;19202;2;4368,831998;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+8;10104;19203;2;4642,943336;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+9;10104;19776;2;1201,441312;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+10;10105;19675;2;1874,45042;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+11;10108;19207;2;2625,264991;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+12;10109;19208;2;1561,549747;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+13;10110;19209;2;2572,000778;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+14;10111;19210;2;3421,847161;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+15;10114;19213;2;1294,609319;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+16;10116;19216;2;4212,584634;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+17;10119;19219;2;1142,552742;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+18;10120;19223;2;570,5929801;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+19;10121;19224;2;685,2544873;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+20;10202;19301;2;1260,47042;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+21;10203;19302;2;1322,880212;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+22;10301;19350;2;2595,68426;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+23;10304;19353;2;2419,405626;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+24;10802;19527;2;3200,076758;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+25;10804;19531;2;865,8524135;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+26;11001;19600;2;2883,206389;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+27;11306;19681;2;946,8538596;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+28;11401;19725;2;2443,852704;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+29;11402;19526;2;1272,89695;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+30;11501;19777;2;1241,274642;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+31;11502;19778;2;1005,435868;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+32;11504;19781;2;1071,262474;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+33;11505;19782;2;2708,704829;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+34;11506;19783;2;1002,71309;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+35;11507;19784;2;519,4329593;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+36;11508;19785;2;1453,152684;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+37;11509;19786;2;1073,193039;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+38;11510;19787;2;326,1585221;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+39;11511;19788;2;1062,682766;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+40;11513;19779;2;800,1206929;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+41;11801;19875;2;1066,280884;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+42;11802;19876;2;1840,52321;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+43;11804;19878;2;2089,267858;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+44;11805;19879;2;546,4584561;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+45;11806;19880;2;368,6033475;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+46;11807;19881;2;627,0804271;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+47;21010;29360;2;865,482359;0;0;0;Travesía;0;0;Asfalto;2_Alajuela
+48;30101;39001;2;1642,555867;0;0;0;Travesía;0;0;Asfalto;3_Cartago
+49;30102;39002;2;2101,898085;0;0;0;Travesía;0;0;Asfalto;3_Cartago
+50;30103;39003;2;2188,533085;0;0;0;Travesía;0;0;Asfalto;3_Cartago
+51;30105;39250;2;1283,188209;0;0;0;Travesía;0;0;Asfalto;3_Cartago
+52;30105;39005;2;3864,551131;0;0;0;Travesía;0;0;Asfalto;3_Cartago
+53;30106;39006;2;1258,407957;0;0;0;Travesía;0;0;Asfalto;3_Cartago
+54;30107;39007;2;1369,709061;0;0;0;Travesía;0;0;Asfalto;3_Cartago
+55;30108;39008;2;1483,048796;0;0;0;Travesía;0;0;Asfalto;3_Cartago
+56;30201;39000;2;1703,6833;0;0;0;Travesía;0;0;Asfalto;3_Cartago
+57;30301;39125;2;623,5391772;0;0;0;Travesía;0;0;Asfalto;3_Cartago
+58;30302;39126;2;1087,551104;0;0;0;Travesía;0;0;Asfalto;3_Cartago
+59;30701;39225;2;720,7283157;0;0;0;Travesía;0;0;Asfalto;3_Cartago
+60;30702;39226;2;1223,648675;0;0;0;Travesía;0;0;Asfalto;3_Cartago
+61;30703;39227;2;1573,392408;0;0;0;Travesía;0;0;Asfalto;3_Cartago
+62;30801;39252;2;1143,562917;0;0;0;Travesía;0;0;Asfalto;3_Cartago
+63;40111;49011;2;593,1352849;0;0;0;Travesía;0;0;Asfalto;4_Heredia
+64;40112;49012;2;1030,150293;0;0;0;Travesía;0;0;Asfalto;4_Heredia
+65;40301;49150;2;2884,690566;0;0;0;Travesía;0;0;Asfalto;4_Heredia
+66;40711;49285;2;760,2478368;0;0;0;Travesía;0;0;Asfalto;4_Heredia
+67;40712;49286;2;1226,981982;0;0;0;Travesía;0;0;Asfalto;4_Heredia
+68;51002;59302;2;844,3880387;0;0;0;Travesía;0;0;Asfalto;5_Guanacaste
+69;61006;69280;2;515,8406079;0;0;0;Travesía;0;0;Asfalto;6_Puntarenas
+70;70201;89100;2;1225,585487;0;0;0;Travesía;0;0;Asfalto;7_Limon
+71;30104;39004;2;1087,032206;0;0;0;Travesía;0;0;Asfalto;3_Cartago
+72;10107;19206;2;110,8658951;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+73;10104;19776;2;338,9439023;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+74;10104;19776;2;83,23818831;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+75;10104;19776;2;198,7591442;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+76;10104;19776;2;98,81560897;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+77;10117;19222;2;561,7670363;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+78;10122;19225;2;520,6382485;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+79;30108;39251;2;596,8123358;0;0;0;Travesía;0;0;Asfalto;3_Cartago
+80;30703;39105;2;1502,338208;0;0;0;Travesía;0;0;Asfalto;3_Cartago
+81;11807;19220;2;549,1062475;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+82;11512;19789;2;105,8739931;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+83;11506;19529;2;362,5386614;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+84;10102;19775;2;617,1216912;0;0;0;Travesía;0;0;Asfalto;1_San Jose
+85;240;70400;2;7475,499526;1;1;2;Conectores de Integracion Territorial;3121,6;10597,1;Asfalto;7_Limon
+86;158;50682;2;1985,900004;1;1;3;Distribuidores Regionales;13999,1;15985;Asfalto;5_Guanacaste
+87;604;60650;2;6095,499987;1;2;2;Red Basica de Acceso;10197,1;16292,6;Asfalto;6_Puntarenas
+88;247;70513;2;1807,500004;1;2;5;Red Basica de Acceso;58926,4;60733,9;Lastre;7_Limon
+89;145;50143;2;2804,999993;1;2;3;Distribuidores Regionales;16042;18847;Lastre;5_Guanacaste
+90;153;20250;2;1507,300081;1;2;1;Distribuidores Regionales;186,9;1694,2;Concreto;2_Alajuela
+91;921;51040;2;1,600000132;1;1;1;Red Basica de Acceso;1061,3;1062,9;Lastre;5_Guanacaste
+92;925;50892;2;4474,89996;1;2;3;Red Basica de Acceso;18180,7;22655,6;Lastre;5_Guanacaste
+93;160;50591;2;2927,300064;1;2;16;Distribuidores Regionales;144517,5;147444,8;Lastre;5_Guanacaste
+94;902;50692;2;1295,200053;1;2;3;Conectores de Integracion Territorial;25774,5;27069,7;Asfalto;5_Guanacaste
+95;920;50800;2;985,0000243;1;2;1;Conectores de Integracion Territorial;0;985;Asfalto;5_Guanacaste
+96;414;30381;2;4687,000013;1;2;2;Red Basica de Acceso;8728;13415;TS;3_Cartago
+97;109;19068;2;762,1000308;1;3;2;Distribuidores Regionales;1237,1;1999,2;Concreto;1_San Jose
+98;167;19039;2;1382,957;1;2;2;Red Basica de Acceso;1096,9;2484,5;Concreto;1_San Jose
+99;810;70363;2;533,5566343;1;2;3;Red Basica de Acceso;10689,1;11222,7;Asfalto;7_Limon
+100;606;60710;2;695,5000209;1;1;6;Conectores de Integracion Territorial;36525;37220,5;Asfalto;6_Puntarenas
+101;918;50381;2;6880,500049;1;2;1;Red Basica de Acceso;0;6880,5;Asfalto;5_Guanacaste
+102;163;60921;2;471,700062;1;2;1;Distribuidores Regionales;5002,5;5474,2;Lastre;6_Puntarenas
+103;160;50460;2;2577,399957;1;2;14;Distribuidores Regionales;123245;125822,4;Lastre;5_Guanacaste
+104;751;20993;2;2782,7;1;2;2;Conectores de Integracion Territorial;3958,1;6740,8;Asfalto;2_Alajuela
+105;624;60860;2;1166;1;2;1;Red Basica de Acceso;5486;6652;Asfalto;6_Puntarenas
+106;323;11000;2;8019,600007;1;2;1;Red Basica de Acceso;0;8019,6;Asfalto;1_San Jose
+107;109;19068;2;196,5999768;1;3;2;Distribuidores Regionales;1999,2;2195,8;Asfalto;1_San Jose
+108;160;60871;2;407,5999927;1;2;6;Distribuidores Regionales;57278,5;57686,1;TS;6_Puntarenas
+109;211;19056;2;1474,400045;1;4;1;Distribuidores Regionales;1332,5;2806,9;Concreto;1_San Jose
+110;145;50143;2;1206,399977;1;2;3;Distribuidores Regionales;18847;20053,4;Asfalto;5_Guanacaste
+111;111;40120;2;454,8999797;1;2;1;Conectores de Integracion Territorial;4351,4;4806,3;Asfalto;4_Heredia
+112;160;50591;2;7615,943417;1;2;16;Distribuidores Regionales;136894,7;144517,5;Asfalto;5_Guanacaste
+113;810;70363;2;2901,799971;1;2;3;Red Basica de Acceso;7787,3;10689,1;Lastre;7_Limon
+114;417;30761;2;509,2999478;1;1;1;Conectores de Integracion Territorial;3823,9;4333,2;Lastre;3_Cartago
+115;902;51150;2;742,0000328;1;2;1;Conectores de Integracion Territorial;110,7;852,7;Asfalto;5_Guanacaste
+116;625;60393;2;6803,600025;1;2;3;Conectores de Integracion Territorial;28667,6;35471,2;Lastre;6_Puntarenas
+117;104;19024;2;1934,600009;1;2;2;Red Basica de Acceso;1491,7;3426,3;Asfalto;1_San Jose
+118;18;50850;2;1568,700681;1;1;1;Distribuidores Regionales;19377,7;20946,4;Asfalto;5_Guanacaste
+119;726;21283;2;1693,899959;1;2;1;Red Basica de Acceso;0;1693,9;Asfalto;2_Alajuela
+120;624;60860;2;4682,999958;1;2;1;Red Basica de Acceso;803;5486;Lastre;6_Puntarenas
+121;330;10840;2;4227,599949;1;1;1;Conectores de Integracion Territorial;5477;9704,6;Lastre;1_San Jose
+122;1;50110;0;13026,8;1;2;20;Alta Capacidad;150362,8;163389,6;Asfalto;5_Guanacaste
+123;158;50682;2;6044,099937;1;1;3;Distribuidores Regionales;15985;22029,1;Lastre;5_Guanacaste
+124;330;10840;2;5477,000012;1;1;1;Conectores de Integracion Territorial;0;5477;Asfalto;1_San Jose
+125;105;19026;2;107,2537771;1;4;1;Distribuidores Regionales;0;108,2;Asfalto;1_San Jose
+126;902;50692;2;6674,699985;1;2;3;Conectores de Integracion Territorial;19099,8;25774,5;Lastre;5_Guanacaste
+127;902;51150;2;110,6999656;1;2;1;Conectores de Integracion Territorial;0;110,7;Concreto;5_Guanacaste
+128;610;60972;2;9347,599979;1;2;3;Conectores de Integracion Territorial;5390,1;14737,7;Lastre;6_Puntarenas
+129;1;50040;1;1493,5;2;2;25;Alta Capacidad;212363,2;213856,7;Concreto;5_Guanacaste
+130;160;60871;2;5583,40002;1;2;6;Distribuidores Regionales;57686,1;63269,5;Asfalto;6_Puntarenas
+131;912;50451;2;5125,69999;1;2;1;Red Basica de Acceso;0;5125,7;Lastre;5_Guanacaste
+132;247;70514;2;7028,899991;1;2;6;Red Basica de Acceso;60733,9;67762,8;Lastre;7_Limon
+133;145;50143;2;3169,500027;1;2;3;Distribuidores Regionales;20053,4;23222,9;Lastre;5_Guanacaste
+134;726;21282;2;2206,200029;1;2;2;Red Basica de Acceso;1693,9;3900,1;Asfalto;2_Alajuela
+135;925;50892;2;301,6000756;1;2;3;Red Basica de Acceso;22655,6;22957,2;Asfalto;5_Guanacaste
+136;104;19024;2;106,9999866;1;2;2;Red Basica de Acceso;4162,1;4269,1;Asfalto;1_San Jose
+137;1;50040;1;4,4;2;2;25;Alta Capacidad;213856,7;213861,1;Asfalto;5_Guanacaste
+138;18;50850;2;19377,69933;1;1;1;Distribuidores Regionales;0;19377,7;Concreto;5_Guanacaste
+139;606;60710;2;2258,700041;1;1;6;Conectores de Integracion Territorial;37220,5;39479,2;Lastre;6_Puntarenas
+140;920;50800;2;10627,70002;1;2;1;Conectores de Integracion Territorial;985;11612,7;Lastre;5_Guanacaste
+141;417;30761;2;3831,899963;1;1;1;Conectores de Integracion Territorial;0;3831,9;Asfalto;3_Cartago
+142;102;19019;2;437,3999691;1;2;1;Distribuidores Regionales;0;437,4;Asfalto;1_San Jose
+143;2;30730;0;178,8000469;1;2;8;Alta Capacidad;17488,9;17667,7;Asfalto;3_Cartago
+144;906;50771;2;5243,499991;1;2;1;Conectores de Integracion Territorial;0;5243,5;Asfalto;5_Guanacaste
+145;752;21141;2;777,1;1;2;1;Red Basica de Acceso;0;777,1;Asfalto;2_Alajuela
+146;749;21380;2;3048,700019;1;1;1;Red Basica de Acceso;0;3048,7;Asfalto;2_Alajuela
+147;918;50381;2;7056,699939;1;2;1;Red Basica de Acceso;6880,5;13937,2;Lastre;5_Guanacaste
+148;319;10812;2;14583,8;1;1;2;Red Basica de Acceso;8828;23411,8;Lastre;1_San Jose
+149;102;19019;2;1081,800059;1;2;1;Distribuidores Regionales;659,8;1741,6;Asfalto;1_San Jose
+150;2;30730;0;927,1000151;1;2;8;Alta Capacidad;17667,7;18594,8;Concreto;3_Cartago
+151;917;50352;2;3999,699945;1;2;2;Conectores de Integracion Territorial;10699,8;14699,5;Lastre;5_Guanacaste
+152;1;50110;1;1485,5;2;2;20;Alta Capacidad;163392;164877,5;Concreto;5_Guanacaste
+153;907;50750;2;12321,6;1;1;1;Conectores de Integracion Territorial;0;12321,6;Lastre;5_Guanacaste
+154;240;70400;2;247,3999895;1;1;2;Conectores de Integracion Territorial;2874,2;3121,6;Concreto;7_Limon
+155;726;21281;2;1680,858807;1;2;3;Red Basica de Acceso;3900,1;5581;Asfalto;2_Alajuela
+156;921;51040;2;5,100029928;1;1;1;Red Basica de Acceso;1062,9;1068;Asfalto;5_Guanacaste
+157;907;50750;2;1085,668187;1;1;1;Conectores de Integracion Territorial;12321,6;13407,3;Asfalto;5_Guanacaste
+158;111;40120;2;4176,299897;1;2;1;Conectores de Integracion Territorial;175,1;4351,4;Concreto;4_Heredia
+159;906;50771;2;1776,699957;1;2;1;Conectores de Integracion Territorial;5243,5;7020,2;Lastre;5_Guanacaste
+160;408;30361;2;2482,500085;1;2;1;Red Basica de Acceso;1640,1;4122,6;Lastre;3_Cartago
+161;109;19068;2;390,6557377;1;3;2;Distribuidores Regionales;846,4;1237,1;Asfalto;1_San Jose
+162;323;11000;2;3217,873399;1;2;1;Red Basica de Acceso;8019,6;11237,5;Lastre;1_San Jose
+163;104;19024;2;735,8000217;1;2;2;Red Basica de Acceso;3426,3;4162,1;Concreto;1_San Jose
+164;2;30730;0;2152,499935;1;2;8;Alta Capacidad;18594,8;20747,3;Asfalto;3_Cartago
+165;158;50682;2;3429,700036;1;1;3;Distribuidores Regionales;10569,4;13999,1;Lastre;5_Guanacaste
+166;926;50204;2;8187,900014;1;1;4;Red Basica de Acceso;31945,5;40133,4;Lastre;5_Guanacaste
+167;752;21141;2;5276,87572;1;2;1;Red Basica de Acceso;777,1;6060,1;Lastre;2_Alajuela
+168;1;50110;0;1494,3;1;2;20;Alta Capacidad;163389,6;164883,9;Concreto;5_Guanacaste
+169;160;50460;2;6296,600004;1;2;14;Distribuidores Regionales;125822,4;132119;Asfalto;5_Guanacaste
+170;167;19039;2;1096,91;1;2;2;Red Basica de Acceso;2484,5;4011,5;Asfalto;1_San Jose
+171;902;51150;2;11210,20004;1;2;1;Conectores de Integracion Territorial;852,7;12062,9;Lastre;5_Guanacaste
+172;749;21380;2;9183,099992;1;1;1;Red Basica de Acceso;3048,7;12231,8;Lastre;2_Alajuela
+173;624;60860;2;803,000016;1;2;1;Red Basica de Acceso;0;803;Asfalto;6_Puntarenas
+174;1;50040;0;29209;1;2;25;Alta Capacidad;213871,8;243080,8;Asfalto;5_Guanacaste
+175;247;70513;2;14141,79996;1;2;5;Red Basica de Acceso;44784,6;58926,4;Asfalto;7_Limon
+176;921;51040;2;11359,50002;1;1;1;Red Basica de Acceso;1068;12427,5;Lastre;5_Guanacaste
+177;414;30381;2;4302,200055;1;2;2;Red Basica de Acceso;13415;17717,2;Lastre;3_Cartago
+178;211;19056;2;1332,500036;1;4;1;Distribuidores Regionales;0;1332,5;Asfalto;1_San Jose
+179;153;20250;2;186,8999588;1;2;1;Distribuidores Regionales;0;186,9;Asfalto;2_Alajuela
+180;931;50820;2;946,7540746;1;2;3;Conectores de Integracion Territorial;14427,5;15374,3;Lastre;5_Guanacaste
+181;313;11320;2;915,7000111;1;1;4;Red Basica de Acceso;23682,3;24598;Asfalto;1_San Jose
+182;145;50871;2;14520,29992;1;2;4;Distribuidores Regionales;25124,7;39645;Asfalto;5_Guanacaste
+183;926;50204;2;1509,299995;1;1;4;Red Basica de Acceso;40133,4;41642,7;Asfalto;5_Guanacaste
+184;912;50451;2;734,9000061;1;2;1;Red Basica de Acceso;5125,7;5860,6;Asfalto;5_Guanacaste
+185;145;50871;2;1901,800024;1;2;4;Distribuidores Regionales;23222,9;25124,7;Lastre;5_Guanacaste
+186;408;30361;2;1640,099965;1;2;1;Red Basica de Acceso;0;1640,1;Asfalto;3_Cartago
+187;105;19026;2;577,7000548;1;4;1;Distribuidores Regionales;761,4;1339,1;Asfalto;1_San Jose
+188;751;20993;2;4941;1;2;2;Conectores de Integracion Territorial;6740,8;11681,8;Lastre;2_Alajuela
+189;625;60393;2;1663,401042;1;2;3;Conectores de Integracion Territorial;35471,2;37134,6;Asfalto;6_Puntarenas
+190;921;51040;2;1061,299951;1;1;1;Red Basica de Acceso;0;1061,3;Asfalto;5_Guanacaste
+191;319;10812;2;1107,799943;1;1;2;Red Basica de Acceso;7720,2;8828;Asfalto;1_San Jose
+192;111;40120;2;175,1000839;1;2;1;Conectores de Integracion Territorial;0;175,1;Asfalto;4_Heredia
+193;917;50352;2;3663,299989;1;2;2;Conectores de Integracion Territorial;7036,5;10699,8;Asfalto;5_Guanacaste
+194;931;50820;2;2728,90002;1;2;3;Conectores de Integracion Territorial;11698,6;14427,5;Asfalto;5_Guanacaste
+195;1;50040;0;1479,1;1;2;25;Alta Capacidad;212392,7;213871,8;Concreto;5_Guanacaste
+196;604;60650;2;1253,599945;1;2;2;Red Basica de Acceso;8943,5;10197,1;Lastre;6_Puntarenas
+197;102;19019;2;222,4000211;1;2;1;Distribuidores Regionales;437,4;659,8;Concreto;1_San Jose
+198;105;19026;2;653,2000662;1;4;1;Distribuidores Regionales;108,2;761,4;Concreto;1_San Jose
+199;163;60921;2;5002,499972;1;2;1;Distribuidores Regionales;0;5002,5;Asfalto;6_Puntarenas
+200;313;11320;2;5321,219836;1;1;4;Red Basica de Acceso;0;23682,3;Lastre;1_San Jose
+201;10;30002;0;20107,35712;1;1;11;Alta Capacidad;49890,9614;69998,3185;Asfalto;3_Cartago
+202;10;30061;0;1524,524619;1;2;1;Alta Capacidad;0;1524,5246;Concreto;3_Cartago
+203;10;30062;0;2095,443617;1;2;2;Alta Capacidad;1524,5246;3619,9682;Asfalto;3_Cartago
+204;10;30040;0;2973,019725;1;3;3;Alta Capacidad;3619,9682;6592,988;Asfalto;3_Cartago
+205;10;30021;0;3316,209115;1;2;4;Alta Capacidad;6592,988;9909,1971;Asfalto;3_Cartago
+206;10;30022;0;9679,510771;1;1;5;Alta Capacidad;9909,1971;19588,7078;Asfalto;3_Cartago
+207;10;30471;0;5212,281204;1;1;6;Alta Capacidad;19588,7078;24800,989;Asfalto;3_Cartago
+208;10;30472;0;4240,727762;1;1;7;Alta Capacidad;24800,989;29041,7168;Asfalto;3_Cartago
+209;10;30010;0;7434,975693;1;1;8;Alta Capacidad;29041,7168;36476,6925;Asfalto;3_Cartago
+210;10;30480;0;7057,955413;1;1;9;Alta Capacidad;36476,6925;43534,6479;Asfalto;3_Cartago
+211;10;30001;0;6356,313436;1;1;10;Alta Capacidad;43534,6479;49890,9614;Asfalto;3_Cartago
+212;10;70420;0;20002,94396;1;1;12;Alta Capacidad;69998,3185;90001,2625;Asfalto;7_Limon
+213;10;30061;1;1518,757068;2;2;1;Alta Capacidad;0;1518,7571;Concreto;3_Cartago
+214;100;19017;2;1656,118146;1;2;1;Distribuidores Regionales;0;1656,1181;Asfalto;1_San Jose
+215;100;19016;2;1136,783609;1;2;2;Distribuidores Regionales;1656,1181;2792,9017;Asfalto;1_San Jose
+216;100;19015;2;340,0208008;1;2;3;Distribuidores Regionales;2792,9017;3132,9226;Asfalto;1_San Jose
+217;101;19074;2;1388,81518;1;1;3;Red Basica de Acceso;2877,1855;4266,0007;Asfalto;1_San Jose
+218;101;19018;2;1991,325255;1;1;1;Red Basica de Acceso;0;1991,3252;Asfalto;1_San Jose
+219;101;19073;2;885,8602471;1;1;2;Red Basica de Acceso;1991,3252;2877,1855;Asfalto;1_San Jose
+220;102;10390;2;2917,552268;1;2;5;Conectores de Integracion Territorial;5197,1379;8114,6902;Asfalto;1_San Jose
+221;102;19020;2;775,2309379;1;2;2;Distribuidores Regionales;1741,6156;2516,8466;Asfalto;1_San Jose
+222;102;19021;2;893,6935123;1;2;3;Distribuidores Regionales;2516,8466;3410,5401;Asfalto;1_San Jose
+223;102;19022;2;1786,597792;1;3;4;Conectores de Integracion Territorial;3410,5401;5197,1379;Asfalto;1_San Jose
+224;103;40112;2;2162,283071;1;1;2;Conectores de Integracion Territorial;1542,8111;3705,0942;Asfalto;4_Heredia
+225;103;40111;2;1542,811127;1;1;1;Conectores de Integracion Territorial;0;1542,8111;Asfalto;4_Heredia
+226;104;19025;2;4111,541494;1;2;3;Red Basica de Acceso;4269,0891;8380,6306;Asfalto;1_San Jose
+227;104;19023;2;1491,733003;1;2;1;Red Basica de Acceso;0;1491,733;Asfalto;1_San Jose
+228;105;19029;2;1334,264437;1;2;8;Conectores de Integracion Territorial;11942,3783;13276,6428;Asfalto;1_San Jose
+229;105;19027;2;2049,140769;1;2;2;Conectores de Integracion Territorial;1339,1441;3388,285;Asfalto;1_San Jose
+230;105;10310;2;1801,359238;1;2;3;Conectores de Integracion Territorial;3388,285;5189,6442;Asfalto;1_San Jose
+231;105;10300;2;1786,075488;1;2;4;Conectores de Integracion Territorial;5189,6442;6975,7197;TS;1_San Jose
+232;105;11141;2;1663,407702;1;2;5;Conectores de Integracion Territorial;6975,7197;8639,1273;TS;1_San Jose
+233;105;11142;2;2237,784874;1;2;6;Conectores de Integracion Territorial;8639,1273;10876,9122;Asfalto;1_San Jose
+234;105;19028;2;1065,466096;1;2;7;Conectores de Integracion Territorial;10876,9122;11942,3783;Asfalto;1_San Jose
+235;105;19072;2;379,9079745;1;2;9;Conectores de Integracion Territorial;13276,6428;13656,5508;Asfalto;1_San Jose
+236;106;40032;2;3383,617227;1;2;2;Distribuidores Regionales;2492,6585;5834,8272;Asfalto;4_Heredia
+237;106;40031;2;2492,658564;1;2;1;Distribuidores Regionales;0;2492,6585;Asfalto;4_Heredia
+238;107;20401;2;5128,778811;1;2;3;Distribuidores Regionales;13495,5183;18624,2972;TS;2_Alajuela
+239;107;20380;2;6746,753303;1;2;1;Distribuidores Regionales;0;6746,7533;Asfalto;2_Alajuela
+240;107;20390;2;6748,76505;1;2;2;Distribuidores Regionales;6746,7533;13495,5183;Asfalto;2_Alajuela
+241;107;20402;2;3382,426637;1;2;4;Distribuidores Regionales;18624,2972;22006,7238;TS;2_Alajuela
+242;108;19038;2;3042,709129;1;4;4;Distribuidores Regionales;2442,0821;5484,791;Asfalto;1_San Jose
+243;108;19030;2;1617,22246;1;3;1;Red Basica de Acceso;0;1617,2225;Asfalto;1_San Jose
+244;108;19128;2;473,4619226;1;4;2;Red Basica de Acceso;1617,2225;2090,6844;Concreto;1_San Jose
+245;108;19037;2;351,3976047;1;4;3;Red Basica de Acceso;2090,6844;2442,0821;Asfalto;1_San Jose
+246;108;19129;2;511,5839863;1;3;5;Distribuidores Regionales;5484,791;5996,3751;Asfalto;1_San Jose
+247;109;19031;2;846,4442878;1;2;1;Red Basica de Acceso;0;846,4443;Asfalto;1_San Jose
+248;109;19032;2;1104,95277;1;3;3;Distribuidores Regionales;2195,8477;3300,8005;Asfalto;1_San Jose
+249;110;19034;2;2540,251689;1;3;1;Conectores de Integracion Territorial;0;2540,2517;Asfalto;1_San Jose
+250;110;19071;2;890,6890336;1;3;2;Conectores de Integracion Territorial;2540,2517;3430,9407;Asfalto;1_San Jose
+251;111;40140;2;2295,89821;1;2;3;Distribuidores Regionales;7535,8103;9831,7085;Asfalto;4_Heredia
+252;111;40130;2;2729,558286;1;2;2;Distribuidores Regionales;4806,252;7535,8103;Asfalto;4_Heredia
+253;111;20200;2;1932,380494;1;2;4;Distribuidores Regionales;9831,7085;11764,089;Asfalto;2_Alajuela
+254;112;40560;2;3913,234033;1;2;5;Distribuidores Regionales;7839,917;11753,1511;Asfalto;4_Heredia
+255;112;40610;2;414,7328812;1;3;1;Distribuidores Regionales;0;414,7328;Asfalto;4_Heredia
+256;112;40151;2;1504,85194;1;2;2;Distribuidores Regionales;414,7328;1919,5848;Asfalto;4_Heredia
+257;112;40152;2;2677,767943;1;2;3;Distribuidores Regionales;1919,5848;4597,3528;Asfalto;4_Heredia
+258;112;40160;2;3242,56426;1;2;4;Distribuidores Regionales;4597,3528;7839,917;Asfalto;4_Heredia
+259;113;40720;2;4804,563415;1;2;5;Conectores de Integracion Territorial;9360,4252;14164,9886;Asfalto;4_Heredia
+260;113;40180;2;1188,102413;1;2;1;Conectores de Integracion Territorial;0;1188,1024;Asfalto;4_Heredia
+261;113;40660;2;2052,481821;1;2;2;Conectores de Integracion Territorial;1188,1024;3240,5843;Asfalto;4_Heredia
+262;113;40190;2;4195,869292;1;2;3;Conectores de Integracion Territorial;3240,5843;7436,4536;Asfalto;4_Heredia
+263;113;40200;2;1923,971651;1;2;4;Conectores de Integracion Territorial;7436,4536;9360,4252;TS;4_Heredia
+264;114;40690;2;2015,39513;1;2;4;Conectores de Integracion Territorial;11830,4227;13845,8179;Asfalto;4_Heredia
+265;114;40210;2;3572,923723;1;2;1;Conectores de Integracion Territorial;0;3572,9237;Asfalto;4_Heredia
+266;114;40220;2;4662,204015;1;2;2;Conectores de Integracion Territorial;3572,9237;8235,1277;Asfalto;4_Heredia
+267;114;40410;2;3595,295;1;2;3;Conectores de Integracion Territorial;8235,1277;11830,4227;TS;4_Heredia
+268;114;40400;2;1841,820996;1;2;5;Red Basica de Acceso;13845,8179;15687,6389;Asfalto;4_Heredia
+269;115;40230;2;1375,194631;1;2;1;Red Basica de Acceso;0;1375,1946;Asfalto;4_Heredia
+270;116;40170;2;6141,5474;1;2;5;Conectores de Integracion Territorial;8731,5071;14873,0545;Asfalto;4_Heredia
+271;116;40251;2;3673,391742;1;2;1;Conectores de Integracion Territorial;0;3673,3917;Asfalto;4_Heredia
+272;116;40252;2;2330,677264;1;2;2;Conectores de Integracion Territorial;3673,3917;6004,069;Asfalto;4_Heredia
+273;116;40261;2;2122,949452;1;2;3;Conectores de Integracion Territorial;6004,069;8147,0111;Asfalto;4_Heredia
+274;116;40262;2;604,8616524;1;2;4;Conectores de Integracion Territorial;8147,0111;8731,5071;Asfalto;4_Heredia
+275;117;40430;2;2088,005908;1;2;3;Red Basica de Acceso;2462,0652;4550,0711;Asfalto;4_Heredia
+276;117;19035;2;1555,771386;1;2;1;Distribuidores Regionales;0;1555,7714;Asfalto;1_San Jose
+277;117;40420;2;906,2938082;1;2;2;Distribuidores Regionales;1555,7714;2462,0652;Asfalto;4_Heredia
+278;118;21630;2;5307,123742;1;2;5;Conectores de Integracion Territorial;20398,2179;25705,3417;Asfalto;2_Alajuela
+279;118;20150;2;4612,578678;1;2;1;Distribuidores Regionales;0;4612,5787;Asfalto;2_Alajuela
+280;118;21620;2;3108,136268;1;2;2;Distribuidores Regionales;4612,5787;7720,715;Asfalto;2_Alajuela
+281;118;20160;2;8341,068425;1;2;3;Distribuidores Regionales;7720,715;16061,7834;Asfalto;2_Alajuela
+282;118;20170;2;4336,434505;1;2;4;Conectores de Integracion Territorial;16061,7834;20398,2179;Asfalto;2_Alajuela
+283;118;20180;2;3186,491278;2;2;6;Conectores de Integracion Territorial;25705,3417;28891,8329;Asfalto;2_Alajuela
+284;119;40630;2;2348,561974;1;1;4;Distribuidores Regionales;4598,4152;6946,9771;Asfalto;4_Heredia
+285;119;21720;2;426,2342739;1;1;1;Distribuidores Regionales;0;426,2342;Asfalto;2_Alajuela
+286;119;40350;2;2648,204154;1;1;2;Distribuidores Regionales;426,2342;3074,4385;TS;4_Heredia
+287;119;40620;2;1523,976717;1;1;3;Distribuidores Regionales;3074,4385;4598,4152;Asfalto;4_Heredia
+288;120;20560;2;9014,45955;1;1;3;Red Basica de Acceso;6626,0254;15640,485;Asfalto;2_Alajuela
+289;120;40640;2;649,2928725;1;1;1;Conectores de Integracion Territorial;0;649,2929;Asfalto;4_Heredia
+290;120;20550;2;5976,732537;1;1;2;Conectores de Integracion Territorial;649,2929;6626,0254;Asfalto;2_Alajuela
+291;121;10530;2;2241,82292;1;1;5;Distribuidores Regionales;12338,093;14579,9159;Asfalto;1_San Jose
+292;121;10460;2;3398,189779;1;1;1;Distribuidores Regionales;0;3398,1898;Asfalto;1_San Jose
+293;121;10520;2;4058,213193;1;1;2;Distribuidores Regionales;3398,1898;7456,4029;Asfalto;1_San Jose
+294;121;10470;2;3192,996524;1;1;3;Distribuidores Regionales;7456,4029;10649,3994;Asfalto;1_San Jose
+295;121;10480;2;1688,6935;1;1;4;Distribuidores Regionales;10649,3994;12338,093;Asfalto;1_San Jose
+296;122;20290;2;3731,202737;1;1;3;Distribuidores Regionales;3559,2418;7290,4446;Asfalto;2_Alajuela
+297;122;20282;2;1630,532008;1;1;1;Distribuidores Regionales;0;1630,532;Asfalto;2_Alajuela
+298;122;20281;2;1928,709809;1;1;2;Distribuidores Regionales;1630,532;3559,2418;Asfalto;2_Alajuela
+299;122;40370;2;1151,778731;1;1;4;Distribuidores Regionales;7290,4446;8442,2233;Asfalto;4_Heredia
+300;123;20310;2;4647,997987;1;1;4;Distribuidores Regionales;6801,1081;11449,106;Asfalto;2_Alajuela
+301;123;40300;2;2565,414483;1;1;1;Red Basica de Acceso;0;2565,4145;TS;4_Heredia
+302;123;40590;2;2273,674755;1;1;2;Red Basica de Acceso;2565,4145;4839,0892;TS;4_Heredia
+303;123;40310;2;1962,018777;1;1;3;Distribuidores Regionales;4839,0892;6801,1081;Asfalto;4_Heredia
+304;124;20264;2;3735,602433;1;1;4;Distribuidores Regionales;9675,7589;13411,3614;Asfalto;2_Alajuela
+305;124;20261;2;2664,806387;1;1;1;Distribuidores Regionales;0;2664,8064;Asfalto;2_Alajuela
+306;124;20262;2;4564,989863;1;1;2;Conectores de Integracion Territorial;2664,8064;7229,7963;Asfalto;2_Alajuela
+307;124;20263;2;2445,962672;1;1;3;Conectores de Integracion Territorial;7229,7963;9675,7589;Asfalto;2_Alajuela
+308;125;20322;2;7991,028487;1;1;2;Distribuidores Regionales;2600,1076;10591,136;Asfalto;2_Alajuela
+309;125;20321;2;2600,10756;1;1;1;Distribuidores Regionales;0;2600,1076;Asfalto;2_Alajuela
+310;126;40482;2;7112,188268;1;1;11;Conectores de Integracion Territorial;65759,5244;72870,4483;Asfalto;4_Heredia
+311;126;40070;2;2403,798598;1;1;1;Distribuidores Regionales;0;2403,7986;Asfalto;4_Heredia
+312;126;40080;2;4914,802264;1;1;2;Distribuidores Regionales;2403,7986;7318,6009;Asfalto;4_Heredia
+313;126;40090;2;6292,808439;1;1;3;Distribuidores Regionales;7318,6009;13611,4093;Asfalto;4_Heredia
+314;126;20340;2;10082,40418;1;1;4;Conectores de Integracion Territorial;13611,4093;23693,8135;Asfalto;2_Alajuela
+315;126;40600;2;2998,164314;1;1;5;Conectores de Integracion Territorial;23693,8135;26691,9778;Asfalto;4_Heredia
+316;126;40100;2;8426,633892;1;1;6;Conectores de Integracion Territorial;26691,9778;35118,6117;Asfalto;4_Heredia
+317;126;20580;2;10603,59039;1;1;7;Conectores de Integracion Territorial;35118,6117;45722,2021;Asfalto;2_Alajuela
+318;126;20590;2;8047,911774;1;1;8;Conectores de Integracion Territorial;45722,2021;53770,1139;TS;2_Alajuela
+319;126;21800;2;7786,765267;1;1;9;Conectores de Integracion Territorial;53770,1139;61556,879;Asfalto;2_Alajuela
+320;126;40481;2;4202,645315;1;1;10;Conectores de Integracion Territorial;61556,879;65759,5244;Asfalto;4_Heredia
+321;127;40321;2;3069,48538;1;1;1;Red Basica de Acceso;0;3069,4854;Asfalto;4_Heredia
+322;127;40322;2;1987,176953;1;1;2;Red Basica de Acceso;3069,4854;5056,6623;Asfalto;4_Heredia
+323;128;40340;2;3705,753306;1;1;2;Distribuidores Regionales;2073,3422;5779,0956;Asfalto;4_Heredia
+324;128;40330;2;2073,342245;1;1;1;Distribuidores Regionales;0;2073,3422;Asfalto;4_Heredia
+325;129;40700;2;3287,284675;1;1;2;Conectores de Integracion Territorial;1848,2938;5135,5785;Asfalto;4_Heredia
+326;129;40360;2;1848,293853;1;1;1;Conectores de Integracion Territorial;0;1848,2938;Asfalto;4_Heredia
+327;130;20360;2;3073,38499;1;1;4;Distribuidores Regionales;11874,0097;14947,3947;TS;2_Alajuela
+328;130;20351;2;3022,096934;1;1;1;Conectores de Integracion Territorial;0;3022,0969;Asfalto;2_Alajuela
+329;130;20352;2;5161,445644;1;1;2;Conectores de Integracion Territorial;3022,0969;8183,5426;Asfalto;2_Alajuela
+330;130;20370;2;3690,467139;1;1;3;Distribuidores Regionales;8183,5426;11874,0097;Asfalto;2_Alajuela
+331;130;21710;2;2241,476933;1;1;5;Distribuidores Regionales;14947,3947;17188,8716;TS;2_Alajuela
+332;131;20120;2;11773,88734;1;1;1;Conectores de Integracion Territorial;0;11773,8874;TS;2_Alajuela
+333;131;60560;2;8254,152992;1;1;2;Conectores de Integracion Territorial;11773,8874;20028,0403;Asfalto;6_Puntarenas
+334;132;60730;2;12148,45788;1;1;1;Red Basica de Acceso;0;12148,4579;Asfalto;6_Puntarenas
+335;133;50860;2;4872,345288;1;1;1;Conectores de Integracion Territorial;0;4872,3453;Asfalto;5_Guanacaste
+336;135;20510;2;6087,619226;1;1;7;Distribuidores Regionales;12857,7336;18945,3528;Asfalto;2_Alajuela
+337;135;20241;2;1533,944949;1;1;1;Red Basica de Acceso;0;1533,9449;Asfalto;2_Alajuela
+338;135;20242;2;3716,79502;1;1;2;Red Basica de Acceso;1533,9449;5250,74;TS;2_Alajuela
+339;135;20811;2;1618,469081;1;1;3;Red Basica de Acceso;5250,74;6869,209;Asfalto;2_Alajuela
+340;135;20812;2;1405,437353;1;3;4;Distribuidores Regionales;6869,209;8274,6464;Asfalto;2_Alajuela
+341;135;20501;2;1632,378709;1;1;5;Distribuidores Regionales;8274,6464;9909,5869;Asfalto;2_Alajuela
+342;135;20502;2;2948,146699;1;1;6;Distribuidores Regionales;9909,5869;12857,7336;Asfalto;2_Alajuela
+343;135;20520;2;3204,957671;1;1;8;Distribuidores Regionales;18945,3528;22150,3105;Asfalto;2_Alajuela
+344;136;10740;2;9043,94032;1;1;4;Red Basica de Acceso;10888,25;19932,1902;Asfalto;1_San Jose
+345;136;20450;2;4039,220846;1;1;1;Conectores de Integracion Territorial;0;4039,2209;Asfalto;2_Alajuela
+346;136;20460;2;2598,342538;1;1;2;Conectores de Integracion Territorial;4039,2209;6637,5634;TS;2_Alajuela
+347;136;21320;2;4250,686574;1;1;3;Conectores de Integracion Territorial;6637,5634;10888,25;Asfalto;2_Alajuela
+348;136;11250;2;8459,776378;1;1;5;Red Basica de Acceso;19932,1902;28391,9666;TS;1_San Jose
+349;137;10171;2;9994,671127;1;1;5;Conectores de Integracion Territorial;23634,4975;33629,1685;Asfalto;1_San Jose
+350;137;10821;2;10629,17589;1;1;1;Conectores de Integracion Territorial;0;10629,1759;Asfalto;1_San Jose
+351;137;10822;2;4676,293635;1;1;2;Conectores de Integracion Territorial;10629,1759;15305,4696;Asfalto;1_San Jose
+352;137;11230;2;5517,914107;1;1;3;Conectores de Integracion Territorial;15305,4696;20823,3836;TS;1_San Jose
+353;137;10160;2;2811,113821;1;1;4;Conectores de Integracion Territorial;20823,3836;23634,4975;Asfalto;1_San Jose
+354;137;10172;2;3959,971148;1;1;6;Conectores de Integracion Territorial;33629,1685;37589,1397;Asfalto;1_San Jose
+355;137;21290;2;3780,038736;1;1;7;Conectores de Integracion Territorial;37589,1397;41369,1785;Asfalto;2_Alajuela
+356;138;21611;2;11235,23917;1;1;4;Distribuidores Regionales;24396,3908;35631,63;Lastre;2_Alajuela
+357;138;21170;2;9393,88804;1;1;1;Distribuidores Regionales;0;9393,888;Lastre;2_Alajuela
+358;138;21601;2;3997,97072;1;1;2;Distribuidores Regionales;9393,888;13391,8588;Lastre;2_Alajuela
+359;138;21602;2;11004,53206;1;1;3;Distribuidores Regionales;13391,8588;24396,3908;Lastre;2_Alajuela
+360;138;21612;2;7376,10184;1;1;5;Distribuidores Regionales;35631,63;43007,7318;Lastre;2_Alajuela
+361;139;21200;2;17350,6369;1;1;1;Red Basica de Acceso;0;17350,6369;Lastre;2_Alajuela
+362;139;21810;2;4281,372289;1;1;2;Red Basica de Acceso;17350,6369;21632,0092;Lastre;2_Alajuela
+363;14;60251;2;17663,95107;1;1;1;Distribuidores Regionales;0;17663,9511;TS;6_Puntarenas
+364;14;60252;2;8106,804738;1;1;2;Distribuidores Regionales;17663,9511;25770,7558;Asfalto;6_Puntarenas
+365;140;21560;2;6980,560119;1;1;6;Conectores de Integracion Territorial;29112,3139;36092,8741;Asfalto;2_Alajuela
+366;140;20661;2;10890,47232;1;1;2;Conectores de Integracion Territorial;0;10890,4723;Asfalto;2_Alajuela
+367;140;20662;2;3940,494262;1;1;3;Conectores de Integracion Territorial;10890,4723;14830,9666;Asfalto;2_Alajuela
+368;140;20931;2;10655,30668;1;1;4;Conectores de Integracion Territorial;14830,9666;25486,2732;Asfalto;2_Alajuela
+369;140;20932;2;3626,040679;1;1;5;Conectores de Integracion Territorial;25486,2732;29112,3139;Asfalto;2_Alajuela
+370;140;21570;2;1910,147892;1;1;7;Conectores de Integracion Territorial;36092,8741;38003,0219;Asfalto;2_Alajuela
+371;141;20980;2;18812,40514;1;1;10;Distribuidores Regionales;67639,3973;86451,8025;Asfalto;2_Alajuela
+372;141;20440;2;2075,885621;1;1;1;Distribuidores Regionales;0;2075,8856;Asfalto;2_Alajuela
+373;141;20190;2;2376,30965;1;3;2;Distribuidores Regionales;2075,8856;4452,1953;Asfalto;2_Alajuela
+374;141;20600;2;15437,76227;1;1;3;Distribuidores Regionales;4452,1953;19889,9575;Asfalto;2_Alajuela
+375;141;20610;2;11193,86341;1;1;4;Distribuidores Regionales;19889,9575;31083,821;Asfalto;2_Alajuela
+376;141;20620;2;10237,71652;1;1;5;Distribuidores Regionales;31083,821;41321,5375;Asfalto;2_Alajuela
+377;141;21550;2;7787,680441;1;1;6;Distribuidores Regionales;41321,5375;49109,2179;Asfalto;2_Alajuela
+378;141;20630;2;9590,943021;1;1;7;Distribuidores Regionales;49109,2179;58700,1609;Asfalto;2_Alajuela
+379;141;20681;2;4829,895698;1;1;8;Distribuidores Regionales;58700,1609;63530,0566;Asfalto;2_Alajuela
+380;141;20682;2;4109,340711;1;1;9;Distribuidores Regionales;63530,0566;67639,3973;Asfalto;2_Alajuela
+381;142;21342;2;11725,08115;1;2;9;Distribuidores Regionales;83865,8844;95590,9656;Asfalto;2_Alajuela
+382;142;50150;2;12350,57821;1;2;1;Distribuidores Regionales;0;12350,5782;Asfalto;5_Guanacaste
+383;142;50310;2;9613,108057;1;2;2;Distribuidores Regionales;12350,5782;21963,6863;Asfalto;5_Guanacaste
+384;142;50191;2;4160,186105;1;2;3;Distribuidores Regionales;21963,6863;26123,8724;TS;5_Guanacaste
+385;142;50192;2;9014,060412;1;2;4;Distribuidores Regionales;26123,8724;35137,9327;TS;5_Guanacaste
+386;142;50193;2;15164,24207;1;2;5;Distribuidores Regionales;35137,9327;50302,1748;TS;5_Guanacaste
+387;142;50941;2;9764,733127;1;2;6;Distribuidores Regionales;50302,1748;60066,908;Asfalto;5_Guanacaste
+388;142;50942;2;13899,506;1;2;7;Distribuidores Regionales;60066,908;73966,414;Asfalto;5_Guanacaste
+389;142;21341;2;9899,470389;1;2;8;Distribuidores Regionales;73966,414;83865,8844;Asfalto;2_Alajuela
+390;142;21490;2;9712,339315;1;2;10;Distribuidores Regionales;95590,9656;105303,3048;Asfalto;2_Alajuela
+391;143;21162;2;6084,299771;1;2;3;Conectores de Integracion Territorial;10427,5505;16511,8502;Lastre;2_Alajuela
+392;143;50930;2;2727,753308;1;2;1;Conectores de Integracion Territorial;0;2727,7533;Lastre;5_Guanacaste
+393;143;21161;2;7699,797142;1;2;2;Conectores de Integracion Territorial;2727,7533;10427,5505;Lastre;2_Alajuela
+394;143;21163;2;1590,719565;1;2;4;Conectores de Integracion Territorial;16511,8502;19647,5166;Asfalto;2_Alajuela
+395;144;60630;2;7298,385488;1;1;1;Red Basica de Acceso;0;7640,6417;Asfalto;6_Puntarenas
+396;145;50141;2;6471,281819;1;2;1;Distribuidores Regionales;0;6471,2818;Asfalto;5_Guanacaste
+397;145;50142;2;9570,702302;1;2;2;Distribuidores Regionales;6471,2818;16041,9841;TS;5_Guanacaste
+398;145;50872;2;7342,981571;2;2;5;Distribuidores Regionales;39645,0067;46987,9882;TS;5_Guanacaste
+399;146;20540;2;10989,81997;1;2;1;Conectores de Integracion Territorial;0;10989,82;TS;2_Alajuela
+400;146;21640;2;3876,017881;1;2;2;Conectores de Integracion Territorial;10989,82;14865,8379;TS;2_Alajuela
+401;147;10450;2;2487,878953;1;1;2;Distribuidores Regionales;1220,0935;3707,9724;Asfalto;1_San Jose
+402;147;10440;2;1220,093466;1;1;1;Distribuidores Regionales;0;1220,0935;Asfalto;1_San Jose
+403;147;21330;2;1456,235404;1;1;3;Distribuidores Regionales;3707,9724;5164,2078;Asfalto;2_Alajuela
+404;148;20800;2;6709,565322;1;1;1;Red Basica de Acceso;0;6709,5653;Asfalto;2_Alajuela
+405;150;50652;2;18580,40487;1;1;8;Conectores de Integracion Territorial;43267,0282;61847,4331;TS;5_Guanacaste
+406;150;51050;2;7848,102885;1;1;1;Conectores de Integracion Territorial;0;7848,1029;Lastre;5_Guanacaste
+407;150;50470;2;2164,340859;1;1;2;Conectores de Integracion Territorial;7848,1029;10012,4437;Lastre;5_Guanacaste
+408;150;50782;2;10667,57656;1;1;3;Conectores de Integracion Territorial;10012,4437;20680,0203;Asfalto;5_Guanacaste
+409;150;50781;2;4217,291205;1;1;4;Conectores de Integracion Territorial;20680,0203;24897,3115;Asfalto;5_Guanacaste
+410;150;50171;2;1814,932434;1;1;5;Conectores de Integracion Territorial;24897,3115;26712,2439;Asfalto;5_Guanacaste
+411;150;50172;2;1885,979816;1;1;6;Conectores de Integracion Territorial;26712,2439;28598,2237;Asfalto;5_Guanacaste
+412;150;50651;2;14668,80449;1;1;7;Conectores de Integracion Territorial;28598,2237;43267,0282;TS;5_Guanacaste
+413;151;50211;2;7365,502026;1;1;1;Distribuidores Regionales;0;7365,5021;Asfalto;5_Guanacaste
+414;151;50212;2;7269,317712;1;1;2;Conectores de Integracion Territorial;7365,5021;14634,8198;Asfalto;5_Guanacaste
+415;152;50261;2;13755,3717;1;1;1;Distribuidores Regionales;0;13755,3717;Asfalto;5_Guanacaste
+416;152;50262;2;4776,130101;1;1;2;Red Basica de Acceso;13755,3717;18531,5018;TS;5_Guanacaste
+417;154;20422;2;7063,393355;1;2;2;Distribuidores Regionales;1973,7651;9037,1585;Asfalto;2_Alajuela
+418;154;20421;2;1973,765115;1;2;1;Distribuidores Regionales;0;1973,7651;Asfalto;2_Alajuela
+419;155;50540;2;8088,579304;1;2;4;Distribuidores Regionales;24674,3675;32762,9467;Asfalto;5_Guanacaste
+420;155;50480;2;10768,74876;1;2;1;Distribuidores Regionales;0;10768,7488;Asfalto;5_Guanacaste
+421;155;50511;2;8203,84594;1;2;2;Distribuidores Regionales;10768,7488;18972,5947;Asfalto;5_Guanacaste
+422;155;50512;2;5701,772739;1;2;3;Distribuidores Regionales;18972,5947;24674,3675;Asfalto;5_Guanacaste
+423;156;21450;2;632,4514765;1;2;1;Distribuidores Regionales;0;632,4515;Asfalto;2_Alajuela
+424;157;50220;2;8929,143347;1;1;1;Red Basica de Acceso;0;8929,1433;Asfalto;5_Guanacaste
+425;158;50683;2;17041,82178;1;1;4;Distribuidores Regionales;22029,0634;39681,2188;Asfalto;5_Guanacaste
+426;158;50660;2;6145,022623;1;1;1;Distribuidores Regionales;0;6145,0226;Asfalto;5_Guanacaste
+427;158;50681;2;4424,403164;1;1;2;Distribuidores Regionales;6145,0226;10569,4258;TS;5_Guanacaste
+428;159;50431;2;7910,31367;1;2;1;Conectores de Integracion Territorial;0;7910,3136;TS;5_Guanacaste
+429;159;50432;2;2957,869483;1;2;2;Conectores de Integracion Territorial;7910,3136;10868,1832;TS;5_Guanacaste
+430;160;60790;2;15459,42196;1;2;1;Distribuidores Regionales;0;15459,4219;Lastre;6_Puntarenas
+431;160;50230;2;15913,23776;1;2;23;Distribuidores Regionales;212451,1388;228364,3766;Asfalto;5_Guanacaste
+432;160;60800;2;8647,884371;1;2;2;Distribuidores Regionales;15459,4219;24107,3063;Asfalto;6_Puntarenas
+433;160;60811;2;9654,566801;1;2;3;Distribuidores Regionales;24107,3063;33761,8732;TS;6_Puntarenas
+434;160;60812;2;11848,69906;1;2;4;Distribuidores Regionales;33761,8732;45610,5722;TS;6_Puntarenas
+435;160;60813;2;11667,94652;1;2;5;Distribuidores Regionales;45610,5722;57278,5187;TS;6_Puntarenas
+436;160;60872;2;5914,468955;1;2;7;Distribuidores Regionales;63269,4843;69183,9533;Lastre;6_Puntarenas
+437;160;60873;2;6465,020494;1;2;8;Distribuidores Regionales;69183,9533;75648,9738;Lastre;6_Puntarenas
+438;160;60874;2;3399,83273;1;2;9;Distribuidores Regionales;75648,9738;79048,8065;Lastre;6_Puntarenas
+439;160;50610;2;12694,44433;1;2;10;Distribuidores Regionales;79048,8065;91743,2508;Lastre;5_Guanacaste
+440;160;50621;2;18687,77691;1;2;11;Distribuidores Regionales;91743,2508;110431,0277;Lastre;5_Guanacaste
+441;160;50622;2;6467,127434;1;2;12;Distribuidores Regionales;110431,0277;116898,1552;Lastre;5_Guanacaste
+442;160;50623;2;6346,85376;1;2;13;Distribuidores Regionales;116898,1552;123245,0089;Lastre;5_Guanacaste
+443;160;50600;2;4775,733469;1;2;15;Distribuidores Regionales;132119,0039;136894,7374;Asfalto;5_Guanacaste
+444;160;50592;2;15450,56307;1;2;17;Distribuidores Regionales;147444,8393;162893,2235;Lastre;5_Guanacaste
+445;160;50580;2;4171,286296;1;2;18;Distribuidores Regionales;162893,2235;167064,5098;Lastre;5_Guanacaste
+446;160;50573;2;11231,59641;1;2;19;Distribuidores Regionales;167064,5098;178296,1061;Lastre;5_Guanacaste
+447;160;50572;2;7879,378555;1;2;20;Distribuidores Regionales;178296,1061;186175,4847;Lastre;5_Guanacaste
+448;160;50571;2;17563,73242;1;2;21;Distribuidores Regionales;186175,4847;203739,2172;Lastre;5_Guanacaste
+449;160;50560;2;8711,921678;1;2;22;Distribuidores Regionales;203739,2172;212451,1388;TS;5_Guanacaste
+450;161;51000;2;5079,354871;1;2;1;Conectores de Integracion Territorial;0;5079,3549;TS;5_Guanacaste
+451;163;50720;2;11521,12891;1;2;4;Distribuidores Regionales;24090,6166;35611,7455;Lastre;5_Guanacaste
+452;163;60922;2;14239,37538;1;2;2;Distribuidores Regionales;5474,2257;19713,6012;Lastre;6_Puntarenas
+453;163;50710;2;4377,015377;1;2;3;Distribuidores Regionales;19713,6012;24090,6166;Lastre;5_Guanacaste
+454;164;21232;2;13064,96999;1;2;5;Conectores de Integracion Territorial;41066,9201;54131,8901;Lastre;2_Alajuela
+455;164;50391;2;14847,72728;1;2;1;Conectores de Integracion Territorial;0;14847,7272;Asfalto;5_Guanacaste
+456;164;50392;2;9433,058544;1;2;2;Conectores de Integracion Territorial;14847,7272;24280,7858;TS;5_Guanacaste
+457;164;50400;2;6449,818136;1;2;3;Conectores de Integracion Territorial;24280,7858;30730,6039;TS;5_Guanacaste
+458;164;21231;2;10336,31618;1;2;4;Conectores de Integracion Territorial;30730,6039;41066,9201;Asfalto;2_Alajuela
+459;164;21234;2;6683,208926;1;2;7;Conectores de Integracion Territorial;59206,123;65889,3319;Lastre;2_Alajuela
+460;164;21233;2;5074,23285;1;2;6;Conectores de Integracion Territorial;54131,8901;59206,123;Lastre;2_Alajuela
+461;165;50912;2;7458,242826;1;2;2;Red Basica de Acceso;6683,268;14141,5108;Asfalto;5_Guanacaste
+462;165;50911;2;6683,267931;1;2;1;Red Basica de Acceso;0;6683,268;TS;5_Guanacaste
+463;167;19125;2;1096,918186;1;2;1;Sin clasificar;0;1096,9183;Asfalto;1_San Jose
+464;167;19082;2;838,5686177;1;2;3;Conectores de Integracion Territorial;4011,536;4850,1046;Asfalto;1_San Jose
+465;168;61000;2;3811,597622;1;2;1;Red Basica de Acceso;0;3811,5976;Asfalto;6_Puntarenas
+466;169;20330;2;3348,971946;1;2;1;Red Basica de Acceso;0;3348,972;TS;2_Alajuela
+467;169;21740;2;2276,631532;1;2;2;Red Basica de Acceso;3348,972;5625,6035;TS;2_Alajuela
+468;17;60622;2;4658,318586;1;1;3;Conectores de Integracion Territorial;8350,7585;13009,0771;Asfalto;6_Puntarenas
+469;17;60190;2;4613,55122;1;1;1;Conectores de Integracion Territorial;0;4613,5512;Asfalto;6_Puntarenas
+470;17;60621;2;3737,207269;1;1;2;Conectores de Integracion Territorial;4613,5512;8350,7585;Asfalto;6_Puntarenas
+471;17;60623;2;3787,157126;1;1;4;Conectores de Integracion Territorial;13009,0771;16796,2342;TS;6_Puntarenas
+472;171;40490;2;3885,539849;1;3;1;Conectores de Integracion Territorial;0;3885,5398;Asfalto;4_Heredia
+473;174;19115;2;1346,404818;1;2;1;Red Basica de Acceso;0;1346,4048;TS;1_San Jose
+474;177;19124;2;1740,489754;1;2;5;Conectores de Integracion Territorial;3359,9672;5100,4569;Asfalto;1_San Jose
+475;177;19121;2;788,4417076;1;2;1;Red Basica de Acceso;0;788,4417;Asfalto;1_San Jose
+476;177;19122;2;1197,751467;1;2;2;Sin clasificar;788,4417;1986,1932;Asfalto;1_San Jose
+477;177;19130;2;531,8761411;1;2;3;Sin clasificar;1986,1932;2518,0693;Asfalto;1_San Jose
+478;177;19123;2;841,897858;1;2;4;Conectores de Integracion Territorial;2518,0693;3359,9672;Asfalto;1_San Jose
+479;18;50742;2;14077,59873;4;1;4;Distribuidores Regionales;35140,0155;49217,6142;Asfalto;5_Guanacaste
+480;18;51110;2;7616,140276;1;1;2;Distribuidores Regionales;20946,3594;28562,4997;Asfalto;5_Guanacaste
+481;18;50741;2;6577,515791;1;1;3;Distribuidores Regionales;28562,4997;35140,0155;Asfalto;5_Guanacaste
+482;180;50522;2;5857,65425;1;1;2;Distribuidores Regionales;5558,1012;11415,7554;Asfalto;5_Guanacaste
+483;180;50521;2;5558,101176;1;1;1;Distribuidores Regionales;0;5558,1012;TS;5_Guanacaste
+484;236;30052;2;1874,72174;1;1;2;Distribuidores Regionales;1746,9828;3621,7047;Asfalto;3_Cartago
+485;236;30051;2;1746,982854;1;1;1;Distribuidores Regionales;0;1746,9828;Asfalto;3_Cartago
+486;236;30180;2;503,1654276;1;1;3;Distribuidores Regionales;3621,7047;4124,8701;Asfalto;3_Cartago
+487;235;60461;2;4052,909042;1;1;2;Conectores de Integracion Territorial;3070,6263;7123,5354;Asfalto;6_Puntarenas
+488;235;60462;2;3070,626332;1;1;1;Conectores de Integracion Territorial;0;3070,6263;Asfalto;6_Puntarenas
+489;234;70230;2;9698,058714;1;1;1;Red Basica de Acceso;0;9698,0587;Asfalto;7_Limon
+490;233;30610;2;1675,065323;1;1;2;Conectores de Integracion Territorial;746,624;2421,6893;Asfalto;3_Cartago
+491;233;30260;2;746,6239752;1;1;1;Conectores de Integracion Territorial;0;746,624;Asfalto;3_Cartago
+492;232;30130;2;5780,054987;1;1;1;Conectores de Integracion Territorial;0;5780,055;TS;3_Cartago
+493;231;30290;2;4978,559783;1;1;1;Red Basica de Acceso;0;4978,5598;Asfalto;3_Cartago
+494;230;30652;2;10556,89043;1;1;6;Distribuidores Regionales;26033,0946;36589,9851;TS;3_Cartago
+495;230;30230;2;7649,065237;1;1;1;Distribuidores Regionales;0;7649,0652;Asfalto;3_Cartago
+496;230;30640;2;3128,50011;1;1;2;Distribuidores Regionales;7649,0652;10777,5653;Asfalto;3_Cartago
+497;230;30220;2;4477,542217;1;1;3;Distribuidores Regionales;10777,5653;15255,1075;TS;3_Cartago
+498;230;30210;2;4845,344829;1;1;4;Distribuidores Regionales;15255,1075;20100,4524;TS;3_Cartago
+499;230;30651;2;5932,642174;1;1;5;Distribuidores Regionales;20100,4524;26033,0946;TS;3_Cartago
+500;230;30653;2;2808,101755;1;1;7;Distribuidores Regionales;36589,9851;39398,0868;Asfalto;3_Cartago
+501;23;60840;2;6450,949356;1;1;2;Alta Capacidad;6101,7012;12551,8113;Asfalto;6_Puntarenas
+502;23;60610;2;6101,701303;1;1;1;Alta Capacidad;0;6101,7012;Asfalto;6_Puntarenas
+503;229;40571;2;14561,94114;1;1;1;Red Basica de Acceso;0;14561,9411;Asfalto;4_Heredia
+504;229;40572;2;6105,787306;1;1;2;Red Basica de Acceso;14561,9411;20667,7284;TS;4_Heredia
+505;228;30551;2;9184,436469;1;1;6;Distribuidores Regionales;12571,6464;21756,0829;Asfalto;3_Cartago
+506;228;30310;2;1740,80851;1;1;1;Conectores de Integracion Territorial;0;1740,8085;Asfalto;3_Cartago
+507;228;30320;2;2997,490737;1;1;2;Distribuidores Regionales;1740,8085;4738,2993;Asfalto;3_Cartago
+508;228;30540;2;4165,46444;1;1;3;Distribuidores Regionales;4738,2993;8903,7638;Asfalto;3_Cartago
+509;228;30660;2;1769,757735;1;1;4;Distribuidores Regionales;8903,7638;10673,5215;TS;3_Cartago
+510;228;30670;2;1898,124981;1;1;5;Distribuidores Regionales;10673,5215;12571,6464;TS;3_Cartago
+511;228;30552;2;4609,723692;1;1;7;Distribuidores Regionales;21756,0829;26365,8066;Asfalto;3_Cartago
+512;227;21192;2;10830,81109;1;1;2;Conectores de Integracion Territorial;17008,3245;27839,1356;Lastre;2_Alajuela
+513;227;21191;2;17008,32444;1;1;1;Conectores de Integracion Territorial;0;17008,3245;Lastre;2_Alajuela
+514;227;21193;2;8518,828455;1;1;3;Red Basica de Acceso;27839,1356;36357,964;Lastre;2_Alajuela
+515;226;10152;2;15288,12262;1;1;6;Conectores de Integracion Territorial;23588,0991;38876,2217;Asfalto;1_San Jose
+516;226;10130;2;15447,44685;1;1;2;Conectores de Integracion Territorial;523,6217;15971,0686;Asfalto;1_San Jose
+517;226;10141;2;3806,22525;1;1;3;Conectores de Integracion Territorial;15971,0686;19777,2938;Asfalto;1_San Jose
+518;226;10142;2;2556,148044;1;1;4;Conectores de Integracion Territorial;19777,2938;22333,4419;Asfalto;1_San Jose
+519;226;10151;2;1254,657219;1;1;5;Conectores de Integracion Territorial;22333,4419;23588,0991;Asfalto;1_San Jose
+520;226;11280;2;1672,253838;1;1;7;Conectores de Integracion Territorial;38876,2217;40548,4756;TS;1_San Jose
+521;226;11270;2;523,6217391;1;1;1;Conectores de Integracion Territorial;0;523,6217;Asfalto;1_San Jose
+522;225;30143;2;4244,067147;1;1;5;Conectores de Integracion Territorial;23078,4476;27322,5148;TS;3_Cartago
+523;225;30151;2;3945,802881;1;1;1;Conectores de Integracion Territorial;0;3945,8029;TS;3_Cartago
+524;225;30152;2;5374,946781;1;1;2;Conectores de Integracion Territorial;3945,8029;9320,7497;TS;3_Cartago
+525;225;30141;2;5926,097929;1;1;3;Conectores de Integracion Territorial;9320,7497;15246,8476;TS;3_Cartago
+526;225;30142;2;7831,600052;1;1;4;Conectores de Integracion Territorial;15246,8476;23078,4476;TS;3_Cartago
+527;225;30580;2;4212,22623;1;1;6;Conectores de Integracion Territorial;27322,5148;31534,741;TS;3_Cartago
+528;224;30162;2;5400,106847;1;1;8;Distribuidores Regionales;26034,7658;31434,8727;Asfalto;3_Cartago
+529;224;30440;2;4445,291746;1;1;1;Conectores de Integracion Territorial;0;4445,2917;Asfalto;3_Cartago
+530;224;30620;2;998,6527495;1;1;2;Conectores de Integracion Territorial;4445,2917;5443,9445;Asfalto;3_Cartago
+531;224;30450;2;5931,773959;1;1;3;Conectores de Integracion Territorial;5443,9445;11375,7184;Asfalto;3_Cartago
+532;224;30461;2;1116,322738;1;1;4;Conectores de Integracion Territorial;11375,7184;12492,0412;TS;3_Cartago
+533;224;30462;2;8542,587213;1;1;5;Conectores de Integracion Territorial;12492,0412;21034,6284;Asfalto;3_Cartago
+534;224;30463;2;1429,289267;1;1;6;Conectores de Integracion Territorial;21034,6284;22463,9177;TS;3_Cartago
+535;224;30161;2;3570,848168;1;1;7;Conectores de Integracion Territorial;22463,9177;26034,7658;TS;3_Cartago
+536;223;60402;2;8172,32933;1;2;2;Red Basica de Acceso;7209,5782;15381,9075;Asfalto;6_Puntarenas
+537;223;60401;2;7209,578124;1;2;1;Red Basica de Acceso;0;7209,5782;Asfalto;6_Puntarenas
+538;222;10182;2;10119,6704;1;2;5;Distribuidores Regionales;16560,8178;26680,4883;Asfalto;1_San Jose
+539;222;10190;2;4433,59783;1;2;1;Distribuidores Regionales;0;4433,5978;Asfalto;1_San Jose
+540;222;11130;2;3402,038301;1;2;2;Distribuidores Regionales;4433,5978;7835,6361;TS;1_San Jose
+541;222;30080;2;4937,49562;1;2;3;Distribuidores Regionales;7835,6361;12773,1317;Asfalto;3_Cartago
+542;222;10181;2;3787,686162;1;2;4;Distribuidores Regionales;12773,1317;16560,8178;Asfalto;1_San Jose
+543;221;10320;2;4291,206992;1;2;1;Conectores de Integracion Territorial;0;4291,207;Asfalto;1_San Jose
+544;221;30340;2;3649,446484;1;2;2;Distribuidores Regionales;4291,207;7940,6535;Asfalto;3_Cartago
+545;220;40270;2;2859,578985;1;2;3;Red Basica de Acceso;4533,1469;7392,7259;Asfalto;4_Heredia
+546;220;10400;2;2956,19838;1;2;1;Conectores de Integracion Territorial;0;2956,1984;Asfalto;1_San Jose
+547;220;40020;2;1576,948568;1;2;2;Red Basica de Acceso;2956,1984;4533,1469;TS;4_Heredia
+548;22;10870;2;2243,520481;1;1;1;Distribuidores Regionales;0;2243,5204;Asfalto;1_San Jose
+549;22;10760;2;1733,792804;1;1;2;Distribuidores Regionales;2243,5204;3977,3133;Asfalto;1_San Jose
+550;219;30250;2;12668,53854;1;2;4;Conectores de Integracion Territorial;13267,0554;25935,594;Asfalto;3_Cartago
+551;219;30240;2;4076,230539;1;2;1;Distribuidores Regionales;0;4076,2305;Asfalto;3_Cartago
+552;219;30491;2;4424,703631;1;2;2;Distribuidores Regionales;4076,2305;8500,9342;Asfalto;3_Cartago
+553;219;30492;2;4766,121199;1;2;3;Distribuidores Regionales;8500,9342;13267,0554;Asfalto;3_Cartago
+554;219;30500;2;4976,799246;1;2;5;Conectores de Integracion Territorial;25935,594;30912,3931;Asfalto;3_Cartago
+555;219;30510;2;1538,897483;1;2;6;Red Basica de Acceso;30912,3931;32451,2906;Asfalto;3_Cartago
+556;218;30280;2;7515,804637;1;2;8;Distribuidores Regionales;24952,9192;32468,7239;Asfalto;3_Cartago
+557;218;19063;2;1173,193355;1;2;1;Red Basica de Acceso;0;1173,1933;Asfalto;1_San Jose
+558;218;19064;2;2297,67821;1;2;2;Red Basica de Acceso;1173,1933;3470,8716;Asfalto;1_San Jose
+559;218;19065;2;3608,937151;1;2;3;Distribuidores Regionales;3470,8716;7079,8087;Concreto;1_San Jose
+560;218;10341;2;3301,406708;1;2;4;Distribuidores Regionales;7079,8087;10381,2154;Asfalto;1_San Jose
+561;218;10342;2;7843,134744;1;2;5;Distribuidores Regionales;10381,2154;18224,3501;Asfalto;1_San Jose
+562;218;10350;2;2980,036204;1;2;6;Distribuidores Regionales;18224,3501;21204,3864;TS;1_San Jose
+563;218;30270;2;3748,532849;1;2;7;Distribuidores Regionales;21204,3864;24952,9192;TS;3_Cartago
+564;217;11310;2;2942,674872;1;2;3;Red Basica de Acceso;4469,6501;7412,3249;TS;1_San Jose
+565;217;10220;2;3282,214861;1;2;1;Red Basica de Acceso;0;3282,2149;Asfalto;1_San Jose
+566;217;11300;2;1187,435207;1;2;2;Red Basica de Acceso;3282,2149;4469,6501;Asfalto;1_San Jose
+567;216;10380;2;4212,833785;1;2;4;Red Basica de Acceso;8533,8874;12746,7212;Asfalto;1_San Jose
+568;216;10360;2;1832,616565;1;2;1;Conectores de Integracion Territorial;0;1832,6165;Asfalto;1_San Jose
+569;216;10371;2;2710,324153;1;2;2;Red Basica de Acceso;1832,6165;4542,9407;Asfalto;1_San Jose
+570;216;10372;2;3990,94668;1;2;3;Red Basica de Acceso;4542,9407;8533,8874;Asfalto;1_San Jose
+571;215;19079;1;1234,227202;3;2;6;Distribuidores Regionales;0;1234,2271;Asfalto;1_San Jose
+572;215;19062;0;2486,120804;2;2;5;Distribuidores Regionales;4130,6712;6616,792;Asfalto;1_San Jose
+573;215;19126;0;435,3874016;1;2;1;Sin clasificar;0;435,3874;Asfalto;1_San Jose
+574;215;19127;0;983,3332763;2;2;2;Red Basica de Acceso;435,3874;1418,7207;Asfalto;1_San Jose
+575;215;19061;0;1667,801905;2;2;3;Red Basica de Acceso;1418,7207;3086,5226;Asfalto;1_San Jose
+576;215;19069;0;1044,148594;2;2;4;Distribuidores Regionales;3086,5226;4130,6712;Asfalto;1_San Jose
+577;214;19060;2;2096,483861;1;2;3;Conectores de Integracion Territorial;4629,861;6726,3448;Asfalto;1_San Jose
+578;214;19059;2;3118,214169;1;2;1;Red Basica de Acceso;0;3118,2142;Asfalto;1_San Jose
+579;214;19058;2;1511,646798;1;2;2;Conectores de Integracion Territorial;3118,2142;4629,861;Asfalto;1_San Jose
+580;213;19057;2;2144,899996;1;2;1;Red Basica de Acceso;0;2144,8999;Asfalto;1_San Jose
+581;213;19083;2;1229,430624;1;2;2;Conectores de Integracion Territorial;2144,8999;3374,3306;Asfalto;1_San Jose
+582;212;10271;2;2502,810934;1;2;2;Red Basica de Acceso;0;2502,8109;Asfalto;1_San Jose
+583;212;10272;2;2146,431303;1;2;2;Red Basica de Acceso;2502,8109;4649,2422;TS;1_San Jose
+584;211;19084;2;262,2657939;1;4;2;Conectores de Integracion Territorial;2806,8752;3069,1411;Concreto;1_San Jose
+585;210;19054;2;2113,875316;1;2;1;Distribuidores Regionales;0;2113,8752;Asfalto;1_San Jose
+586;210;19055;2;1864,907111;1;2;2;Distribuidores Regionales;2113,8752;3978,7824;Asfalto;1_San Jose
+587;21;60762;2;10499,31426;1;1;15;Distribuidores Regionales;126000,3234;136499,6376;Asfalto;6_Puntarenas
+588;21;50081;2;9993,628169;1;1;1;Distribuidores Regionales;0;9993,6282;Asfalto;5_Guanacaste
+589;21;50082;2;8218,374525;1;1;2;Distribuidores Regionales;9993,6282;18212,0026;Asfalto;5_Guanacaste
+590;21;50091;2;14423,9334;1;1;3;Distribuidores Regionales;18212,0026;32635,9361;Asfalto;5_Guanacaste
+591;21;50092;2;5530,246395;1;1;4;Distribuidores Regionales;32635,9361;38166,1825;Asfalto;5_Guanacaste
+592;21;50093;2;6583,206268;1;1;5;Distribuidores Regionales;38166,1825;44749,3888;Asfalto;5_Guanacaste
+593;21;50100;2;10091,75893;1;1;6;Distribuidores Regionales;44749,3888;54841,1478;Asfalto;5_Guanacaste
+594;21;50120;2;9999,72146;1;1;7;Distribuidores Regionales;54841,1478;64840,8692;Asfalto;5_Guanacaste
+595;21;50131;2;11483,28075;1;1;8;Distribuidores Regionales;64840,8692;76324,1499;Asfalto;5_Guanacaste
+596;21;50132;2;12677,73809;1;1;9;Distribuidores Regionales;76324,1499;89001,888;Asfalto;5_Guanacaste
+597;21;50160;2;12483,60346;1;1;10;Distribuidores Regionales;89001,888;101485,4915;Asfalto;5_Guanacaste
+598;21;50270;2;2476,212813;1;1;11;Distribuidores Regionales;101485,4915;103961,7042;Asfalto;5_Guanacaste
+599;21;50731;2;8653,048509;1;1;12;Distribuidores Regionales;103961,7042;112614,7528;TS;5_Guanacaste
+600;21;50732;2;4445,021478;1;1;13;Distribuidores Regionales;112614,7528;117059,7743;TS;5_Guanacaste
+601;21;60761;2;8940,549126;1;1;14;Distribuidores Regionales;117059,7743;126000,3234;Asfalto;6_Puntarenas
+602;21;60780;2;9010,736736;1;1;16;Distribuidores Regionales;136499,6376;145510,3744;TS;6_Puntarenas
+603;209;10690;2;7517,222287;1;1;13;Distribuidores Regionales;38802,3652;46319,5874;Asfalto;1_San Jose
+604;209;19052;2;1057,038074;1;2;1;Distribuidores Regionales;0;1057,0381;Asfalto;1_San Jose
+605;209;19053;2;959,6324209;1;2;2;Distribuidores Regionales;1057,0381;2016,6705;Asfalto;1_San Jose
+606;209;19070;2;1315,205704;1;2;3;Distribuidores Regionales;2016,6705;3331,8762;Asfalto;1_San Jose
+607;209;10211;2;1342,80555;1;3;4;Conectores de Integracion Territorial;3331,8762;4674,6817;Asfalto;1_San Jose
+608;209;10212;2;2230,463769;1;1;5;Conectores de Integracion Territorial;4674,6817;6905,1455;Asfalto;1_San Jose
+609;209;11200;2;1809,867387;1;1;6;Conectores de Integracion Territorial;6905,1455;8715,0129;Asfalto;1_San Jose
+610;209;10201;2;8215,404371;1;1;7;Conectores de Integracion Territorial;8715,0129;16930,4172;Asfalto;1_San Jose
+611;209;10202;2;7151,079547;1;1;8;Distribuidores Regionales;16930,4172;24081,4968;Asfalto;1_San Jose
+612;209;11211;2;2734,65731;1;1;9;Distribuidores Regionales;24081,4968;26816,1541;Asfalto;1_San Jose
+613;209;11212;2;2455,532388;1;1;10;Distribuidores Regionales;26816,1541;29271,6865;Asfalto;1_San Jose
+614;209;10700;2;8306,075657;1;1;11;Distribuidores Regionales;29271,6865;37577,7622;Asfalto;1_San Jose
+615;209;11220;2;1224,603018;1;1;12;Distribuidores Regionales;37577,7622;38802,3652;Asfalto;1_San Jose
+616;207;19050;2;1048,262987;1;2;2;Conectores de Integracion Territorial;819,3183;1867,5813;Asfalto;1_San Jose
+617;207;19049;2;819,3182717;1;1;1;Distribuidores Regionales;0;819,3183;Asfalto;1_San Jose
+618;206;10230;2;6518,608444;1;1;3;Conectores de Integracion Territorial;3992,6138;10511,2223;Asfalto;1_San Jose
+619;206;10241;2;2913,322758;1;1;1;Conectores de Integracion Territorial;0;2913,3228;Asfalto;1_San Jose
+620;206;10242;2;1079,29106;1;1;2;Conectores de Integracion Territorial;2913,3228;3992,6138;Asfalto;1_San Jose
+621;205;10281;2;2786,663821;1;1;2;Conectores de Integracion Territorial;3248,3682;6035,032;Asfalto;1_San Jose
+622;205;19048;2;3248,368192;1;3;1;Conectores de Integracion Territorial;0;3248,3682;Asfalto;1_San Jose
+623;205;10282;2;630,3985298;1;1;3;Conectores de Integracion Territorial;6035,032;6665,4305;TS;1_San Jose
+624;204;19046;2;2272,434464;1;3;1;Red Basica de Acceso;0;2272,4345;Asfalto;1_San Jose
+625;204;19047;2;1093,839476;1;2;2;Conectores de Integracion Territorial;2272,4345;3366,2739;Concreto;1_San Jose
+626;203;19044;2;3614,670061;1;1;1;Conectores de Integracion Territorial;0;3614,6701;Asfalto;1_San Jose
+627;202;30333;2;3613,059282;1;1;5;Red Basica de Acceso;9744,1722;13357,2316;Asfalto;3_Cartago
+628;202;19043;2;3934,05241;1;3;1;Distribuidores Regionales;0;3934,0525;Asfalto;1_San Jose
+629;202;11350;2;1678,568353;1;1;2;Distribuidores Regionales;3934,0525;5612,6208;Asfalto;1_San Jose
+630;202;30331;2;1757,424551;1;1;3;Red Basica de Acceso;5612,6208;7370,0453;Asfalto;3_Cartago
+631;202;30332;2;2374,126954;1;1;4;Red Basica de Acceso;7370,0453;9744,1722;Asfalto;3_Cartago
+632;201;19041;2;1287,863554;1;1;2;Red Basica de Acceso;376,434;1664,2976;Asfalto;1_San Jose
+633;201;19075;2;376,43401;1;1;1;Red Basica de Acceso;0;376,434;Asfalto;1_San Jose
+634;200;19040;2;878,9436541;1;2;2;Distribuidores Regionales;548,2164;1427,16;Asfalto;1_San Jose
+635;200;19076;2;548,216364;1;3;1;Distribuidores Regionales;0;548,2164;Asfalto;1_San Jose
+636;2;60001;0;17662,09194;1;1;33;Alta Capacidad;331771,3301;349393,0502;Asfalto;6_Puntarenas
+637;2;19001;0;2181,973196;1;5;1;Alta Capacidad;0;2181,9733;Asfalto;1_San Jose
+638;2;19004;0;1977,261139;1;2;2;Alta Capacidad;2181,9733;4159,2344;Asfalto;1_San Jose
+639;2;19005;0;2070,633231;1;2;3;Alta Capacidad;4159,2344;6229,8676;Asfalto;1_San Jose
+640;2;19006;0;2272,673825;1;2;4;Alta Capacidad;6229,8676;8502,5414;Asfalto;1_San Jose
+641;2;10250;0;1714,416991;1;2;5;Alta Capacidad;8502,5414;10216,9584;Asfalto;1_San Jose
+642;2;30600;0;5123,964738;1;2;6;Alta Capacidad;10216,9584;15340,9231;Asfalto;3_Cartago
+643;2;30110;0;2147,995238;1;2;7;Alta Capacidad;15340,9231;17488,9184;Asfalto;3_Cartago
+644;2;30101;0;2031,551641;1;2;11;Alta Capacidad;20747,3427;22778,8943;Asfalto;3_Cartago
+645;2;30102;0;2486,323321;1;2;12;Alta Capacidad;22778,8943;25265,2177;Asfalto;3_Cartago
+646;2;30090;0;15242,05506;1;1;13;Alta Capacidad;25265,2177;40507,2727;Asfalto;3_Cartago
+647;2;10041;0;4664,023914;1;1;14;Alta Capacidad;40507,2727;45171,2966;Asfalto;1_San Jose
+648;2;10042;0;7119,737596;1;1;15;Alta Capacidad;45171,2966;52291,0342;Asfalto;1_San Jose
+649;2;30690;0;24947,71209;1;1;16;Alta Capacidad;52291,0342;77238,7464;Asfalto;3_Cartago
+650;2;10030;0;12121,55919;1;1;17;Alta Capacidad;77238,7464;89360,3055;Asfalto;1_San Jose
+651;2;30680;0;9440,093496;1;1;18;Alta Capacidad;89360,3055;98800,3989;Asfalto;3_Cartago
+652;2;10020;0;26087,43462;1;1;19;Alta Capacidad;98800,3989;124887,8336;Asfalto;1_San Jose
+653;2;10010;0;10250,48009;1;4;20;Alta Capacidad;124887,8336;135138,3137;Asfalto;1_San Jose
+654;2;10003;0;7898,059059;1;4;21;Alta Capacidad;135138,3137;143036,3727;Asfalto;1_San Jose
+655;2;10002;0;6864,679886;1;4;22;Alta Capacidad;143036,3727;149901,0527;Asfalto;1_San Jose
+656;2;10001;0;17886,59606;1;4;23;Alta Capacidad;149901,0527;167787,6487;Asfalto;1_San Jose
+657;2;60060;0;29254,82429;1;1;24;Alta Capacidad;167787,6487;197042,473;Asfalto;6_Puntarenas
+658;2;60052;0;24159,29356;1;1;25;Alta Capacidad;197042,473;221201,7666;Asfalto;6_Puntarenas
+659;2;60051;0;24973,17758;1;1;26;Distribuidores Regionales;221201,7666;246174,9441;Asfalto;6_Puntarenas
+660;2;60040;0;10463,12324;1;1;27;Distribuidores Regionales;246174,9441;256638,0674;Asfalto;6_Puntarenas
+661;2;60030;0;32230,60414;1;1;28;Alta Capacidad;256638,0674;288868,6715;Asfalto;6_Puntarenas
+662;2;60020;0;11104,74401;1;1;29;Alta Capacidad;288868,6715;299973,4155;Asfalto;6_Puntarenas
+663;2;60012;0;16313,63841;1;1;30;Alta Capacidad;299973,4155;316287,054;Asfalto;6_Puntarenas
+664;2;60011;0;7500,4691;1;1;31;Alta Capacidad;316287,054;323787,523;Asfalto;6_Puntarenas
+665;2;60002;0;7983,807046;1;1;32;Alta Capacidad;323787,523;331771,3301;Asfalto;6_Puntarenas
+666;2;30600;1;5106,588464;2;2;6;Alta Capacidad;7679,5635;12786,1519;Asfalto;3_Cartago
+667;2;30101;1;1825,171571;2;2;11;Alta Capacidad;0;1825,1715;Asfalto;3_Cartago
+668;2;30740;1;3540,204199;2;2;9;Alta Capacidad;1825,1715;5365,3758;Asfalto;3_Cartago
+669;2;30750;1;2314,187701;2;2;10;Alta Capacidad;5365,3758;7679,5635;Asfalto;3_Cartago
+670;2;10250;1;1640,633138;2;2;5;Alta Capacidad;12786,1519;14426,7851;Asfalto;1_San Jose
+671;417;30772;2;5393,369123;1;1;4;Red Basica de Acceso;10580,235;15973,6041;Lastre;3_Cartago
+672;417;30762;2;3504,999835;1;1;2;Red Basica de Acceso;4333,2106;7838,2104;Lastre;3_Cartago
+673;417;30771;2;2742,024584;1;1;3;Red Basica de Acceso;7838,2104;10580,235;Lastre;3_Cartago
+674;416;30200;2;1487,947003;1;1;1;Red Basica de Acceso;0;1487,947;Lastre;3_Cartago
+675;415;70432;2;10720,86156;1;1;5;Conectores de Integracion Territorial;31574,9676;42295,8292;Asfalto;7_Limon
+676;415;30391;2;3849,954796;1;1;1;Conectores de Integracion Territorial;0;3849,9548;Asfalto;3_Cartago
+677;415;30392;2;14485,95898;1;1;2;Conectores de Integracion Territorial;3849,9548;18335,9138;TS;3_Cartago
+678;415;30400;2;7054,975481;1;1;3;Conectores de Integracion Territorial;18335,9138;25390,8893;TS;3_Cartago
+679;415;70431;2;6184,078338;1;1;4;Conectores de Integracion Territorial;25390,8893;31574,9676;Asfalto;7_Limon
+680;415;70310;2;6866,474362;1;1;6;Conectores de Integracion Territorial;42295,8292;49162,3035;Asfalto;7_Limon
+681;414;30382;2;11671,46884;1;2;3;Red Basica de Acceso;17717,1823;29388,6512;Lastre;3_Cartago
+682;414;30370;2;8727,988366;1;2;1;Red Basica de Acceso;0;8727,9884;Asfalto;3_Cartago
+683;413;30352;2;10382,43213;1;2;2;Red Basica de Acceso;10355,8655;20738,2976;Asfalto;3_Cartago
+684;413;30351;2;10355,86547;1;2;1;Red Basica de Acceso;0;10355,8655;Lastre;3_Cartago
+685;411;30032;2;6270,708711;1;2;2;Red Basica de Acceso;4331,2497;10601,9583;Lastre;3_Cartago
+686;411;30031;2;4331,24962;1;2;1;Red Basica de Acceso;0;4331,2497;TS;3_Cartago
+687;411;30033;2;2056,493047;1;2;3;Red Basica de Acceso;10601,9583;12658,4514;TS;3_Cartago
+688;409;30171;2;5260,873092;1;2;2;Red Basica de Acceso;1146,5333;6407,4063;Asfalto;3_Cartago
+689;409;10710;2;1146,533233;1;2;1;Red Basica de Acceso;0;1146,5333;Asfalto;1_San Jose
+690;409;30172;2;2221,229308;1;2;3;Red Basica de Acceso;6407,4063;8628,6356;Asfalto;3_Cartago
+691;408;30702;2;7085,149111;1;2;4;Red Basica de Acceso;16391,3305;23476,4797;Lastre;3_Cartago
+692;408;30362;2;6471,551563;1;2;2;Red Basica de Acceso;4122,5836;10594,1352;Lastre;3_Cartago
+693;408;30701;2;5797,195328;1;1;3;Red Basica de Acceso;10594,1352;16391,3305;Lastre;3_Cartago
+694;408;30703;2;5277,744802;1;2;5;Red Basica de Acceso;23476,4797;28754,2245;Asfalto;3_Cartago
+695;407;30570;2;7087,517876;1;2;1;Red Basica de Acceso;0;6851,3129;TS;3_Cartago
+696;406;10100;2;5898,739822;1;2;1;Red Basica de Acceso;0;5898,7398;TS;1_San Jose
+697;406;30630;2;4930,715128;1;2;2;Red Basica de Acceso;5898,7398;10829,455;TS;3_Cartago
+698;405;30302;2;8489,791424;1;2;1;Red Basica de Acceso;0;8489,7914;Asfalto;3_Cartago
+699;405;30301;2;4916,080574;1;2;2;Red Basica de Acceso;8489,7914;13405,872;Asfalto;3_Cartago
+700;405;30720;2;850,4784039;1;2;3;Red Basica de Acceso;13405,872;14256,3504;TS;3_Cartago
+701;404;30432;2;4547,681352;1;2;2;Distribuidores Regionales;1019,1509;5566,8322;TS;3_Cartago
+702;404;30431;2;1019,150878;1;2;1;Distribuidores Regionales;0;1019,1509;TS;3_Cartago
+703;404;30420;2;3168,15386;1;2;3;Distribuidores Regionales;5566,8322;8734,9861;TS;3_Cartago
+704;403;30410;2;3370,462638;1;2;1;Distribuidores Regionales;0;3370,4626;TS;3_Cartago
+705;402;30530;2;10087,4055;1;2;3;Conectores de Integracion Territorial;10947,9084;21035,3138;TS;3_Cartago
+706;402;30521;2;1024,029561;1;2;1;Red Basica de Acceso;0;1024,0296;TS;3_Cartago
+707;402;30522;2;9923,878741;1;2;2;Red Basica de Acceso;1024,0296;10947,9084;TS;3_Cartago
+708;401;30591;2;4172,545279;1;2;1;Distribuidores Regionales;0;4172,5453;TS;3_Cartago
+709;401;30592;2;849,8569553;1;2;2;Distribuidores Regionales;4172,5453;5022,4022;Asfalto;3_Cartago
+710;401;30710;2;446,530342;1;2;3;Distribuidores Regionales;5022,4022;5468,9326;Asfalto;3_Cartago
+711;4;50280;0;14374,36084;1;1;21;Alta Capacidad;239902,9146;254277,2755;TS;5_Guanacaste
+712;4;70110;0;402,1574619;1;1;1;Alta Capacidad;0;402,1575;Asfalto;7_Limon
+713;4;40521;0;12855,51642;1;1;2;Alta Capacidad;402,1575;13257,6739;Asfalto;4_Heredia
+714;4;40522;0;18023,25488;1;1;3;Alta Capacidad;13257,6739;31280,9288;Asfalto;4_Heredia
+715;4;21001;0;11005,46772;1;1;6;Alta Capacidad;47728,6882;58749,9879;Asfalto;2_Alajuela
+716;4;21011;0;13858,89218;1;1;8;Alta Capacidad;68428,4845;82289,4845;Asfalto;2_Alajuela
+717;4;21012;0;16128,28716;1;1;9;Alta Capacidad;82289,4845;98417,7717;Asfalto;2_Alajuela
+718;4;21351;0;12077,73689;1;1;10;Alta Capacidad;98417,7717;110495,5086;Asfalto;2_Alajuela
+719;4;21352;0;16372,79093;1;1;11;Alta Capacidad;110495,5086;126868,2995;Asfalto;2_Alajuela
+720;4;20721;0;8476,513056;1;1;12;Alta Capacidad;126868,2995;135344,8126;Asfalto;2_Alajuela
+721;4;20722;0;18748,99983;1;1;13;Alta Capacidad;135344,8126;154093,8124;Asfalto;2_Alajuela
+722;4;21021;0;8615,917976;1;1;14;Alta Capacidad;154093,8124;162709,7305;Asfalto;2_Alajuela
+723;4;21022;0;12572,61907;1;1;15;Alta Capacidad;162709,7305;175282,3495;TS;2_Alajuela
+724;4;21023;0;14330,12836;1;1;16;Alta Capacidad;175282,3495;189612,4778;TS;2_Alajuela
+725;4;21024;0;17742,07212;1;1;17;Alta Capacidad;189612,4778;207354,55;TS;2_Alajuela
+726;4;21025;0;11962,61805;1;1;18;Alta Capacidad;207354,55;219317,168;Lastre;2_Alajuela
+727;4;50300;0;8742,188136;1;1;19;Alta Capacidad;219317,168;228059,3561;Lastre;5_Guanacaste
+728;4;50290;0;11843,55847;1;1;20;Alta Capacidad;228059,3561;239902,9146;TS;5_Guanacaste
+729;4;40460;0;11090,29643;1;1;4;Alta Capacidad;31280,9288;42372,0848;Asfalto;4_Heredia
+730;4;40540;0;5355,108275;1;1;5;Alta Capacidad;42372,0848;47728,6882;Asfalto;4_Heredia
+731;4;21002;0;9682,684402;1;1;7;Alta Capacidad;58749,9879;68428,4845;Asfalto;2_Alajuela
+732;4;21001;1;11011,16665;2;1;6;Alta Capacidad;9684,9343;20696,101;Asfalto;2_Alajuela
+733;4;21002;1;9684,934378;2;1;7;Alta Capacidad;0;9684,9343;Asfalto;2_Alajuela
+734;4;40540;1;5354,966567;2;1;5;Alta Capacidad;20696,101;26051,0675;Asfalto;4_Heredia
+735;4;40460;1;441,1765899;2;1;4;Alta Capacidad;26051,0675;26492,2442;Asfalto;4_Heredia
+736;39;19103;0;1152,916183;1;3;15;Alta Capacidad;12659,747;13812,6631;Asfalto;1_San Jose
+737;39;19103;1;1130,963459;2;3;15;Alta Capacidad;913,5041;2044,4675;Asfalto;1_San Jose
+738;39;19090;0;932,9802026;1;3;1;Alta Capacidad;0;932,9802;Asfalto;1_San Jose
+739;39;19090;1;934,1201964;2;3;1;Alta Capacidad;13694,5371;14628,6574;Asfalto;1_San Jose
+740;39;19091;0;874,1562264;1;3;2;Alta Capacidad;932,9802;1807,1364;Asfalto;1_San Jose
+741;39;19091;1;867,2420773;2;3;2;Alta Capacidad;12827,295;13694,5371;Asfalto;1_San Jose
+742;39;19092;0;589,960055;1;3;3;Alta Capacidad;1807,1364;2397,0964;Asfalto;1_San Jose
+743;39;19092;1;579,6714005;2;3;3;Alta Capacidad;12247,6237;12827,295;Asfalto;1_San Jose
+744;39;19093;0;615,7432017;1;3;4;Alta Capacidad;2397,0964;3012,8397;Asfalto;1_San Jose
+745;39;19093;1;617,8537968;2;3;4;Alta Capacidad;11629,7699;12247,6237;Asfalto;1_San Jose
+746;39;19094;1;963,9352508;2;3;5;Alta Capacidad;10665,8346;11629,7699;Asfalto;1_San Jose
+747;39;19094;0;975,2539829;1;3;5;Alta Capacidad;3012,8397;3988,0937;Asfalto;1_San Jose
+748;39;19095;1;1188,17122;2;3;6;Alta Capacidad;9477,6635;10665,8346;Asfalto;1_San Jose
+749;39;19095;0;1174,098443;1;3;6;Alta Capacidad;3988,0937;5162,1921;Asfalto;1_San Jose
+750;39;19096;1;785,1695753;2;3;7;Alta Capacidad;8692,4938;9477,6635;Asfalto;1_San Jose
+751;39;19096;0;801,2115299;1;3;7;Alta Capacidad;5162,1921;5963,4037;Asfalto;1_San Jose
+752;39;19097;0;490,7665131;1;3;8;Alta Capacidad;5963,4037;6454,1702;Asfalto;1_San Jose
+753;39;19097;1;490,0651452;2;3;8;Alta Capacidad;8202,4287;8692,4938;Asfalto;1_San Jose
+754;39;19098;0;1550,989635;1;3;9;Alta Capacidad;6454,1702;8005,1598;Asfalto;1_San Jose
+755;39;19098;1;1546,315801;2;3;9;Alta Capacidad;6656,1129;8202,4287;Asfalto;1_San Jose
+756;39;19099;0;777,0322223;1;3;10;Alta Capacidad;8005,1598;8782,192;Asfalto;1_San Jose
+757;39;19099;1;754,5302095;2;3;10;Alta Capacidad;5901,5827;6656,1129;Asfalto;1_San Jose
+758;39;19100;0;1121,517058;1;3;11;Alta Capacidad;8782,192;9903,709;Asfalto;1_San Jose
+759;39;19100;1;1121,443996;2;3;11;Alta Capacidad;4780,1386;5901,5827;Asfalto;1_San Jose
+760;39;19101;0;1263,39408;1;3;12;Alta Capacidad;9903,709;11167,1032;Asfalto;1_San Jose
+761;39;19101;1;1249,586433;2;3;12;Alta Capacidad;3530,5523;4780,1386;Asfalto;1_San Jose
+762;39;19102;0;762,7676268;1;3;13;Alta Capacidad;11167,1032;11929,8707;Asfalto;1_San Jose
+763;39;19102;1;766,8630435;2;3;13;Alta Capacidad;2763,6892;3530,5523;Asfalto;1_San Jose
+764;39;19089;0;729,8761352;1;3;14;Alta Capacidad;11929,8707;12659,747;Asfalto;1_San Jose
+765;39;19089;1;719,2217196;2;3;14;Alta Capacidad;2044,4675;2763,6892;Asfalto;1_San Jose
+766;39;19104;1;463,4399529;2;3;16;Alta Capacidad;450,0641;913,5041;Asfalto;1_San Jose
+767;39;19105;0;454,538218;1;3;17;Alta Capacidad;14260,9141;14715,4524;Asfalto;1_San Jose
+768;39;19105;1;450,0640843;2;3;17;Alta Capacidad;0;450,0641;Asfalto;1_San Jose
+769;39;19104;0;448,2510541;1;3;16;Alta Capacidad;13812,6631;14260,9141;Asfalto;1_San Jose
+770;36;70002;2;26029,00343;1;2;6;Alta Capacidad;60707,6835;86736,687;Asfalto;7_Limon
+771;36;70050;2;10557,86722;1;2;1;Alta Capacidad;0;10557,8672;Asfalto;7_Limon
+772;36;70040;2;24976,27099;1;2;2;Alta Capacidad;10557,8672;35534,1382;Asfalto;7_Limon
+773;36;70030;2;6348,191937;1;2;3;Alta Capacidad;35534,1382;41882,3302;Asfalto;7_Limon
+774;36;70020;2;10079,5566;1;2;4;Alta Capacidad;41882,3302;51961,8868;Asfalto;7_Limon
+775;36;70010;2;8745,796786;1;2;5;Alta Capacidad;51961,8868;60707,6835;Asfalto;7_Limon
+776;36;70001;2;5769,875357;1;2;7;Alta Capacidad;86736,687;92506,5623;Asfalto;7_Limon
+777;35;21082;2;14163,69035;1;2;8;Alta Capacidad;61499,4531;75663,1436;Asfalto;2_Alajuela
+778;35;20640;2;4757,655683;1;2;2;Alta Capacidad;0;4757,6557;Asfalto;2_Alajuela
+779;35;20650;2;9836,636943;1;2;3;Alta Capacidad;4757,6557;14594,2926;Asfalto;2_Alajuela
+780;35;21060;2;11310,54768;1;2;4;Alta Capacidad;14594,2926;25904,8403;Asfalto;2_Alajuela
+781;35;21071;2;8500,553378;1;2;5;Alta Capacidad;25904,8403;34405,3937;Asfalto;2_Alajuela
+782;35;21072;2;7606,291501;1;2;6;Alta Capacidad;34405,3937;42011,6852;Asfalto;2_Alajuela
+783;35;21081;2;19487,76799;1;2;7;Alta Capacidad;42011,6852;61499,4531;Asfalto;2_Alajuela
+784;35;21083;2;10375,66504;1;2;9;Alta Capacidad;75663,1436;86038,8086;Asfalto;2_Alajuela
+785;34;60093;2;17789,54093;1;1;16;Alta Capacidad;177689,4297;195478,9707;Asfalto;6_Puntarenas
+786;34;21300;2;5732,116451;1;1;1;Alta Capacidad;0;5732,1165;Asfalto;2_Alajuela
+787;34;60170;2;16849,25381;1;1;2;Alta Capacidad;5732,1165;22581,3703;Asfalto;6_Puntarenas
+788;34;60162;2;8041,184226;1;1;3;Alta Capacidad;22581,3703;30622,5544;Asfalto;6_Puntarenas
+789;34;60161;2;3481,467302;1;1;4;Alta Capacidad;30622,5544;34104,0218;Asfalto;6_Puntarenas
+790;34;60140;2;17178,5095;1;1;5;Alta Capacidad;34104,0218;51282,5314;Asfalto;6_Puntarenas
+791;34;60082;2;20578,42023;1;1;6;Alta Capacidad;51282,5314;71860,9515;Asfalto;6_Puntarenas
+792;34;60081;2;6257,51184;1;1;7;Alta Capacidad;71860,9515;78118,4634;Asfalto;6_Puntarenas
+793;34;60120;2;11206,98132;1;1;8;Alta Capacidad;78118,4634;89325,4447;Asfalto;6_Puntarenas
+794;34;60113;2;10134,39693;1;1;9;Alta Capacidad;89325,4447;99459,8415;Asfalto;6_Puntarenas
+795;34;60112;2;4069,294955;1;1;10;Alta Capacidad;99459,8415;103529,1366;Asfalto;6_Puntarenas
+796;34;60111;2;13192,2028;1;1;11;Alta Capacidad;103529,1366;116721,3394;Asfalto;6_Puntarenas
+797;34;60102;2;11313,44576;1;1;12;Alta Capacidad;116721,3394;128034,7851;Asfalto;6_Puntarenas
+798;34;60101;2;13471,08931;1;1;13;Alta Capacidad;128034,7851;141505,8744;Asfalto;6_Puntarenas
+799;34;60091;2;18096,14337;1;1;14;Alta Capacidad;141505,8744;159602,0178;Asfalto;6_Puntarenas
+800;34;60092;2;18087,41194;1;1;15;Alta Capacidad;159602,0178;177689,4297;Asfalto;6_Puntarenas
+801;34;60094;2;7084,508797;1;1;17;Alta Capacidad;195478,9707;202563,4795;Asfalto;6_Puntarenas
+802;32;70070;0;12045,67902;1;1;17;Alta Capacidad;144501,6424;156547,3215;Asfalto;7_Limon
+803;32;19011;0;1270,112688;1;2;1;Distribuidores Regionales;0;1270,1127;Asfalto;1_San Jose
+804;32;19012;0;1847,667074;1;2;2;Alta Capacidad;1270,1127;3117,7798;Asfalto;1_San Jose
+805;32;40500;0;7611,951312;1;1;3;Distribuidores Regionales;3117,7798;10729,7311;Asfalto;4_Heredia
+806;32;40550;0;3068,483325;1;3;4;Distribuidores Regionales;10729,7311;13798,2144;Asfalto;4_Heredia
+807;32;10950;0;4988,136926;1;3;5;Distribuidores Regionales;13798,2144;18786,3514;Asfalto;1_San Jose
+808;32;10990;0;20479,25053;1;3;6;Distribuidores Regionales;18786,3514;39265,6018;Asfalto;1_San Jose
+809;32;70160;0;10265,86216;1;3;7;Distribuidores Regionales;39265,6018;49531,464;Asfalto;7_Limon
+810;32;70150;0;13238,44632;1;3;8;Alta Capacidad;49531,464;62769,9104;Asfalto;7_Limon
+811;32;70490;0;4439,95702;1;1;9;Alta Capacidad;62769,9104;67209,8674;Asfalto;7_Limon
+812;32;70142;0;6316,412885;1;1;10;Alta Capacidad;67209,8674;73526,2803;Asfalto;7_Limon
+813;32;70141;0;10687,18526;1;1;11;Alta Capacidad;73526,2803;84213,4655;Asfalto;7_Limon
+814;32;70130;0;12651,2109;1;1;12;Alta Capacidad;84213,4655;96864,6764;Asfalto;7_Limon
+815;32;70090;0;12725,53424;1;1;13;Alta Capacidad;96864,6764;109590,2106;Asfalto;7_Limon
+816;32;70472;0;9900,22095;1;1;14;Alta Capacidad;109590,2106;119490,4316;Asfalto;7_Limon
+817;32;70471;0;15485,32815;1;1;15;Alta Capacidad;119490,4316;134975,7597;Asfalto;7_Limon
+818;32;70080;0;9525,88268;1;1;16;Alta Capacidad;134975,7597;144501,6424;Asfalto;7_Limon
+819;32;19012;1;1667,581317;2;2;2;Alta Capacidad;0;1667,5813;Asfalto;1_San Jose
+820;32;19011;1;1260,369322;2;2;1;Distribuidores Regionales;1667,5813;2927,9506;Asfalto;1_San Jose
+821;3;20112;2;8333,351651;1;2;15;Conectores de Integracion Territorial;56184,6915;64518,0431;Asfalto;2_Alajuela
+822;3;19007;2;1489,99789;1;4;1;Distribuidores Regionales;0;1489,9979;Asfalto;1_San Jose
+823;3;40000;2;4815,105125;1;3;2;Distribuidores Regionales;1489,9979;6305,1031;Asfalto;4_Heredia
+824;3;40010;2;3609,737364;1;2;3;Distribuidores Regionales;6305,1031;9914,8404;Asfalto;4_Heredia
+825;3;40750;2;2777,189954;1;4;4;Distribuidores Regionales;9914,8404;12692,0303;Asfalto;4_Heredia
+826;3;20131;2;2541,17909;1;4;5;Distribuidores Regionales;12692,0303;15233,2094;Asfalto;2_Alajuela
+827;3;20132;2;2226,088291;1;3;6;Distribuidores Regionales;15233,2094;17459,2977;Asfalto;2_Alajuela
+828;3;20140;2;2536,452459;1;4;7;Distribuidores Regionales;17459,2977;19995,7502;Asfalto;2_Alajuela
+829;3;20142;2;2739,041931;1;2;8;Distribuidores Regionales;19995,7502;22734,7921;Asfalto;2_Alajuela
+830;3;20070;2;6161,822754;1;2;9;Distribuidores Regionales;22734,7921;28896,6149;Asfalto;2_Alajuela
+831;3;20081;2;3422,614302;1;2;10;Distribuidores Regionales;28896,6149;32319,2292;Asfalto;2_Alajuela
+832;3;20082;2;3343,875736;1;2;11;Distribuidores Regionales;32319,2292;35663,1049;Asfalto;2_Alajuela
+833;3;20090;2;7224,183542;1;2;12;Distribuidores Regionales;35663,1049;42887,2884;Asfalto;2_Alajuela
+834;3;20100;2;9301,64692;1;2;13;Conectores de Integracion Territorial;42887,2884;52188,9354;Asfalto;2_Alajuela
+835;3;20111;2;3995,756057;1;2;14;Conectores de Integracion Territorial;52188,9354;56184,6915;Asfalto;2_Alajuela
+836;3;20700;2;2531,756432;1;2;16;Conectores de Integracion Territorial;64518,0431;67049,7995;Asfalto;2_Alajuela
+837;625;60392;2;19360,57381;1;2;2;Conectores de Integracion Territorial;9306,9814;28667,5552;Lastre;6_Puntarenas
+838;625;60391;2;9306,981393;1;2;1;Conectores de Integracion Territorial;0;9306,9814;Lastre;6_Puntarenas
+839;625;60394;2;3388,189119;1;2;4;Conectores de Integracion Territorial;37134,601;40522,7902;TS;6_Puntarenas
+840;623;60940;2;12414,38558;1;2;2;Red Basica de Acceso;694,1995;13108,5851;Lastre;6_Puntarenas
+841;623;51240;2;694,1995007;1;2;1;Red Basica de Acceso;0;694,1995;Lastre;5_Guanacaste
+842;623;51230;2;488,626232;1;2;3;Red Basica de Acceso;13108,5851;13597,2113;Lastre;5_Guanacaste
+843;622;60440;2;6903,285967;1;2;2;Conectores de Integracion Territorial;6711,3869;13620,5704;Asfalto;6_Puntarenas
+844;622;60450;2;6711,386849;1;2;1;Conectores de Integracion Territorial;0;6711,3869;Asfalto;6_Puntarenas
+845;621;60770;2;4204,226684;1;2;1;Red Basica de Acceso;0;4204,2266;TS;6_Puntarenas
+846;620;60151;2;3199,090039;1;2;1;Red Basica de Acceso;0;3199,0901;Asfalto;6_Puntarenas
+847;620;60152;2;2507,26177;1;2;2;Red Basica de Acceso;3199,0901;5706,3518;Asfalto;6_Puntarenas
+848;619;50971;2;6190,078409;1;2;2;Red Basica de Acceso;1628,6146;7818,6929;Lastre;5_Guanacaste
+849;619;60070;2;1628,61461;1;2;1;Red Basica de Acceso;0;1628,6146;Lastre;6_Puntarenas
+850;619;50972;2;4171,785589;1;2;3;Red Basica de Acceso;7818,6929;11990,4786;Lastre;5_Guanacaste
+851;618;60130;2;6387,173257;1;2;1;Red Basica de Acceso;0;6387,1733;Asfalto;6_Puntarenas
+852;617;60992;2;6129,924459;1;2;2;Conectores de Integracion Territorial;5334,6018;11464,5262;TS;6_Puntarenas
+853;617;60991;2;5334,601776;1;2;1;Conectores de Integracion Territorial;0;5334,6018;TS;6_Puntarenas
+854;616;60580;2;9697,905343;1;2;1;Red Basica de Acceso;0;9697,9053;Asfalto;6_Puntarenas
+855;615;60642;2;5386,007607;1;2;2;Red Basica de Acceso;5042,8112;10428,8188;TS;6_Puntarenas
+856;615;60641;2;5383,884589;1;2;1;Red Basica de Acceso;0;5042,8112;TS;6_Puntarenas
+857;614;60271;2;15113,54009;1;2;1;Red Basica de Acceso;0;15113,54;Lastre;6_Puntarenas
+858;614;60272;2;5835,480324;1;2;2;Red Basica de Acceso;15113,54;20949,0204;Asfalto;6_Puntarenas
+859;613;60313;2;6187,286631;1;2;4;Conectores de Integracion Territorial;18958,3584;25145,645;Asfalto;6_Puntarenas
+860;613;60300;2;7911,715694;1;2;1;Conectores de Integracion Territorial;0;7911,7157;TS;6_Puntarenas
+861;613;60311;2;3995,511454;1;2;2;Conectores de Integracion Territorial;7911,7157;11907,2271;Asfalto;6_Puntarenas
+862;613;60312;2;7051,131228;1;2;3;Conectores de Integracion Territorial;11907,2271;18958,3584;Asfalto;6_Puntarenas
+863;613;60314;2;5589,304528;1;2;5;Conectores de Integracion Territorial;25145,645;30734,9495;Asfalto;6_Puntarenas
+864;612;60331;2;4877,775613;1;2;1;Red Basica de Acceso;0;4877,7756;Asfalto;6_Puntarenas
+865;612;60332;2;13221,68363;1;2;2;Red Basica de Acceso;4877,7756;18099,4592;Asfalto;6_Puntarenas
+866;612;60333;2;13698,95093;1;2;3;Red Basica de Acceso;18099,4592;31798,4102;Lastre;6_Puntarenas
+867;610;60950;2;2860,889615;1;2;1;Conectores de Integracion Territorial;0;2860,8896;Asfalto;6_Puntarenas
+868;610;60971;2;1330,98301;1;2;2;Sin clasificar;2860,8896;4191,8726;Lastre;6_Puntarenas
+869;610;60971;2;1198,268078;2;2;2;Sin clasificar;4191,8726;5390,1407;Lastre;6_Puntarenas
+870;609;60531;2;10672,21972;1;2;1;Conectores de Integracion Territorial;0;10672,2197;Lastre;6_Puntarenas
+871;609;60532;2;3107,980893;1;2;2;Conectores de Integracion Territorial;10672,2197;13780,2006;Lastre;6_Puntarenas
+872;608;60373;2;7933,075154;1;2;3;Conectores de Integracion Territorial;16831,791;24764,8661;Lastre;6_Puntarenas
+873;608;60371;2;6435,102351;1;2;1;Conectores de Integracion Territorial;0;6435,1024;Asfalto;6_Puntarenas
+874;608;60372;2;10396,6886;1;2;2;Conectores de Integracion Territorial;6435,1024;16831,791;Lastre;6_Puntarenas
+875;608;60374;2;4122,574062;1;2;4;Conectores de Integracion Territorial;24764,8661;28887,4402;Lastre;6_Puntarenas
+876;606;60700;2;17871,1375;1;1;5;Conectores de Integracion Territorial;18653,83;36524,9675;Asfalto;6_Puntarenas
+877;606;60672;2;4226,465513;1;1;2;Conectores de Integracion Territorial;2820,0907;7046,5561;Asfalto;6_Puntarenas
+878;606;60681;2;3734,267017;1;1;3;Conectores de Integracion Territorial;7046,5561;10780,8232;Asfalto;6_Puntarenas
+879;606;60682;2;7873,006853;1;1;4;Conectores de Integracion Territorial;10780,8232;18653,83;Asfalto;6_Puntarenas
+880;606;51100;2;7762,206079;1;1;8;Conectores de Integracion Territorial;45093,8942;52856,1003;Lastre;5_Guanacaste
+881;606;50880;2;5614,713405;1;1;7;Conectores de Integracion Territorial;39479,1807;45093,8942;Lastre;5_Guanacaste
+882;606;60671;2;2820,090635;1;1;1;Conectores de Integracion Territorial;0;2820,0907;Asfalto;6_Puntarenas
+883;605;60692;2;9494,554498;1;2;2;Red Basica de Acceso;5210,3847;14704,9391;Lastre;6_Puntarenas
+884;605;60691;2;5210,384643;1;2;1;Red Basica de Acceso;0;5210,3847;Lastre;6_Puntarenas
+885;604;60660;2;8943,486929;1;2;1;Red Basica de Acceso;0;8943,4869;Lastre;6_Puntarenas
+886;604;60830;2;1716,13384;1;2;3;Red Basica de Acceso;16292,638;18008,7718;Lastre;6_Puntarenas
+887;603;60720;2;10141,35;1;2;1;Red Basica de Acceso;0;10141,35;Lastre;6_Puntarenas
+888;602;51010;2;6901,258406;1;2;1;Red Basica de Acceso;0;6901,2584;Lastre;5_Guanacaste
+889;602;60750;2;6270,979231;1;2;2;Red Basica de Acceso;6901,2584;13172,2376;Lastre;6_Puntarenas
+890;601;60742;2;11660,44375;1;2;5;Conectores de Integracion Territorial;26853,842;38514,2858;Lastre;6_Puntarenas
+891;601;50341;2;2555,97076;1;2;1;Red Basica de Acceso;0;2555,9708;Concreto;5_Guanacaste
+892;601;50342;2;10546,22187;1;2;2;Red Basica de Acceso;2555,9708;13102,1926;TS;5_Guanacaste
+893;601;50330;2;9122,220936;1;2;3;Conectores de Integracion Territorial;13102,1926;22224,4136;Lastre;5_Guanacaste
+894;601;60741;2;4629,42845;1;2;4;Conectores de Integracion Territorial;22224,4136;26853,842;Lastre;6_Puntarenas
+895;6;21221;2;19160,61046;1;1;3;Distribuidores Regionales;30714,5455;49875,1559;Asfalto;2_Alajuela
+896;6;50900;2;23641,77034;1;1;1;Distribuidores Regionales;0;23641,7704;Asfalto;5_Guanacaste
+897;6;51020;2;7072,775141;1;1;2;Distribuidores Regionales;23641,7704;30714,5455;Asfalto;5_Guanacaste
+898;6;21222;2;9105,717334;1;1;4;Distribuidores Regionales;49875,1559;58980,8733;Asfalto;2_Alajuela
+899;510;40820;2;9339,950253;1;2;1;Sin clasificar;0;9339,9502;Lastre;4_Heredia
+900;510;40830;2;11851,02834;1;2;2;Sin clasificar;9339,9502;21190,9786;Lastre;4_Heredia
+901;507;40761;2;7370,639548;1;2;1;Sin clasificar;0;7370,6395;TS;4_Heredia
+902;507;40762;2;8602,821598;1;2;2;Sin clasificar;7370,6395;15973,4611;Lastre;4_Heredia
+903;507;40763;2;7874,536749;1;2;3;Sin clasificar;15973,4611;23847,9979;Lastre;4_Heredia
+904;507;40771;2;14723,98514;1;2;4;Sin clasificar;23847,9979;38571,983;Lastre;4_Heredia
+905;507;40772;2;10294,28065;1;2;5;Sin clasificar;38571,983;48866,2636;Lastre;4_Heredia
+906;507;40780;2;14733,33434;1;2;6;Sin clasificar;48866,2636;63599,598;Lastre;4_Heredia
+907;506;40470;2;5921,117738;1;2;1;Red Basica de Acceso;0;5921,1177;Lastre;4_Heredia
+908;505;40511;2;8392,280809;1;1;1;Red Basica de Acceso;0;8392,2808;Asfalto;4_Heredia
+909;505;40512;2;3702,593709;1;1;2;Red Basica de Acceso;8392,2808;12094,8745;Lastre;4_Heredia
+910;505;40850;2;3427,61438;1;1;3;Sin clasificar;12094,8745;15522,489;Lastre;4_Heredia
+911;505;40840;2;3630,477465;1;1;4;Sin clasificar;15522,489;19152,9664;Lastre;4_Heredia
+912;504;40280;2;3003,540805;1;1;1;Conectores de Integracion Territorial;0;3003,5408;Asfalto;4_Heredia
+913;503;40240;2;1500,474356;1;1;1;Red Basica de Acceso;0;1500,4744;Asfalto;4_Heredia
+914;502;40390;2;3647,078315;1;1;1;Red Basica de Acceso;0;3647,0784;Asfalto;4_Heredia
+915;502;40380;2;2274,00341;1;1;2;Red Basica de Acceso;3647,0784;5921,0817;TS;4_Heredia
+916;5;40730;2;1838,054317;1;1;5;Distribuidores Regionales;6612,8797;8450,934;Asfalto;4_Heredia
+917;5;19008;2;2283,504304;1;3;1;Distribuidores Regionales;0;2283,5043;Asfalto;1_San Jose
+918;5;19009;2;1674,291632;1;1;2;Distribuidores Regionales;2283,5043;3957,796;Asfalto;1_San Jose
+919;5;40050;2;1490,377494;1;1;3;Distribuidores Regionales;3957,796;5448,1734;Asfalto;4_Heredia
+920;5;40060;2;1164,706218;1;1;4;Distribuidores Regionales;5448,1734;6612,8797;Asfalto;4_Heredia
+921;5;40740;2;369,9528546;1;1;6;Distribuidores Regionales;8450,934;8820,8868;Asfalto;4_Heredia
+922;761;21880;2;4835,015882;1;2;1;Sin clasificar;0;4835,0159;Asfalto;2_Alajuela
+923;761;21960;2;17585,22713;1;2;2;Sin clasificar;4835,0159;22420,243;Lastre;2_Alajuela
+924;761;21971;2;11603,65701;1;2;3;Sin clasificar;22420,243;34023,9;Lastre;2_Alajuela
+925;761;21972;2;9374,50384;1;2;4;Sin clasificar;34023,9;43398,4039;Lastre;2_Alajuela
+926;760;27950;2;8342,479998;1;1;3;Sin clasificar;13328,7126;21671,1926;Lastre;2_Alajuela
+927;760;21930;2;6152,365598;1;1;1;Sin clasificar;0;6152,3656;Lastre;2_Alajuela
+928;760;27940;2;7176,346984;1;1;2;Sin clasificar;6152,3656;13328,7126;Lastre;2_Alajuela
+929;750;21390;2;8455,000095;1;1;1;Red Basica de Acceso;0;8455,0001;Lastre;2_Alajuela
+930;748;20943;2;5090,133012;1;2;3;Red Basica de Acceso;12737,9812;17828,1142;TS;2_Alajuela
+931;748;20941;2;8679,395325;1;2;1;Red Basica de Acceso;0;8679,3953;Asfalto;2_Alajuela
+932;748;20942;2;4058,585876;1;2;2;Red Basica de Acceso;8679,3953;12737,9812;TS;2_Alajuela
+933;747;21102;2;5009,57103;1;2;2;Red Basica de Acceso;2796,9617;7806,5328;Lastre;2_Alajuela
+934;747;21101;2;2796,961728;1;2;1;Red Basica de Acceso;0;2796,9617;TS;2_Alajuela
+935;746;20970;2;4887,851679;1;1;1;Red Basica de Acceso;0;4887,8517;TS;2_Alajuela
+936;745;20962;2;6112,001999;1;2;8;Red Basica de Acceso;40231,9879;46343,9898;TS;2_Alajuela
+937;745;21050;2;8899,7076;1;2;1;Red Basica de Acceso;0;8899,7076;TS;2_Alajuela
+938;745;21401;2;6766,51582;1;2;2;Red Basica de Acceso;8899,7076;15666,2233;Lastre;2_Alajuela
+939;745;21402;2;5492,661738;1;2;3;Red Basica de Acceso;15666,2233;21158,8852;Lastre;2_Alajuela
+940;745;40581;2;3602,732364;1;2;4;Red Basica de Acceso;21158,8852;24761,6175;Lastre;4_Heredia
+941;745;40582;2;3251,76736;1;2;5;Red Basica de Acceso;24761,6175;28013,3849;Lastre;4_Heredia
+942;745;21410;2;4474,842789;1;2;6;Red Basica de Acceso;28013,3849;32488,2276;TS;2_Alajuela
+943;745;20961;2;7743,760175;1;2;7;Red Basica de Acceso;32488,2276;40231,9879;TS;2_Alajuela
+944;745;20963;2;2581,335029;1;2;9;Red Basica de Acceso;46343,9898;48925,3249;Asfalto;2_Alajuela
+945;744;20951;2;8002,856468;1;2;1;Red Basica de Acceso;0;8002,8565;Lastre;2_Alajuela
+946;744;20952;2;3265,634012;1;2;2;Red Basica de Acceso;8002,8565;11268,4905;Lastre;2_Alajuela
+947;744;21770;2;2688,302307;1;2;3;Red Basica de Acceso;11268,4905;13956,7928;Asfalto;2_Alajuela
+948;742;20770;2;10876,00424;1;2;7;Red Basica de Acceso;40385,2548;51261,2591;TS;2_Alajuela
+949;742;60602;2;12628,22738;1;2;1;Red Basica de Acceso;0;12628,2274;TS;6_Puntarenas
+950;742;60601;2;6822,565954;1;2;2;Red Basica de Acceso;12628,2274;19450,7934;Asfalto;6_Puntarenas
+951;742;20791;2;4026,698822;1;2;3;Red Basica de Acceso;19450,7934;23477,4921;Lastre;2_Alajuela
+952;742;20792;2;5064,368495;1;2;4;Red Basica de Acceso;23477,4921;28541,8607;Lastre;2_Alajuela
+953;742;20782;2;6599,584296;1;2;5;Red Basica de Acceso;28541,8607;35141,4449;Lastre;2_Alajuela
+954;742;20781;2;5243,809906;1;2;6;Red Basica de Acceso;35141,4449;40385,2548;Lastre;2_Alajuela
+955;741;20493;2;6925,741757;1;2;3;Red Basica de Acceso;7413,4274;14339,1692;TS;2_Alajuela
+956;741;20491;2;4584,455278;1;2;1;Red Basica de Acceso;0;4584,4553;TS;2_Alajuela
+957;741;20492;2;2828,972092;1;2;2;Red Basica de Acceso;4584,4553;7413,4274;TS;2_Alajuela
+958;741;21530;2;1683,121263;1;2;4;Red Basica de Acceso;14339,1692;16022,2904;Asfalto;2_Alajuela
+959;739;21581;2;3729,002151;1;2;4;Sin clasificar;6621,8662;10350,8684;Asfalto;2_Alajuela
+960;739;20860;2;1127,891084;1;2;1;Red Basica de Acceso;0;1127,8911;TS;2_Alajuela
+961;739;21582;2;2904,978737;1;2;3;Sin clasificar;3716,8875;6621,8662;Asfalto;2_Alajuela
+962;739;21583;2;2588,996419;1;2;2;Sin clasificar;1127,8911;3716,8875;Asfalto;2_Alajuela
+963;738;20690;2;5593,383091;1;1;1;Red Basica de Acceso;0;5593,3831;TS;2_Alajuela
+964;737;21241;2;6930,334817;1;2;1;Red Basica de Acceso;0;6930,3348;Lastre;2_Alajuela
+965;737;21242;2;6614,977783;1;2;2;Red Basica de Acceso;6930,3348;13545,3126;Lastre;2_Alajuela
+966;735;21520;2;11077,72644;1;1;1;Conectores de Integracion Territorial;0;11077,7264;Lastre;2_Alajuela
+967;734;21120;2;12151,48992;1;2;2;Red Basica de Acceso;8227,0481;20378,538;Lastre;2_Alajuela
+968;734;21360;2;8227,048022;1;2;1;Red Basica de Acceso;0;8227,0481;TS;2_Alajuela
+969;734;50070;2;9283,020712;1;2;3;Red Basica de Acceso;20378,538;29661,5587;Lastre;5_Guanacaste
+970;733;21150;2;21744,17351;1;2;1;Conectores de Integracion Territorial;0;21744,1736;Lastre;2_Alajuela
+971;733;21112;2;16280,3196;1;2;3;Conectores de Integracion Territorial;25350,7304;41631,05;Lastre;2_Alajuela
+972;733;21111;2;3606,556884;1;2;2;Conectores de Integracion Territorial;21744,1736;25350,7304;Lastre;2_Alajuela
+973;732;21481;2;9045,439079;1;1;1;Conectores de Integracion Territorial;0;9045,4391;Lastre;2_Alajuela
+974;732;21482;2;5793,91753;1;1;2;Red Basica de Acceso;9045,4391;14839,3566;Lastre;2_Alajuela
+975;731;21180;2;12069,09238;1;2;1;Red Basica de Acceso;0;12069,0924;Asfalto;2_Alajuela
+976;730;21030;2;6650,749274;1;2;1;Red Basica de Acceso;0;6650,7493;Lastre;2_Alajuela
+977;729;21130;2;4138,024787;1;2;1;Red Basica de Acceso;0;4138,0248;Lastre;2_Alajuela
+978;728;21211;2;7347,369716;1;2;1;Red Basica de Acceso;0;7347,3697;Lastre;2_Alajuela
+979;728;21212;2;7275,508565;1;2;2;Red Basica de Acceso;7347,3697;14622,8783;Lastre;2_Alajuela
+980;727;21472;2;2299,769398;1;2;2;Red Basica de Acceso;1876,8277;4139,9412;Asfalto;2_Alajuela
+981;727;21471;2;1876,827627;1;2;1;Red Basica de Acceso;0;1876,8277;Asfalto;2_Alajuela
+982;725;20850;2;4422,294135;1;2;1;Red Basica de Acceso;0;4422,2941;Asfalto;2_Alajuela
+983;725;21670;2;842,8757499;1;2;2;Red Basica de Acceso;4422,2941;5265,1699;Asfalto;2_Alajuela
+984;723;20571;2;3602,941098;1;2;3;Red Basica de Acceso;4893,0496;8495,9906;TS;2_Alajuela
+985;723;20573;2;1390,438233;1;2;1;Red Basica de Acceso;0;1390,4382;Asfalto;2_Alajuela
+986;723;20572;2;3502,611294;1;2;2;Red Basica de Acceso;1390,4382;4893,0496;TS;2_Alajuela
+987;722;20221;2;4551,250638;1;2;2;Red Basica de Acceso;1594,3945;6145,6452;Asfalto;2_Alajuela
+988;722;20222;2;1594,394539;1;2;1;Red Basica de Acceso;0;1594,3945;Asfalto;2_Alajuela
+989;721;21271;2;7257,806685;1;2;1;Conectores de Integracion Territorial;0;7294,6767;Asfalto;2_Alajuela
+990;721;21273;2;3982,234892;1;2;3;Red Basica de Acceso;10424,2326;14406,4675;Asfalto;2_Alajuela
+991;721;21272;2;3129,555866;1;2;2;Red Basica de Acceso;7294,6767;10424,2326;Asfalto;2_Alajuela
+992;720;20732;2;4623,770691;1;2;2;Red Basica de Acceso;1328,4721;5952,2428;Asfalto;2_Alajuela
+993;720;20731;2;1328,472114;1;2;1;Red Basica de Acceso;0;1328,4721;TS;2_Alajuela
+994;719;21462;2;2797,725832;1;2;1;Red Basica de Acceso;0;2797,7258;TS;2_Alajuela
+995;719;21461;2;2312,641518;1;2;2;Red Basica de Acceso;2797,7258;5110,3674;Asfalto;2_Alajuela
+996;718;20300;2;5089,97186;1;1;1;Red Basica de Acceso;0;5089,9719;TS;2_Alajuela
+997;717;20470;2;8643,815921;1;1;1;Red Basica de Acceso;0;8643,8159;Asfalto;2_Alajuela
+998;716;21590;2;4511,696257;1;1;2;Red Basica de Acceso;1497,7504;6009,4466;TS;2_Alajuela
+999;716;20210;2;1497,750378;1;1;1;Red Basica de Acceso;0;1497,7504;Asfalto;2_Alajuela
+1000;715;20532;2;6040,682616;1;2;3;Red Basica de Acceso;8796,9832;14837,6658;TS;2_Alajuela
+1001;715;21680;2;2877,340195;1;2;1;Red Basica de Acceso;0;2877,3402;Asfalto;2_Alajuela
+1002;715;20531;2;5919,643032;1;2;2;Red Basica de Acceso;2877,3402;8796,9832;TS;2_Alajuela
+1003;714;20432;2;3526,005812;1;2;2;Red Basica de Acceso;2322,098;5848,1038;Asfalto;2_Alajuela
+1004;714;20431;2;2322,098024;1;2;1;Red Basica de Acceso;0;2322,098;Asfalto;2_Alajuela
+1005;713;20742;2;7929,001134;1;2;2;Red Basica de Acceso;5213,3975;13142,3986;TS;2_Alajuela
+1006;713;20741;2;5213,397464;1;2;1;Red Basica de Acceso;0;5213,3975;TS;2_Alajuela
+1007;713;21690;2;1626,720371;1;2;4;Red Basica de Acceso;14548,3685;16175,0888;Asfalto;2_Alajuela
+1008;713;20743;2;1405,969904;1;2;3;Red Basica de Acceso;13142,3986;14548,3685;Asfalto;2_Alajuela
+1009;713;21700;2;1128,296937;1;2;5;Red Basica de Acceso;16175,0888;17303,3858;Asfalto;2_Alajuela
+1010;712;21420;2;8928,034618;1;2;1;Conectores de Integracion Territorial;0;8928,0346;Asfalto;2_Alajuela
+1011;711;20481;2;2983,623833;1;2;1;Red Basica de Acceso;0;2983,6239;Asfalto;2_Alajuela
+1012;711;20482;2;1799,729387;1;2;2;Red Basica de Acceso;2983,6239;4783,3532;Asfalto;2_Alajuela
+1013;710;21661;2;1332,928916;1;2;2;Red Basica de Acceso;1790,5375;3123,4664;TS;2_Alajuela
+1014;710;20900;2;1790,537563;1;2;1;Red Basica de Acceso;0;1790,5375;TS;2_Alajuela
+1015;710;21662;2;1069,244307;1;2;3;Red Basica de Acceso;3123,4664;4192,7108;TS;2_Alajuela
+1016;709;20412;2;5016,803904;1;2;2;Red Basica de Acceso;1255,1967;6272,0006;TS;2_Alajuela
+1017;709;20411;2;1255,196686;1;2;1;Red Basica de Acceso;0;1255,1967;Asfalto;2_Alajuela
+1018;709;20414;2;2833,532072;1;2;4;Red Basica de Acceso;7502,5852;10336,1172;Asfalto;2_Alajuela
+1019;709;20413;2;1230,58456;1;2;3;Red Basica de Acceso;6272,0006;7502,5852;Asfalto;2_Alajuela
+1020;708;21542;2;6575,591898;1;1;6;Conectores de Integracion Territorial;37767,1113;44342,7032;TS;2_Alajuela
+1021;708;20921;2;4791,073969;1;1;1;Conectores de Integracion Territorial;0;4791,074;TS;2_Alajuela
+1022;708;20922;2;5320,405812;1;1;2;Conectores de Integracion Territorial;4791,074;10111,4798;TS;2_Alajuela
+1023;708;20923;2;14537,53245;1;1;3;Conectores de Integracion Territorial;10111,4798;24649,0122;TS;2_Alajuela
+1024;708;20924;2;7708,189307;1;1;4;Conectores de Integracion Territorial;24649,0122;32357,2015;TS;2_Alajuela
+1025;708;21541;2;5409,909805;1;1;5;Conectores de Integracion Territorial;32357,2015;37767,1113;TS;2_Alajuela
+1026;707;21262;2;10260,09037;1;2;2;Red Basica de Acceso;3939,7178;14199,8082;Asfalto;2_Alajuela
+1027;707;21263;2;3939,717798;1;2;1;Red Basica de Acceso;0;3939,7178;Asfalto;2_Alajuela
+1028;707;10670;2;3119,985843;1;2;5;Red Basica de Acceso;19324,77;22444,7559;TS;1_San Jose
+1029;707;21261;2;2339,953138;1;2;3;Red Basica de Acceso;14199,8082;16539,7613;TS;2_Alajuela
+1030;707;10680;2;2785,008714;1;2;4;Red Basica de Acceso;16539,7613;19324,77;TS;1_San Jose
+1031;706;21310;2;3319,381356;1;2;1;Red Basica de Acceso;0;3319,3814;TS;2_Alajuela
+1032;705;21511;2;8925,221954;1;2;1;Red Basica de Acceso;0;8925,222;TS;2_Alajuela
+1033;705;21512;2;4768,365067;1;2;2;Red Basica de Acceso;8925,222;13693,587;TS;2_Alajuela
+1034;704;21780;2;4003,325879;1;2;3;Red Basica de Acceso;7535,1376;11538,4635;Asfalto;2_Alajuela
+1035;704;20891;2;4639,374766;1;2;1;Red Basica de Acceso;0;4639,3748;Asfalto;2_Alajuela
+1036;704;20892;2;2895,762827;1;2;2;Red Basica de Acceso;4639,3748;7535,1376;TS;2_Alajuela
+1037;703;20232;2;9267,247331;1;2;2;Red Basica de Acceso;3575,3576;12842,6049;Asfalto;2_Alajuela
+1038;703;20231;2;3575,357522;1;2;1;Distribuidores Regionales;0;3575,3576;Asfalto;2_Alajuela
+1039;703;20750;2;6106,485317;1;2;3;Red Basica de Acceso;12842,6049;18949,0902;Asfalto;2_Alajuela
+1040;702;21370;2;9107,089502;1;2;6;Distribuidores Regionales;59023,7848;68130,8743;Asfalto;2_Alajuela
+1041;702;20820;2;8700,612473;1;2;1;Distribuidores Regionales;0;8700,6124;Asfalto;2_Alajuela
+1042;702;20830;2;29527,64042;1;2;2;Distribuidores Regionales;8700,6124;38228,253;Asfalto;2_Alajuela
+1043;702;20840;2;7586,383535;1;2;3;Distribuidores Regionales;38228,253;45814,6364;Asfalto;2_Alajuela
+1044;702;20880;2;6173,083126;1;2;4;Distribuidores Regionales;45814,6364;51987,7196;Asfalto;2_Alajuela
+1045;702;21750;2;7036,06528;1;2;5;Distribuidores Regionales;51987,7196;59023,7848;TS;2_Alajuela
+1046;702;21760;2;2839,390592;1;2;7;Distribuidores Regionales;68130,8743;70970,2649;Asfalto;2_Alajuela
+1047;939;51140;2;6817,360344;1;2;1;Sin clasificar;0;6817,3603;Lastre;5_Guanacaste
+1048;938;51180;2;10382,16556;1;2;1;Sin clasificar;0;10382,1656;Lastre;5_Guanacaste
+1049;937;51210;2;8637,936765;1;2;1;Sin clasificar;0;8637,414;Lastre;5_Guanacaste
+1050;936;51220;2;18348,58398;1;1;3;Red Basica de Acceso;12526,3016;30874,8855;Lastre;5_Guanacaste
+1051;936;21920;2;8597,847547;1;1;1;Red Basica de Acceso;0;8597,8475;Lastre;2_Alajuela
+1052;936;21910;2;3928,454016;1;1;2;Red Basica de Acceso;8597,8475;12526,3016;Lastre;2_Alajuela
+1053;935;51200;2;16280,91499;1;1;1;Red Basica de Acceso;0;16280,915;Asfalto;5_Guanacaste
+1054;934;51030;2;8631,436702;1;1;1;Red Basica de Acceso;0;8631,4367;Lastre;5_Guanacaste
+1055;933;50422;2;6404,202609;1;1;2;Red Basica de Acceso;3494,8538;9899,0564;TS;5_Guanacaste
+1056;933;50421;2;3494,853818;1;1;1;Red Basica de Acceso;0;3494,8538;TS;5_Guanacaste
+1057;931;50702;2;3761,034803;1;2;2;Conectores de Integracion Territorial;7937,6134;11698,6482;TS;5_Guanacaste
+1058;931;50701;2;7937,613352;1;2;1;Conectores de Integracion Territorial;0;7937,6134;Asfalto;5_Guanacaste
+1059;930;50810;2;8665,061222;1;1;1;Red Basica de Acceso;0;8665,0612;Lastre;5_Guanacaste
+1060;929;50761;2;9063,506769;1;1;1;Red Basica de Acceso;0;9063,5068;Lastre;5_Guanacaste
+1061;929;50762;2;4335,040222;1;1;2;Red Basica de Acceso;9063,5068;13398,547;Lastre;5_Guanacaste
+1062;928;50501;2;4450,348084;1;1;1;Red Basica de Acceso;0;4450,3481;Asfalto;5_Guanacaste
+1063;928;50502;2;3133,773645;1;1;2;Red Basica de Acceso;4450,3481;7584,1217;Asfalto;5_Guanacaste
+1064;927;50922;2;5511,538676;1;1;2;Red Basica de Acceso;6310,7208;15027,0648;Lastre;5_Guanacaste
+1065;927;50921;2;6310,720844;1;1;1;Red Basica de Acceso;0;6310,7208;TS;5_Guanacaste
+1066;927;51260;2;7145,098535;1;1;3;Red Basica de Acceso;15027,0648;22172,1633;Lastre;5_Guanacaste
+1067;926;50201;2;3966,808882;1;1;1;Red Basica de Acceso;0;3966,8088;TS;5_Guanacaste
+1068;926;50202;2;18514,02546;1;1;2;Red Basica de Acceso;3966,8088;22480,8343;Lastre;5_Guanacaste
+1069;926;50203;2;9464,634918;1;1;3;Red Basica de Acceso;22480,8343;31945,4693;Lastre;5_Guanacaste
+1070;925;50893;2;9701,012287;1;2;4;Red Basica de Acceso;22957,202;32658,2144;Asfalto;5_Guanacaste
+1071;925;51250;2;8985,696139;1;2;1;Red Basica de Acceso;0;8985,6961;Lastre;5_Guanacaste
+1072;925;50891;2;9195,000395;1;2;2;Red Basica de Acceso;8985,6961;18180,6965;Lastre;5_Guanacaste
+1073;923;50840;2;14569,66008;1;1;1;Red Basica de Acceso;0;14569,6601;Asfalto;5_Guanacaste
+1074;922;50830;2;20066,71962;1;1;1;Red Basica de Acceso;0;20066,7196;Lastre;5_Guanacaste
+1075;920;51280;2;5356,100197;1;2;5;Conectores de Integracion Territorial;31420,1971;36776,2973;Lastre;5_Guanacaste
+1076;920;50950;2;9816,792245;1;2;2;Conectores de Integracion Territorial;11612,6808;21429,473;Lastre;5_Guanacaste
+1077;920;50790;2;6747,215227;1;2;3;Conectores de Integracion Territorial;21429,473;28176,6883;Lastre;5_Guanacaste
+1078;920;51270;2;3243,508811;1;2;4;Conectores de Integracion Territorial;28176,6883;31420,1971;Lastre;5_Guanacaste
+1079;918;50382;2;8559,03824;1;2;2;Red Basica de Acceso;13937,2224;22496,2606;Lastre;5_Guanacaste
+1080;917;21252;2;15255,64509;1;2;5;Conectores de Integracion Territorial;25136,283;40391,928;Lastre;2_Alajuela
+1081;917;50351;2;7036,477732;1;2;1;Conectores de Integracion Territorial;0;7036,4777;Asfalto;5_Guanacaste
+1082;917;50360;2;6384,424738;1;2;3;Conectores de Integracion Territorial;14699,5465;21083,9711;Lastre;5_Guanacaste
+1083;917;21251;2;4052,311751;1;2;4;Conectores de Integracion Territorial;21083,9711;25136,283;Lastre;2_Alajuela
+1084;915;50981;2;14110,59927;1;2;1;Red Basica de Acceso;0;14110,5993;Lastre;5_Guanacaste
+1085;915;50982;2;2343,418486;1;2;2;Red Basica de Acceso;14110,5993;16454,0178;Lastre;5_Guanacaste
+1086;914;50321;2;8399,164368;1;2;1;Red Basica de Acceso;0;8399,1644;Asfalto;5_Guanacaste
+1087;914;50322;2;3960,464101;1;2;2;Red Basica de Acceso;8399,1644;12359,6285;Asfalto;5_Guanacaste
+1088;913;50370;2;7464,723513;1;2;1;Red Basica de Acceso;0;7464,7235;TS;5_Guanacaste
+1089;912;50452;2;6169,083714;1;2;2;Red Basica de Acceso;5860,6064;12029,6901;Asfalto;5_Guanacaste
+1090;911;50442;2;4670,543192;1;2;4;Distribuidores Regionales;13626,0555;18296,5986;TS;5_Guanacaste
+1091;911;50530;2;3810,964998;1;2;1;Distribuidores Regionales;0;3810,965;Asfalto;5_Guanacaste
+1092;911;51170;2;5925,999287;1;2;2;Distribuidores Regionales;3810,965;9736,9643;Lastre;5_Guanacaste
+1093;911;50443;2;3889,091122;1;2;3;Distribuidores Regionales;9736,9643;13626,0555;Lastre;5_Guanacaste
+1094;911;50441;2;3468,971907;1;2;5;Distribuidores Regionales;18296,5986;21765,5705;TS;5_Guanacaste
+1095;910;50492;2;7020,554295;1;2;2;Red Basica de Acceso;2360,3818;9380,9361;Lastre;5_Guanacaste
+1096;910;50491;2;2360,381786;1;2;1;Red Basica de Acceso;0;2360,3818;TS;5_Guanacaste
+1097;909;50550;2;11612,24419;1;1;1;Red Basica de Acceso;0;11612,2442;Asfalto;5_Guanacaste
+1098;906;50772;2;12854,98403;1;2;2;Conectores de Integracion Territorial;7020,2373;19875,2213;Lastre;5_Guanacaste
+1099;905;50182;2;9601,77438;1;2;2;Red Basica de Acceso;3549,9664;13151,7407;Lastre;5_Guanacaste
+1100;905;50181;2;3549,966357;1;2;1;Red Basica de Acceso;0;3549,9664;TS;5_Guanacaste
+1101;904;50642;2;15891,51649;1;2;2;Red Basica de Acceso;5739,1887;21630,7052;Lastre;5_Guanacaste
+1102;904;50641;2;5739,188683;1;2;1;Red Basica de Acceso;0;5739,1887;Asfalto;5_Guanacaste
+1103;903;50631;2;22594,99019;1;2;2;Red Basica de Acceso;0;22594,9902;Lastre;5_Guanacaste
+1104;903;50632;2;6368,508595;1;2;1;Red Basica de Acceso;22594,9902;28963,4988;Lastre;5_Guanacaste
+1105;902;50691;2;7036,873138;1;2;2;Conectores de Integracion Territorial;12062,9359;19099,8091;Lastre;5_Guanacaste
+1106;901;50671;2;13564,94247;1;2;2;Conectores de Integracion Territorial;3322,002;16886,9445;Lastre;5_Guanacaste
+1107;901;51160;2;3322,002028;1;2;1;Conectores de Integracion Territorial;0;3322,002;Lastre;5_Guanacaste
+1108;901;50672;2;6801,34931;1;2;3;Conectores de Integracion Territorial;16886,9445;23688,2938;Lastre;5_Guanacaste
+1109;856;11111;2;6292,261176;1;2;1;Sin clasificar;0;6294,2921;Lastre;2_Alajuela
+1110;856;11111;2;39458,10035;2;2;2;Sin clasificar;6294,2921;45752,3925;Lastre;4_Heredia
+1111;856;11111;2;7699,416162;3;2;3;Sin clasificar;45752,3925;53451,8086;Lastre;4_Heredia
+1112;817;70750;2;11876,57224;1;2;2;Sin clasificar;7004,0181;18880,5903;Lastre;7_Limon
+1113;817;40810;2;10548,42764;1;2;3;Sin clasificar;18880,5903;29429,0179;Lastre;4_Heredia
+1114;817;70740;2;7004,018066;1;2;1;Sin clasificar;0;7004,0181;Lastre;7_Limon
+1115;816;70680;2;7035,317998;1;1;1;Red Basica de Acceso;0;7035,318;Asfalto;7_Limon
+1116;814;70660;2;7492,364463;1;2;1;Conectores de Integracion Territorial;0;7492,3644;Asfalto;7_Limon
+1117;814;70670;2;4567,975374;1;2;2;Conectores de Integracion Territorial;7492,3644;12060,3398;Lastre;7_Limon
+1118;813;70190;2;6622,358798;1;2;2;Red Basica de Acceso;5937,7485;12560,1073;Lastre;7_Limon
+1119;813;70550;2;5937,748452;1;2;1;Red Basica de Acceso;0;5937,7485;Lastre;7_Limon
+1120;812;70250;2;4255,131659;1;2;5;Red Basica de Acceso;18068,2945;22323,4261;Asfalto;7_Limon
+1121;812;70341;2;5207,395602;1;2;1;Red Basica de Acceso;0;5207,3956;TS;7_Limon
+1122;812;70343;2;5336,24221;1;2;3;Sin clasificar;8892,0921;14228,3343;Lastre;7_Limon
+1123;812;70342;2;3684,696456;1;2;2;Red Basica de Acceso;5207,3956;8892,0921;Lastre;7_Limon
+1124;812;70344;2;3839,960146;1;2;4;Sin clasificar;14228,3343;18068,2945;Lastre;7_Limon
+1125;811;70460;2;11493,24323;1;2;2;Red Basica de Acceso;6813,1872;18306,4305;Asfalto;7_Limon
+1126;811;70170;2;6813,187214;1;2;1;Red Basica de Acceso;0;6813,1872;Lastre;7_Limon
+1127;811;70300;2;926,3558137;1;2;3;Red Basica de Acceso;18306,4305;19232,7863;Asfalto;7_Limon
+1128;810;70361;2;4463,642907;1;2;1;Red Basica de Acceso;0;4463,6429;Asfalto;7_Limon
+1129;810;70362;2;3323,658102;1;2;2;Red Basica de Acceso;4463,6429;7787,301;Asfalto;7_Limon
+1130;809;70371;2;4585,783838;1;2;1;Red Basica de Acceso;0;4585,7838;Asfalto;7_Limon
+1131;809;70372;2;1509,066898;1;2;2;Red Basica de Acceso;4585,7838;6094,8507;Asfalto;7_Limon
+1132;807;70260;2;3340,845804;1;1;1;Red Basica de Acceso;0;3340,8458;TS;7_Limon
+1133;806;70502;2;19619,55292;1;1;4;Red Basica de Acceso;17076,0202;36695,5731;Lastre;7_Limon
+1134;806;70291;2;6865,580883;1;1;1;Red Basica de Acceso;0;6865,5809;Asfalto;7_Limon
+1135;806;70292;2;7015,019681;1;1;2;Red Basica de Acceso;6865,5809;13880,6006;Lastre;7_Limon
+1136;806;70501;2;3195,4196;1;1;3;Red Basica de Acceso;13880,6006;17076,0202;Lastre;7_Limon
+1137;805;70520;2;5254,69227;1;1;2;Conectores de Integracion Territorial;4909,7426;10164,4349;Asfalto;7_Limon
+1138;805;70270;2;4909,742608;1;1;1;Conectores de Integracion Territorial;0;4909,7426;Asfalto;7_Limon
+1139;805;70540;2;4155,352049;1;1;3;Conectores de Integracion Territorial;10164,4349;14319,7869;Asfalto;7_Limon
+1140;804;70180;2;8147,256572;1;1;2;Red Basica de Acceso;6412,7596;14560,0162;Lastre;7_Limon
+1141;804;70280;2;6412,759644;1;1;1;Red Basica de Acceso;0;6412,7596;Asfalto;7_Limon
+1142;804;70560;2;2875,263739;1;1;3;Red Basica de Acceso;14560,0162;17435,28;Lastre;7_Limon
+1143;803;70480;2;8235,023648;1;1;2;Red Basica de Acceso;1825,1163;10060,1399;Lastre;7_Limon
+1144;803;70330;2;1825,116289;1;1;1;Red Basica de Acceso;0;1825,1163;Asfalto;7_Limon
+1145;802;70222;2;3574,894946;1;1;2;Red Basica de Acceso;3270,7971;6845,692;Lastre;7_Limon
+1146;802;70223;2;3805,000014;1;1;3;Red Basica de Acceso;6845,692;10650,692;Lastre;7_Limon
+1147;802;70221;2;3270,797076;1;1;1;Red Basica de Acceso;0;3270,7971;TS;7_Limon
+1148;801;70201;2;16839,00493;1;1;1;Red Basica de Acceso;0;16839,0049;Asfalto;7_Limon
+1149;801;70202;2;3074,973147;1;1;2;Red Basica de Acceso;16839,0049;19913,9781;Lastre;7_Limon
+1150;237;60282;2;8931,372274;1;1;6;Alta Capacidad;66720,5388;75651,911;TS;6_Puntarenas
+1151;239;10512;2;14856,38912;1;2;7;Distribuidores Regionales;64100,8538;78957,2429;Lastre;1_San Jose
+1152;241;70211;2;9616,281697;1;1;1;Distribuidores Regionales;0;9616,2817;TS;7_Limon
+1153;243;10941;2;16242,7311;1;1;2;Distribuidores Regionales;5119,7275;21362,4586;Asfalto;1_San Jose
+1154;244;10832;2;15906,1387;1;1;2;Conectores de Integracion Territorial;5796,1579;21702,2966;Asfalto;1_San Jose
+1155;245;60434;2;10637,70392;1;2;7;Red Basica de Acceso;100904,0067;111541,7106;Lastre;6_Puntarenas
+1156;250;20674;2;19340,15695;1;2;5;Sin clasificar;43102,8832;62443,0402;Asfalto;2_Alajuela
+1157;251;30120;2;4906,0891;1;3;2;Distribuidores Regionales;1797,502;6703,5911;Asfalto;3_Cartago
+1158;252;19067;0;1584,718173;1;2;1;Distribuidores Regionales;0;1584,7182;Asfalto;1_San Jose
+1159;253;51090;2;12632,25145;1;1;2;Red Basica de Acceso;7024,9511;19657,2026;Asfalto;5_Guanacaste
+1160;255;51081;2;971,857839;1;1;1;Red Basica de Acceso;0;971,8578;TS;5_Guanacaste
+1161;256;70720;2;13347,18615;1;1;2;Conectores de Integracion Territorial;5033,3514;18380,5376;TS;7_Limon
+1162;301;60592;2;10400,35377;1;1;6;Conectores de Integracion Territorial;42940,273;53340,6268;Lastre;6_Puntarenas
+1163;303;10632;2;8255,206545;1;1;3;Red Basica de Acceso;9472,9495;17728,156;Asfalto;1_San Jose
+1164;304;30560;2;4773,18738;1;2;4;Red Basica de Acceso;10227,5285;15000,7159;TS;3_Cartago
+1165;306;10960;2;3216,962135;1;2;2;Red Basica de Acceso;380,1689;3597,1311;Asfalto;1_San Jose
+1166;307;11172;2;3065,331727;1;2;3;Red Basica de Acceso;6226,4781;9291,8099;TS;1_San Jose
+1167;308;40440;2;1846,31358;1;2;5;Red Basica de Acceso;5301,4517;7147,7653;Asfalto;4_Heredia
+1168;309;10421;2;3457,323382;1;1;1;Red Basica de Acceso;0;3457,3234;TS;1_San Jose
+1169;310;10772;2;1754,783788;1;1;4;Red Basica de Acceso;6755,1523;8509,9361;Asfalto;1_San Jose
+1170;311;10780;2;2711,222795;1;2;1;Red Basica de Acceso;0;2711,2228;Asfalto;1_San Jose
+1171;312;10260;2;1242,550974;1;1;1;Red Basica de Acceso;0;1242,551;TS;1_San Jose
+1172;313;10291;2;7758,915746;1;1;5;Red Basica de Acceso;24597,9786;32356,8943;Asfalto;1_San Jose
+1173;314;10902;2;4896,542135;1;1;2;Red Basica de Acceso;4820,3021;9716,8442;Lastre;1_San Jose
+1174;315;10611;2;7739,110534;1;1;1;Red Basica de Acceso;0;7739,1105;Asfalto;1_San Jose
+1175;316;11190;2;4713,631139;1;1;2;Conectores de Integracion Territorial;4235,501;8949,1321;Lastre;1_San Jose
+1176;317;10051;2;5018,8376;1;1;1;Red Basica de Acceso;0;5018,8376;Asfalto;1_San Jose
+1177;319;10791;2;9794,839596;1;1;5;Conectores de Integracion Territorial;42486,1061;52280,9458;Lastre;1_San Jose
+1178;320;10800;2;9030,446956;1;1;2;Conectores de Integracion Territorial;8585,8397;17616,2867;Lastre;1_San Jose
+1179;321;10570;2;3129,306107;1;1;1;Conectores de Integracion Territorial;0;3129,3061;Asfalto;1_San Jose
+1180;322;10561;2;5759,992206;1;2;3;Conectores de Integracion Territorial;6583,2023;12343,1945;TS;1_San Jose
+1181;324;10970;2;13442,82452;1;1;1;Red Basica de Acceso;0;13442,8245;Lastre;1_San Jose
+1182;325;10602;2;5223,804487;1;2;3;Conectores de Integracion Territorial;4975,2864;10199,0909;Asfalto;1_San Jose
+1183;326;10883;2;6522,039511;1;2;3;Conectores de Integracion Territorial;12020,5559;18542,5954;Lastre;1_San Jose
+1184;327;10892;2;6465,808565;1;2;2;Red Basica de Acceso;3886,4048;10352,2133;Lastre;1_San Jose
+1185;328;10122;2;9770,367996;1;2;4;Red Basica de Acceso;12840,6442;22611,0123;Asfalto;1_San Jose
+1186;329;10852;2;7515,363324;1;2;2;Red Basica de Acceso;2708,6537;10224,017;Lastre;1_San Jose
+1187;331;10860;2;8077,705838;1;1;1;Conectores de Integracion Territorial;0;8077,7058;Lastre;1_San Jose
+1188;332;11020;2;10080,65368;1;1;1;Red Basica de Acceso;0;10080,6537;TS;1_San Jose
+1189;333;11080;2;7420,940273;1;1;1;Red Basica de Acceso;0;7420,9403;TS;1_San Jose
+1190;335;11060;2;11597,72699;1;1;1;Red Basica de Acceso;0;11597,727;Lastre;1_San Jose
+1191;336;11120;2;8835,434777;1;1;2;Red Basica de Acceso;1974,2182;10809,6529;Asfalto;1_San Jose
+1192;257;70730;2;1932,392268;1;2;1;Sin clasificar;0;1932,3922;Asfalto;7_Limon
+1193;254;51070;2;8354,774985;1;1;1;Conectores de Integracion Territorial;0;8354,775;TS;5_Guanacaste
+1194;334;11043;2;4915,199147;1;1;3;Conectores de Integracion Territorial;6365,1015;11280,3006;Asfalto;1_San Jose
+1195;242;10540;2;10118,44645;1;1;2;Red Basica de Acceso;8433,419;18551,8655;Asfalto;1_San Jose
+1196;249;70590;2;15934,56281;1;1;3;Conectores de Integracion Territorial;13594,2;29528,7628;Asfalto;7_Limon
+1197;238;61030;2;16960,2612;1;1;4;Conectores de Integracion Territorial;24155,4829;41115,7441;Lastre;6_Puntarenas
+1198;238;60261;2;5726,665967;1;1;1;Conectores de Integracion Territorial;0;5726,666;Asfalto;6_Puntarenas
+1199;238;60262;2;9897,138516;1;1;2;Conectores de Integracion Territorial;5726,666;15623,8045;Asfalto;6_Puntarenas
+1200;238;60263;2;8531,678412;1;1;3;Conectores de Integracion Territorial;15623,8045;24155,4829;TS;6_Puntarenas
+1201;238;61042;2;5710,279682;1;1;6;Conectores de Integracion Territorial;45132,0481;50842,3278;Asfalto;6_Puntarenas
+1202;238;61041;2;4016,304037;1;1;5;Conectores de Integracion Territorial;41115,7441;45132,0481;TS;6_Puntarenas
+1203;237;60982;2;19675,60163;1;1;1;Alta Capacidad;0;19675,6017;Asfalto;6_Puntarenas
+1204;237;60981;2;8516,234862;1;1;2;Alta Capacidad;19675,6017;28191,8365;Asfalto;6_Puntarenas
+1205;237;60340;2;17899,16042;1;1;3;Alta Capacidad;28191,8365;46090,9969;Asfalto;6_Puntarenas
+1206;237;60292;2;12816,12316;1;1;4;Alta Capacidad;46090,9969;58907,12;Asfalto;6_Puntarenas
+1207;237;60291;2;7813,418688;1;1;5;Alta Capacidad;58907,12;66720,5388;Asfalto;6_Puntarenas
+1208;237;60281;2;2972,751074;1;1;7;Alta Capacidad;75651,911;78624,6621;Asfalto;6_Puntarenas
+1209;239;10491;2;12252,99914;1;2;1;Distribuidores Regionales;0;12252,9992;Asfalto;1_San Jose
+1210;239;10492;2;4386,62639;1;2;2;Distribuidores Regionales;12252,9992;16639,6256;Asfalto;1_San Jose
+1211;239;11180;2;4506,306518;1;2;3;Distribuidores Regionales;16639,6256;21145,932;Asfalto;1_San Jose
+1212;239;10501;2;11552,65542;1;2;4;Distribuidores Regionales;21145,932;32698,5875;TS;1_San Jose
+1213;239;10502;2;10086,7574;1;2;5;Distribuidores Regionales;32698,5875;42785,3449;TS;1_San Jose
+1214;239;10511;2;21315,50892;1;2;6;Distribuidores Regionales;42785,3449;64100,8538;Lastre;1_San Jose
+1215;239;60540;2;8466,735;1;2;8;Distribuidores Regionales;78957,2429;87423,9779;Lastre;6_Puntarenas
+1216;245;60411;2;14567,13273;1;2;1;Conectores de Integracion Territorial;0;14567,1328;TS;6_Puntarenas
+1217;245;60412;2;30065,81251;1;2;2;Conectores de Integracion Territorial;14567,1328;44632,9453;TS;6_Puntarenas
+1218;245;60420;2;30001,92417;1;2;3;Conectores de Integracion Territorial;44632,9453;74634,8694;Asfalto;6_Puntarenas
+1219;245;60431;2;11642,0155;1;2;4;Red Basica de Acceso;74634,8694;86276,8849;Asfalto;6_Puntarenas
+1220;245;60432;2;5575,245388;1;2;5;Red Basica de Acceso;86276,8849;91852,1303;Lastre;6_Puntarenas
+1221;245;60433;2;9051,876409;1;2;6;Red Basica de Acceso;91852,1303;100904,0067;Lastre;6_Puntarenas
+1222;245;60435;2;5894,407272;1;2;8;Red Basica de Acceso;111541,7106;117436,1179;Lastre;6_Puntarenas
+1223;247;70390;2;8327,201083;1;2;1;Conectores de Integracion Territorial;0;8327,201;Asfalto;7_Limon
+1224;247;70440;2;15828,69818;1;2;2;Conectores de Integracion Territorial;8327,201;24155,8993;Asfalto;7_Limon
+1225;247;70511;2;10198,40276;1;2;3;Conectores de Integracion Territorial;24155,8993;34354,3021;Asfalto;7_Limon
+1226;247;70512;2;10430,24993;1;2;4;Red Basica de Acceso;34354,3021;44784,5519;Asfalto;7_Limon
+1227;249;70620;2;4256,912597;1;1;6;Conectores de Integracion Territorial;42289,8882;46546,8008;Lastre;7_Limon
+1228;249;70570;2;5024,911964;1;1;1;Conectores de Integracion Territorial;0;5024,912;Asfalto;7_Limon
+1229;249;70580;2;8569,288063;1;1;2;Conectores de Integracion Territorial;5024,912;13594,2;Asfalto;7_Limon
+1230;249;70610;2;8604,950913;1;1;5;Conectores de Integracion Territorial;33684,9372;42289,8882;Lastre;7_Limon
+1231;249;70600;2;4156,174406;1;1;4;Conectores de Integracion Territorial;29528,7628;33684,9372;Asfalto;7_Limon
+1232;301;10660;2;10682,13703;1;1;1;Conectores de Integracion Territorial;0;10682,1371;Asfalto;1_San Jose
+1233;301;10720;2;9721,544986;1;1;2;Conectores de Integracion Territorial;10682,1371;20403,682;Lastre;1_San Jose
+1234;301;10731;2;10561,83715;1;1;3;Conectores de Integracion Territorial;20403,682;30965,5193;Lastre;1_San Jose
+1235;301;10732;2;6331,123679;1;1;4;Conectores de Integracion Territorial;30965,5193;37296,6428;Lastre;1_San Jose
+1236;301;60591;2;5643,630191;1;1;5;Conectores de Integracion Territorial;37296,6428;42940,273;Lastre;6_Puntarenas
+1237;313;10651;2;7328,986961;1;1;1;Red Basica de Acceso;0;7328,987;TS;1_San Jose
+1238;313;10652;2;4679,690588;1;1;2;Red Basica de Acceso;7328,987;12008,6775;Asfalto;1_San Jose
+1239;313;10640;2;6352,402602;1;1;3;Red Basica de Acceso;12008,6775;18361,0801;Lastre;1_San Jose
+1240;313;10292;2;4899,412735;1;1;6;Red Basica de Acceso;32356,8943;37256,3071;Asfalto;1_San Jose
+1241;319;10811;2;7720,200028;1;1;1;Red Basica de Acceso;0;7720,2;Asfalto;1_San Jose
+1242;319;10813;2;9023,97213;1;1;3;Red Basica de Acceso;23411,836;32435,8081;Lastre;1_San Jose
+1243;319;10792;2;10050,29802;1;1;4;Conectores de Integracion Territorial;32435,8081;42486,1061;Lastre;1_San Jose
+1244;319;11240;2;8634,949804;1;1;6;Conectores de Integracion Territorial;52280,9458;60915,8955;Lastre;1_San Jose
+1245;240;70410;2;2874,227375;1;1;1;Distribuidores Regionales;0;2874,2274;Concreto;7_Limon
+1246;241;70212;2;2759,492062;1;1;2;Distribuidores Regionales;9616,2817;12375,7738;Asfalto;7_Limon
+1247;242;10580;2;8433,419007;1;1;1;Conectores de Integracion Territorial;0;8433,419;Asfalto;1_San Jose
+1248;243;10930;2;5130,490688;1;1;1;Distribuidores Regionales;0;5119,7275;Asfalto;1_San Jose
+1249;243;10942;2;8490,253329;1;1;3;Distribuidores Regionales;21362,4586;29852,7119;Asfalto;1_San Jose
+1250;243;60480;2;3402,724112;1;1;4;Distribuidores Regionales;29852,7119;33255,436;Asfalto;6_Puntarenas
+1251;244;10831;2;5796,157911;1;1;1;Conectores de Integracion Territorial;0;5796,1579;Asfalto;1_San Jose
+1252;251;10920;2;1797,502038;1;2;1;Distribuidores Regionales;0;1797,502;Asfalto;1_San Jose
+1253;253;51060;2;7024,95115;1;1;1;Red Basica de Acceso;0;7024,9511;Asfalto;5_Guanacaste
+1254;255;51082;2;778,3434625;1;1;2;Red Basica de Acceso;971,8578;1750,2013;TS;5_Guanacaste
+1255;256;70710;2;5033,351454;1;1;1;Conectores de Integracion Territorial;0;5033,3514;TS;7_Limon
+1256;314;10901;2;4820,302062;1;1;1;Red Basica de Acceso;0;4820,3021;Asfalto;1_San Jose
+1257;315;10612;2;7195,218405;1;1;2;Red Basica de Acceso;7739,1105;14934,3289;TS;1_San Jose
+1258;316;10060;2;4235,500996;1;1;1;Conectores de Integracion Territorial;0;4235,501;Asfalto;1_San Jose
+1259;317;10052;2;4435,135195;1;1;2;Red Basica de Acceso;5018,8376;9453,9728;Lastre;1_San Jose
+1260;304;10430;2;2012,088251;1;2;1;Red Basica de Acceso;0;2012,0883;Asfalto;1_San Jose
+1261;304;11150;2;3864,877563;1;2;2;Red Basica de Acceso;2012,0883;5876,9658;TS;1_San Jose
+1262;304;11160;2;4350,562712;1;2;3;Red Basica de Acceso;5876,9658;10227,5285;TS;1_San Jose
+1263;306;11100;2;380,1689545;1;2;1;Red Basica de Acceso;0;380,1689;Asfalto;1_San Jose
+1264;307;10410;2;3033,356781;1;2;1;Red Basica de Acceso;0;3033,3568;TS;1_San Jose
+1265;307;11171;2;3193,121335;1;2;2;Red Basica de Acceso;3033,3568;6226,4781;TS;1_San Jose
+1266;307;11173;2;2195,909728;1;2;4;Red Basica de Acceso;9291,8099;11487,7196;Asfalto;1_San Jose
+1267;308;40450;2;888,16692;1;2;1;Conectores de Integracion Territorial;0;888,1669;Asfalto;4_Heredia
+1268;308;10331;2;1227,703665;1;2;2;Conectores de Integracion Territorial;888,1669;2115,8706;Asfalto;1_San Jose
+1269;308;10332;2;2184,834761;1;2;3;Conectores de Integracion Territorial;2115,8706;4300,7053;TS;1_San Jose
+1270;308;40290;2;1000,746411;1;2;4;Conectores de Integracion Territorial;4300,7053;5301,4517;TS;4_Heredia
+1271;303;10620;2;5300,05069;1;1;1;Red Basica de Acceso;0;5300,0506;Asfalto;1_San Jose
+1272;303;10631;2;4172,898758;1;1;2;Red Basica de Acceso;5300,0506;9472,9495;Asfalto;1_San Jose
+1273;309;10422;2;2490,366491;1;1;2;Red Basica de Acceso;3457,3234;5947,6899;Asfalto;1_San Jose
+1274;310;10751;2;2317,516261;1;1;1;Red Basica de Acceso;0;2317,5162;Asfalto;1_San Jose
+1275;310;10752;2;3087,851668;1;1;2;Red Basica de Acceso;2317,5162;5405,3679;Asfalto;1_San Jose
+1276;310;10773;2;1349,784377;1;1;3;Red Basica de Acceso;5405,3679;6755,1523;Asfalto;1_San Jose
+1277;310;10771;2;1490,783874;1;1;5;Red Basica de Acceso;8509,9361;10000,72;Asfalto;1_San Jose
+1278;320;60550;2;8585,839779;1;1;1;Conectores de Integracion Territorial;0;8585,8397;Lastre;6_Puntarenas
+1279;332;11030;2;6249,844056;1;1;2;Red Basica de Acceso;10080,6537;16330,4977;Lastre;1_San Jose
+1280;333;11090;2;4807,503379;1;1;2;Red Basica de Acceso;7420,9403;12228,4437;Lastre;1_San Jose
+1281;334;11041;2;2506,809;1;1;1;Conectores de Integracion Territorial;0;2506,809;TS;1_San Jose
+1282;334;11042;2;3858,292495;1;1;2;Conectores de Integracion Territorial;2506,809;6365,1015;TS;1_San Jose
+1283;334;11050;2;3397,216835;1;1;4;Conectores de Integracion Territorial;11280,3006;14677,5175;Asfalto;1_San Jose
+1284;335;11070;2;6049,848575;1;1;2;Red Basica de Acceso;11597,727;17647,5756;Lastre;1_San Jose
+1285;336;11110;2;1974,218171;1;1;1;Red Basica de Acceso;0;1974,2182;Asfalto;1_San Jose
+1286;322;10551;2;3865,202088;1;2;1;Conectores de Integracion Territorial;0;3865,2021;Asfalto;1_San Jose
+1287;322;10552;2;2718,000201;1;2;2;Conectores de Integracion Territorial;3865,2021;6583,2023;TS;1_San Jose
+1288;322;10562;2;5594,061919;1;2;4;Conectores de Integracion Territorial;12343,1945;17937,2564;TS;1_San Jose
+1289;324;11260;2;7404,286135;1;1;3;Red Basica de Acceso;18289,6368;25693,9228;Lastre;1_San Jose
+1290;324;10980;2;4846,812184;1;1;2;Red Basica de Acceso;13442,8245;18289,6368;Lastre;1_San Jose
+1291;325;10590;2;2505,277009;1;2;1;Conectores de Integracion Territorial;0;2505,277;Asfalto;1_San Jose
+1292;325;10601;2;2470,009387;1;2;2;Conectores de Integracion Territorial;2505,277;4975,2864;Asfalto;1_San Jose
+1293;326;10881;2;6958,714021;1;2;1;Conectores de Integracion Territorial;0;6958,714;Asfalto;1_San Jose
+1294;326;10882;2;5061,841899;1;2;2;Conectores de Integracion Territorial;6958,714;12020,5559;Lastre;1_San Jose
+1295;327;10891;2;3886,404758;1;2;1;Red Basica de Acceso;0;3886,4048;Asfalto;1_San Jose
+1296;328;10110;2;2503,778993;1;2;1;Conectores de Integracion Territorial;0;2503,779;Asfalto;1_San Jose
+1297;328;11330;2;5964,756672;1;2;2;Red Basica de Acceso;2503,779;8468,5357;Asfalto;1_San Jose
+1298;328;10121;2;4372,108623;1;2;3;Red Basica de Acceso;8468,5357;12840,6442;Asfalto;1_San Jose
+1299;329;10851;2;2708,653646;1;2;1;Red Basica de Acceso;0;2708,6537;Asfalto;1_San Jose
+1300;611;61020;2;8640,050355;1;2;3;Red Basica de Acceso;10417,9681;19058,0185;Lastre;6_Puntarenas
+1301;611;60380;2;2790,95079;1;2;1;Red Basica de Acceso;0;2790,9508;TS;6_Puntarenas
+1302;611;61010;2;7627,017347;1;2;2;Red Basica de Acceso;2790,9508;10417,9681;Lastre;6_Puntarenas
+1303;252;19067;1;1240,203355;2;2;1;Distribuidores Regionales;0;1240,2034;Asfalto;1_San Jose
+1304;246;60320;2;2871,943465;1;2;1;Conectores de Integracion Territorial;0;2873,101;Asfalto;6_Puntarenas
+1305;246;60350;2;3681,258928;2;2;3;Conectores de Integracion Territorial;2873,101;6554,36;Lastre;6_Puntarenas
+1306;250;20870;2;3503,271579;1;2;1;Conectores de Integracion Territorial;0;3503,2716;Asfalto;2_Alajuela
+1307;250;20671;2;8938,580404;1;2;2;Conectores de Integracion Territorial;3503,2716;12441,852;Asfalto;2_Alajuela
+1308;250;20672;2;14821,28755;1;2;3;Conectores de Integracion Territorial;12441,852;27263,1396;Asfalto;2_Alajuela
+1309;250;20673;2;15839,74371;1;2;4;Conectores de Integracion Territorial;27263,1396;43102,8832;Asfalto;2_Alajuela
+1310;134;21870;2;299,2982402;1;2;1;Sin clasificar;0;299,298;Asfalto;2_Alajuela
+1311;27;128;2;283,0872627;2;1;251;Alta Capacidad;0;283,074;Asfalto;2_Alajuela
+1312;27;27;2;293,7504721;2;1;244;Alta Capacidad;0;293,6356;Asfalto;2_Alajuela
+1313;27;113;2;310,1632615;4;1;333;Alta Capacidad;0;310,0735;Asfalto;2_Alajuela
+1314;27;43;2;144,6625748;4;1;331;Alta Capacidad;0;144,6626;Asfalto;2_Alajuela
+1315;27;133;2;435,8272333;1;1;241;Alta Capacidad;0;435,5954;Asfalto;2_Alajuela
+1316;27;23;2;452,6905285;1;1;238;Alta Capacidad;0;452,6484;Asfalto;2_Alajuela
+1317;27;123;2;403,6177835;3;1;320;Alta Capacidad;0;403,5608;Asfalto;2_Alajuela
+1318;27;32;2;250,5135552;3;1;253;Alta Capacidad;0;250,5136;Asfalto;2_Alajuela
+1319;27;128;3;116,3215399;2;1;252;Alta Capacidad;0;116,369;Asfalto;2_Alajuela
+1320;27;27;3;115,1263383;2;1;245;Alta Capacidad;0;115,0034;Asfalto;2_Alajuela
+1321;27;112;3;201,2001357;4;1;334;Alta Capacidad;0;201,2001;Asfalto;2_Alajuela
+1322;27;132;3;149,1740132;1;1;242;Alta Capacidad;0;149,2137;Asfalto;2_Alajuela
+1323;27;23;3;130,6950781;1;1;239;Alta Capacidad;0;130,5804;Asfalto;2_Alajuela
+1324;27;123;3;109,2307434;3;1;321;Alta Capacidad;0;109,2246;Asfalto;2_Alajuela
+1325;27;239;1;47,74543255;2;2;249;Alta Capacidad;0;35,232;Asfalto;2_Alajuela
+1326;27;240;1;99,8572416;2;2;250;Alta Capacidad;35,232;135,0212;Asfalto;2_Alajuela
+1327;27;237;0;99,64043195;2;2;247;Alta Capacidad;0;99,6335;Asfalto;2_Alajuela
+1328;27;238;0;46,51473439;2;2;248;Alta Capacidad;99,6335;133,9568;Asfalto;2_Alajuela
+1329;27;311;1;101,6283006;4;2;329;Alta Capacidad;132,6749;234,3032;Asfalto;2_Alajuela
+1330;27;309;1;44,08288102;4;2;327;Alta Capacidad;0;32,5382;Asfalto;2_Alajuela
+1331;27;310;1;100,1367458;4;2;328;Alta Capacidad;32,5382;132,6749;Asfalto;2_Alajuela
+1332;27;312;1;101,3411516;4;2;330;Alta Capacidad;234,3032;335,6444;Asfalto;2_Alajuela
+1333;27;307;0;100,030035;4;2;325;Alta Capacidad;199,8299;299,8599;Asfalto;2_Alajuela
+1334;27;305;0;99,93177657;4;2;323;Alta Capacidad;0;99,9318;Asfalto;2_Alajuela
+1335;27;306;0;99,89810626;4;2;324;Alta Capacidad;99,9318;199,8299;Asfalto;2_Alajuela
+1336;27;308;0;45,60672807;4;2;326;Alta Capacidad;299,8599;333,2106;Asfalto;2_Alajuela
+1337;27;236;1;122,9595207;1;2;237;Alta Capacidad;3992,5761;4115,4334;Asfalto;2_Alajuela
+1338;27;198;1;100,0300132;1;2;199;Alta Capacidad;91,4055;191,4356;Asfalto;2_Alajuela
+1339;27;197;1;88,24188619;1;2;198;Alta Capacidad;0;91,4055;Asfalto;2_Alajuela
+1340;27;199;1;100,030017;1;2;200;Alta Capacidad;191,4356;291,4656;Asfalto;2_Alajuela
+1341;27;200;1;100,030083;1;2;201;Alta Capacidad;291,4656;391,4957;Asfalto;2_Alajuela
+1342;27;201;1;100,0300033;1;2;202;Alta Capacidad;391,4957;491,5257;Asfalto;2_Alajuela
+1343;27;202;1;100,0299623;1;2;203;Alta Capacidad;491,5257;591,5556;Asfalto;2_Alajuela
+1344;27;203;1;100,0300391;1;2;204;Alta Capacidad;591,5556;691,5857;Asfalto;2_Alajuela
+1345;27;204;1;100,0299871;1;2;205;Alta Capacidad;691,5857;791,6156;Asfalto;2_Alajuela
+1346;27;205;1;100,0300041;1;2;206;Alta Capacidad;791,6156;891,6457;Asfalto;2_Alajuela
+1347;27;206;1;100,0300041;1;2;207;Alta Capacidad;891,6457;991,6757;Asfalto;2_Alajuela
+1348;27;207;1;100,0300041;1;2;208;Alta Capacidad;991,6757;1091,7057;Asfalto;2_Alajuela
+1349;27;208;1;100,0300374;1;2;209;Alta Capacidad;1091,7057;1191,7357;Asfalto;2_Alajuela
+1350;27;209;1;100,030062;1;2;210;Alta Capacidad;1191,7357;1291,7658;Asfalto;2_Alajuela
+1351;27;210;1;100,0299898;1;2;211;Alta Capacidad;1291,7658;1391,7958;Asfalto;2_Alajuela
+1352;27;211;1;100,0300469;1;2;212;Alta Capacidad;1391,7958;1491,8258;Asfalto;2_Alajuela
+1353;27;212;1;100,0300171;1;2;213;Alta Capacidad;1491,8258;1591,8558;Asfalto;2_Alajuela
+1354;27;213;1;100,0299537;1;2;214;Alta Capacidad;1591,8558;1691,8858;Asfalto;2_Alajuela
+1355;27;214;1;100,0299996;1;2;215;Alta Capacidad;1691,8858;1791,9158;Asfalto;2_Alajuela
+1356;27;215;1;100,0300097;1;2;216;Alta Capacidad;1791,9158;1891,9458;Asfalto;2_Alajuela
+1357;27;216;1;100,0300299;1;2;217;Alta Capacidad;1891,9458;1991,9758;Asfalto;2_Alajuela
+1358;27;217;1;100,0300261;1;2;218;Alta Capacidad;1991,9758;2092,0058;Asfalto;2_Alajuela
+1359;27;218;1;100,0300031;1;2;219;Alta Capacidad;2092,0058;2192,0358;Asfalto;2_Alajuela
+1360;27;219;1;100,0300607;1;2;220;Alta Capacidad;2192,0358;2292,0659;Asfalto;2_Alajuela
+1361;27;220;1;100,029979;1;2;221;Alta Capacidad;2292,0659;2392,0959;Asfalto;2_Alajuela
+1362;27;221;1;100,0300031;1;2;222;Alta Capacidad;2392,0959;2492,1259;Asfalto;2_Alajuela
+1363;27;222;1;100,0300607;1;2;223;Alta Capacidad;2492,1259;2592,1559;Asfalto;2_Alajuela
+1364;27;223;1;100,0300031;1;2;224;Alta Capacidad;2592,1559;2692,1859;Asfalto;2_Alajuela
+1365;27;224;1;100,029979;1;2;225;Alta Capacidad;2692,1859;2792,2159;Asfalto;2_Alajuela
+1366;27;225;1;100,0300031;1;2;226;Alta Capacidad;2792,2159;2892,2459;Asfalto;2_Alajuela
+1367;27;226;1;100,0300607;1;2;227;Alta Capacidad;2892,2459;2992,276;Asfalto;2_Alajuela
+1368;27;227;1;100,0300031;1;2;228;Alta Capacidad;2992,276;3092,306;Asfalto;2_Alajuela
+1369;27;228;1;100,029979;1;2;229;Alta Capacidad;3092,306;3192,336;Asfalto;2_Alajuela
+1370;27;229;1;100,0300229;1;2;230;Alta Capacidad;3192,336;3292,366;Asfalto;2_Alajuela
+1371;27;230;1;100,0299963;1;2;231;Alta Capacidad;3292,366;3392,396;Asfalto;2_Alajuela
+1372;27;230;1;100,0300438;1;2;231;Alta Capacidad;3392,396;3492,426;Asfalto;2_Alajuela
+1373;27;231;1;100,0299488;1;2;232;Alta Capacidad;3492,426;3592,456;Asfalto;2_Alajuela
+1374;27;232;1;100,0300628;1;2;233;Alta Capacidad;3592,456;3692,486;Asfalto;2_Alajuela
+1375;27;233;1;100,0299741;1;2;234;Alta Capacidad;3692,486;3792,516;Asfalto;2_Alajuela
+1376;27;234;1;100,0300416;1;2;235;Alta Capacidad;3792,516;3892,5461;Asfalto;2_Alajuela
+1377;27;235;1;100,0300483;1;2;236;Alta Capacidad;3892,5461;3992,5761;Asfalto;2_Alajuela
+1378;27;195;0;100,0299986;1;2;196;Alta Capacidad;3924,6805;4024,7105;Asfalto;2_Alajuela
+1379;27;155;0;123,6174826;1;2;156;Alta Capacidad;0;123,5401;Asfalto;2_Alajuela
+1380;27;156;0;100,0300483;1;2;157;Alta Capacidad;123,5401;223,5701;Asfalto;2_Alajuela
+1381;27;157;0;100,0300191;1;2;158;Alta Capacidad;223,5701;323,6001;Asfalto;2_Alajuela
+1382;27;158;0;100,0299644;1;2;158;Alta Capacidad;323,6001;423,6301;Asfalto;2_Alajuela
+1383;27;159;0;100,0300503;1;2;160;Alta Capacidad;423,6301;523,6601;Asfalto;2_Alajuela
+1384;27;160;0;100,0300165;1;2;161;Alta Capacidad;523,6601;623,6902;Asfalto;2_Alajuela
+1385;27;161;0;100,0299653;1;2;162;Alta Capacidad;623,6902;723,7201;Asfalto;2_Alajuela
+1386;27;162;0;100,0300361;1;2;163;Alta Capacidad;723,7201;823,7502;Asfalto;2_Alajuela
+1387;27;163;0;100,0300464;1;2;164;Alta Capacidad;823,7502;923,7802;Asfalto;2_Alajuela
+1388;27;164;0;100,0299213;1;2;165;Alta Capacidad;923,7802;1023,8101;Asfalto;2_Alajuela
+1389;27;165;0;100,0300607;1;2;166;Alta Capacidad;1023,8101;1123,8402;Asfalto;2_Alajuela
+1390;27;166;0;100,0300031;1;2;167;Alta Capacidad;1123,8402;1223,8702;Asfalto;2_Alajuela
+1391;27;167;0;100,0300607;1;2;168;Alta Capacidad;1223,8702;1323,9003;Asfalto;2_Alajuela
+1392;27;168;0;100,0299213;1;2;169;Alta Capacidad;1323,9003;1423,9302;Asfalto;2_Alajuela
+1393;27;170;0;100,0300607;1;2;171;Alta Capacidad;1423,9302;1523,9602;Asfalto;2_Alajuela
+1394;27;171;0;100,0300031;1;2;172;Alta Capacidad;1523,9602;1623,9902;Asfalto;2_Alajuela
+1395;27;172;0;100,0300607;1;2;173;Alta Capacidad;1623,9902;1724,0203;Asfalto;2_Alajuela
+1396;27;173;0;100,0299213;1;2;174;Alta Capacidad;1724,0203;1824,0502;Asfalto;2_Alajuela
+1397;27;174;0;100,0300607;1;2;175;Alta Capacidad;1824,0502;1924,0803;Asfalto;2_Alajuela
+1398;27;175;0;100,0300031;1;2;176;Alta Capacidad;1924,0803;2024,1103;Asfalto;2_Alajuela
+1399;27;176;0;100,0300478;1;2;177;Alta Capacidad;2024,1103;2124,1403;Asfalto;2_Alajuela
+1400;27;177;0;100,0300181;1;2;178;Alta Capacidad;2124,1403;2224,1704;Asfalto;2_Alajuela
+1401;27;178;0;100,0299404;1;2;179;Alta Capacidad;2224,1704;2324,2003;Asfalto;2_Alajuela
+1402;27;179;0;100,0300147;1;2;180;Alta Capacidad;2324,2003;2424,2303;Asfalto;2_Alajuela
+1403;27;180;0;100,0300943;1;2;181;Alta Capacidad;2424,2303;2524,2604;Asfalto;2_Alajuela
+1404;27;181;0;100,0299709;1;2;182;Alta Capacidad;2524,2604;2624,2904;Asfalto;2_Alajuela
+1405;27;182;0;100,0300469;1;2;183;Alta Capacidad;2624,2904;2724,3204;Asfalto;2_Alajuela
+1406;27;183;0;100,0299658;1;2;184;Alta Capacidad;2724,3204;2824,3504;Asfalto;2_Alajuela
+1407;27;184;0;100,0300584;1;2;185;Alta Capacidad;2824,3504;2924,3804;Asfalto;2_Alajuela
+1408;27;185;0;100,0299526;1;2;186;Alta Capacidad;2924,3804;3024,4104;Asfalto;2_Alajuela
+1409;27;186;0;100,0300041;1;2;187;Alta Capacidad;3024,4104;3124,4404;Asfalto;2_Alajuela
+1410;27;187;0;100,0300041;1;2;188;Alta Capacidad;3124,4404;3224,4704;Asfalto;2_Alajuela
+1411;27;188;0;100,0300041;1;2;189;Alta Capacidad;3224,4704;3324,5004;Asfalto;2_Alajuela
+1412;27;189;0;100,0300239;1;2;190;Alta Capacidad;3324,5004;3424,5304;Asfalto;2_Alajuela
+1413;27;190;0;100,0300329;1;2;191;Alta Capacidad;3424,5304;3524,5605;Asfalto;2_Alajuela
+1414;27;191;0;100,0300147;1;2;192;Alta Capacidad;3524,5605;3624,5905;Asfalto;2_Alajuela
+1415;27;192;0;100,0300033;1;2;193;Alta Capacidad;3624,5905;3724,6205;Asfalto;2_Alajuela
+1416;27;193;0;100,029977;1;2;194;Alta Capacidad;3724,6205;3824,6505;Asfalto;2_Alajuela
+1417;27;194;0;100,0300588;1;2;195;Alta Capacidad;3824,6505;3924,6805;Asfalto;2_Alajuela
+1418;27;196;0;85,18671717;1;2;197;Alta Capacidad;4024,7105;4113,101;Asfalto;2_Alajuela
+1419;27;273;1;100,0299765;3;2;286;Alta Capacidad;0;100,03;Asfalto;2_Alajuela
+1420;27;304;1;130,152914;3;2;317;Alta Capacidad;3100,9303;3231,0832;Asfalto;2_Alajuela
+1421;27;274;1;100,0300193;3;2;287;Alta Capacidad;100,03;200,06;Asfalto;2_Alajuela
+1422;27;275;1;100,0300786;3;2;288;Alta Capacidad;200,06;300,0901;Asfalto;2_Alajuela
+1423;27;276;1;100,0299391;3;2;289;Alta Capacidad;300,0901;400,12;Asfalto;2_Alajuela
+1424;27;277;1;100,030069;3;2;290;Alta Capacidad;400,12;500,1501;Asfalto;2_Alajuela
+1425;27;278;1;100,0299761;3;2;291;Alta Capacidad;500,1501;600,1801;Asfalto;2_Alajuela
+1426;27;279;1;100,0300177;3;2;292;Alta Capacidad;600,1801;700,2101;Asfalto;2_Alajuela
+1427;27;280;1;100,0299695;3;2;293;Alta Capacidad;700,2101;800,24;Asfalto;2_Alajuela
+1428;27;281;1;100,0300469;3;2;294;Alta Capacidad;800,24;900,2701;Asfalto;2_Alajuela
+1429;27;282;1;100,0300043;3;2;295;Alta Capacidad;900,2701;1000,3001;Asfalto;2_Alajuela
+1430;27;283;1;100,0300526;3;2;296;Alta Capacidad;1000,3001;1100,3301;Asfalto;2_Alajuela
+1431;27;284;1;100,03001;3;2;297;Alta Capacidad;1100,3301;1200,3602;Asfalto;2_Alajuela
+1432;27;285;1;100,0300015;3;2;298;Alta Capacidad;1200,3602;1300,3902;Asfalto;2_Alajuela
+1433;27;286;1;100,0300077;3;2;299;Alta Capacidad;1300,3902;1400,4202;Asfalto;2_Alajuela
+1434;27;287;1;100,0300141;3;2;300;Alta Capacidad;1400,4202;1500,4502;Asfalto;2_Alajuela
+1435;27;288;1;100,0300279;3;2;301;Alta Capacidad;1500,4502;1600,4802;Asfalto;2_Alajuela
+1436;27;289;1;100,0300017;3;2;302;Alta Capacidad;1600,4802;1700,5102;Asfalto;2_Alajuela
+1437;27;290;1;100,0300224;3;2;303;Alta Capacidad;1700,5102;1800,5402;Asfalto;2_Alajuela
+1438;27;291;1;100,0299423;3;2;304;Alta Capacidad;1800,5402;1900,5702;Asfalto;2_Alajuela
+1439;27;292;1;100,0300523;3;2;305;Alta Capacidad;1900,5702;2000,6002;Asfalto;2_Alajuela
+1440;27;293;1;100,0300159;3;2;306;Alta Capacidad;2000,6002;2100,6302;Asfalto;2_Alajuela
+1441;27;294;1;100,0300063;3;2;307;Alta Capacidad;2100,6302;2200,6603;Asfalto;2_Alajuela
+1442;27;295;1;100,0300444;3;2;308;Alta Capacidad;2200,6603;2300,6903;Asfalto;2_Alajuela
+1443;27;296;1;100,0300011;3;2;309;Alta Capacidad;2300,6903;2400,7203;Asfalto;2_Alajuela
+1444;27;297;1;100,029989;3;2;310;Alta Capacidad;2400,7203;2500,7503;Asfalto;2_Alajuela
+1445;27;298;1;100,0300254;3;2;311;Alta Capacidad;2500,7503;2600,7803;Asfalto;2_Alajuela
+1446;27;299;1;100,0300515;3;2;312;Alta Capacidad;2600,7803;2700,8104;Asfalto;2_Alajuela
+1447;27;300;1;100,0299338;3;2;313;Alta Capacidad;2700,8104;2800,8403;Asfalto;2_Alajuela
+1448;27;301;1;100,0300376;3;2;314;Alta Capacidad;2800,8403;2900,8703;Asfalto;2_Alajuela
+1449;27;302;1;100,0299915;3;2;315;Alta Capacidad;2900,8703;3000,9003;Asfalto;2_Alajuela
+1450;27;303;1;100,03;3;2;316;Alta Capacidad;3000,9003;3100,9303;Asfalto;2_Alajuela
+1451;27;271;0;100,0299622;3;2;284;Alta Capacidad;3035,3179;3135,3478;Asfalto;2_Alajuela
+1452;27;241;0;134,4474829;3;2;254;Alta Capacidad;0;134,4475;Asfalto;2_Alajuela
+1453;27;242;0;100,0300052;3;2;255;Alta Capacidad;134,4475;234,4775;Asfalto;2_Alajuela
+1454;27;243;0;100,0300908;3;2;256;Alta Capacidad;234,4775;334,5076;Asfalto;2_Alajuela
+1455;27;244;0;100,029924;3;2;257;Alta Capacidad;334,5076;434,5375;Asfalto;2_Alajuela
+1456;27;245;0;100,030061;3;2;258;Alta Capacidad;434,5375;534,5676;Asfalto;2_Alajuela
+1457;27;246;0;100,0300402;3;2;259;Alta Capacidad;534,5676;634,5976;Asfalto;2_Alajuela
+1458;27;247;0;100,0299459;3;2;260;Alta Capacidad;634,5976;734,6276;Asfalto;2_Alajuela
+1459;27;248;0;100,0300315;3;2;261;Alta Capacidad;734,6276;834,6576;Asfalto;2_Alajuela
+1460;27;249;0;100,0299993;3;2;262;Alta Capacidad;834,6576;934,6876;Asfalto;2_Alajuela
+1461;27;250;0;100,0300299;3;2;263;Alta Capacidad;934,6876;1034,7176;Asfalto;2_Alajuela
+1462;27;251;0;100,0299709;3;2;264;Alta Capacidad;1034,7176;1134,7476;Asfalto;2_Alajuela
+1463;27;252;0;100,0300585;3;2;265;Alta Capacidad;1134,7476;1234,7776;Asfalto;2_Alajuela
+1464;27;253;0;100,029984;3;2;266;Alta Capacidad;1234,7776;1334,8076;Asfalto;2_Alajuela
+1465;27;254;0;100,0300745;3;2;267;Alta Capacidad;1334,8076;1434,8377;Asfalto;2_Alajuela
+1466;27;255;0;100,0299566;3;2;268;Alta Capacidad;1434,8377;1534,8677;Asfalto;2_Alajuela
+1467;27;256;0;100,0300072;3;2;269;Alta Capacidad;1534,8677;1634,8977;Asfalto;2_Alajuela
+1468;27;257;0;100,0300838;3;2;270;Alta Capacidad;1634,8977;1734,9277;Asfalto;2_Alajuela
+1469;27;258;0;100,0299681;3;2;271;Alta Capacidad;1734,9277;1834,9577;Asfalto;2_Alajuela
+1470;27;259;0;100,0299938;3;2;272;Alta Capacidad;1834,9577;1934,9877;Asfalto;2_Alajuela
+1471;27;260;0;100,0300379;3;2;273;Alta Capacidad;1934,9877;2035,0177;Asfalto;2_Alajuela
+1472;27;261;0;100,03001;3;2;274;Alta Capacidad;2035,0177;2135,0478;Asfalto;2_Alajuela
+1473;27;262;0;100,0300252;3;2;275;Alta Capacidad;2135,0478;2235,0778;Asfalto;2_Alajuela
+1474;27;263;0;100,029961;3;2;276;Alta Capacidad;2235,0778;2335,1077;Asfalto;2_Alajuela
+1475;27;264;0;100,0300469;3;2;277;Alta Capacidad;2335,1077;2435,1378;Asfalto;2_Alajuela
+1476;27;265;0;100,0300188;3;2;278;Alta Capacidad;2435,1378;2535,1678;Asfalto;2_Alajuela
+1477;27;266;0;100,0299906;3;2;279;Alta Capacidad;2535,1678;2635,1978;Asfalto;2_Alajuela
+1478;27;267;0;100,030069;3;2;280;Alta Capacidad;2635,1978;2735,2279;Asfalto;2_Alajuela
+1479;27;268;0;100,0299391;3;2;281;Alta Capacidad;2735,2279;2835,2578;Asfalto;2_Alajuela
+1480;27;269;0;100,030069;3;2;282;Alta Capacidad;2835,2578;2935,2879;Asfalto;2_Alajuela
+1481;27;270;0;100,0299906;3;2;283;Alta Capacidad;2935,2879;3035,3179;Asfalto;2_Alajuela
+1482;27;272;0;97,01271349;3;2;285;Alta Capacidad;3135,3478;3232,0472;Asfalto;2_Alajuela
+1483;27;128;2;264,5789436;2;1;251;Alta Capacidad;0;264,5789;Asfalto;2_Alajuela
+1484;27;27;2;273,408884;2;1;244;Alta Capacidad;0;273,4089;Asfalto;2_Alajuela
+1485;27;112;2;193,2066365;4;1;332;Alta Capacidad;0;193,2066;Asfalto;2_Alajuela
+1486;27;42;2;179,7405791;4;1;322;Alta Capacidad;0;179,7406;Asfalto;2_Alajuela
+1487;27;131;2;590,5235023;1;1;240;Alta Capacidad;0;590,5235;Asfalto;2_Alajuela
+1488;27;23;2;366,049161;1;1;238;Alta Capacidad;0;366,0492;Asfalto;2_Alajuela
+1489;27;123;2;152,9975714;3;1;320;Alta Capacidad;0;152,9976;Asfalto;2_Alajuela
+1490;27;32;2;483,0084843;3;1;253;Alta Capacidad;0;483,0085;Asfalto;2_Alajuela
+1491;27;153;1;1000,300121;0;2;153;Alta Capacidad;74357,6999;75358;Asfalto;1_San Jose
+1492;27;78;1;335,4910888;0;1;78;Alta Capacidad;0;335,4911;Asfalto;6_Puntarenas
+1493;27;79;1;1000,300183;0;2;79;Alta Capacidad;335,4911;1335,7913;Asfalto;6_Puntarenas
+1494;27;80;1;1000,300098;0;2;80;Alta Capacidad;1335,7913;2336,0914;Asfalto;6_Puntarenas
+1495;27;81;1;1000,300101;0;2;81;Alta Capacidad;2336,0914;3336,3915;Asfalto;6_Puntarenas
+1496;27;82;1;1000,300136;0;3;82;Alta Capacidad;3336,3915;4336,6916;Asfalto;6_Puntarenas
+1497;27;83;1;1000,300116;0;2;83;Alta Capacidad;4336,6916;5336,9917;Asfalto;2_Alajuela
+1498;27;84;1;1000,300103;0;2;84;Alta Capacidad;5336,9917;6337,2918;Asfalto;2_Alajuela
+1499;27;85;1;1000,300143;0;2;85;Alta Capacidad;6337,2918;7337,592;Asfalto;2_Alajuela
+1500;27;86;1;1000,300083;0;2;86;Alta Capacidad;7337,592;8337,8921;Asfalto;2_Alajuela
+1501;27;87;1;1000,300131;0;2;87;Alta Capacidad;8337,8921;9338,1922;Asfalto;2_Alajuela
+1502;27;88;1;1000,300172;0;2;88;Alta Capacidad;9338,1922;10338,4924;Asfalto;2_Alajuela
+1503;27;89;1;1000,300076;0;2;89;Alta Capacidad;10338,4924;11338,7924;Asfalto;2_Alajuela
+1504;27;90;1;1000,300154;0;2;90;Alta Capacidad;11338,7924;12339,0926;Asfalto;2_Alajuela
+1505;27;91;1;1000,300087;0;2;91;Alta Capacidad;12339,0926;13339,3927;Asfalto;2_Alajuela
+1506;27;92;1;1000,300098;0;2;92;Alta Capacidad;13339,3927;14339,6928;Asfalto;2_Alajuela
+1507;27;93;1;1000,300136;0;2;93;Alta Capacidad;14339,6928;15339,9929;Asfalto;2_Alajuela
+1508;27;94;1;1000,300096;0;2;94;Alta Capacidad;15339,9929;16340,293;Asfalto;2_Alajuela
+1509;27;95;1;1000,300127;0;2;95;Alta Capacidad;16340,293;17340,5931;Asfalto;2_Alajuela
+1510;27;96;1;1000,300162;0;2;96;Alta Capacidad;17340,5931;18340,8933;Asfalto;2_Alajuela
+1511;27;97;1;1000,300118;0;2;97;Alta Capacidad;18340,8933;19341,1934;Asfalto;2_Alajuela
+1512;27;98;1;1000,300149;0;2;98;Alta Capacidad;19341,1934;20341,4936;Asfalto;2_Alajuela
+1513;27;99;1;1000,300096;0;2;99;Alta Capacidad;20341,4936;21341,7937;Asfalto;2_Alajuela
+1514;27;100;1;1000,300094;0;2;100;Alta Capacidad;21341,7937;22342,0937;Asfalto;2_Alajuela
+1515;27;101;1;1000,300099;0;2;101;Alta Capacidad;22342,0937;23342,3938;Asfalto;2_Alajuela
+1516;27;102;1;1000,300134;0;2;102;Alta Capacidad;23342,3938;24342,694;Asfalto;2_Alajuela
+1517;27;103;1;1000,300112;0;2;103;Alta Capacidad;24342,694;25342,9941;Asfalto;2_Alajuela
+1518;27;104;1;1000,300192;0;2;104;Alta Capacidad;25342,9941;26343,2943;Asfalto;2_Alajuela
+1519;27;105;1;1000,300092;0;2;105;Alta Capacidad;26343,2943;27343,5944;Asfalto;2_Alajuela
+1520;27;106;1;1000,30008;0;2;106;Alta Capacidad;27343,5944;28343,8945;Asfalto;2_Alajuela
+1521;27;107;1;1000,300088;0;2;107;Alta Capacidad;28343,8945;29344,1945;Asfalto;2_Alajuela
+1522;27;108;1;1000,300156;0;2;108;Alta Capacidad;29344,1945;30344,4947;Asfalto;2_Alajuela
+1523;27;109;1;1000,300136;0;2;109;Alta Capacidad;30344,4947;31344,7948;Asfalto;2_Alajuela
+1524;27;110;1;1000,300145;0;2;110;Alta Capacidad;31344,7948;32345,095;Asfalto;2_Alajuela
+1525;27;111;1;1000,300119;0;2;111;Alta Capacidad;32345,095;33345,3951;Asfalto;2_Alajuela
+1526;27;112;1;1000,300091;0;2;112;Alta Capacidad;33345,3951;34345,6952;Asfalto;2_Alajuela
+1527;27;113;1;1000,300135;0;2;113;Alta Capacidad;34345,6952;35345,9953;Asfalto;2_Alajuela
+1528;27;114;1;1000,300088;0;2;114;Alta Capacidad;35345,9953;36346,2954;Asfalto;2_Alajuela
+1529;27;115;1;1000,300104;0;2;115;Alta Capacidad;36346,2954;37346,5955;Asfalto;2_Alajuela
+1530;27;116;1;1000,300072;0;2;116;Alta Capacidad;37346,5955;38346,8956;Asfalto;2_Alajuela
+1531;27;117;1;1000,300202;0;2;117;Alta Capacidad;38346,8956;39347,1958;Asfalto;2_Alajuela
+1532;27;118;1;1000,300103;0;2;118;Alta Capacidad;39347,1958;40347,4959;Asfalto;2_Alajuela
+1533;27;119;1;1000,300046;0;2;119;Alta Capacidad;40347,4959;41347,7959;Asfalto;2_Alajuela
+1534;27;120;1;1000,300162;0;2;120;Alta Capacidad;41347,7959;42348,0961;Asfalto;2_Alajuela
+1535;27;121;1;1000,300129;0;2;121;Alta Capacidad;42348,0961;43348,3962;Asfalto;2_Alajuela
+1536;27;122;1;1000,300097;0;2;122;Alta Capacidad;43348,3962;44348,6963;Asfalto;2_Alajuela
+1537;27;123;1;1000,300167;0;2;123;Alta Capacidad;44348,6963;45348,9965;Asfalto;2_Alajuela
+1538;27;124;1;1000,300069;0;2;124;Alta Capacidad;45348,9965;46349,2966;Asfalto;2_Alajuela
+1539;27;125;1;1000,300184;0;2;125;Alta Capacidad;46349,2966;47349,5967;Asfalto;2_Alajuela
+1540;27;126;1;1000,300085;0;2;126;Alta Capacidad;47349,5967;48349,8968;Asfalto;2_Alajuela
+1541;27;127;1;1000,300119;0;2;127;Alta Capacidad;48349,8968;49350,197;Asfalto;2_Alajuela
+1542;27;128;1;1000,30006;0;2;128;Alta Capacidad;49350,197;50350,497;Asfalto;2_Alajuela
+1543;27;129;1;1000,300165;0;2;129;Alta Capacidad;50350,497;51350,7972;Asfalto;2_Alajuela
+1544;27;130;1;1000,300114;0;2;130;Alta Capacidad;51350,7972;52351,0973;Asfalto;2_Alajuela
+1545;27;131;1;1000,300091;0;2;131;Alta Capacidad;52351,0973;53351,3974;Asfalto;2_Alajuela
+1546;27;132;1;1000,300188;0;2;132;Alta Capacidad;53351,3974;54351,6976;Asfalto;2_Alajuela
+1547;27;133;1;1000,300122;0;2;133;Alta Capacidad;54351,6976;55351,9977;Asfalto;2_Alajuela
+1548;27;134;1;1000,300041;0;2;134;Alta Capacidad;55351,9977;56352,2977;Asfalto;2_Alajuela
+1549;27;135;1;1000,300176;0;2;135;Alta Capacidad;56352,2977;57352,5979;Asfalto;2_Alajuela
+1550;27;136;1;1000,300088;0;2;136;Alta Capacidad;57352,5979;58352,898;Asfalto;2_Alajuela
+1551;27;137;1;1000,300137;0;2;137;Alta Capacidad;58352,898;59353,1981;Asfalto;2_Alajuela
+1552;27;138;1;1000,300105;0;1;138;Alta Capacidad;59353,1981;60353,4982;Asfalto;2_Alajuela
+1553;27;139;1;1000,300123;0;2;139;Alta Capacidad;60353,4982;61353,7984;Asfalto;1_San Jose
+1554;27;140;1;1000,300081;0;3;140;Alta Capacidad;61353,7984;62354,0984;Asfalto;1_San Jose
+1555;27;141;1;1000,300147;0;3;141;Alta Capacidad;62354,0984;63354,3986;Asfalto;1_San Jose
+1556;27;142;1;1000,300116;0;3;142;Alta Capacidad;63354,3986;64354,6987;Asfalto;1_San Jose
+1557;27;143;1;1000,300066;0;3;143;Alta Capacidad;64354,6987;65354,9988;Asfalto;1_San Jose
+1558;27;144;1;1000,300174;0;3;144;Alta Capacidad;65354,9988;66355,2989;Asfalto;1_San Jose
+1559;27;145;1;1000,300117;0;3;145;Alta Capacidad;66355,2989;67355,5991;Asfalto;1_San Jose
+1560;27;146;1;1000,300164;0;3;146;Alta Capacidad;67355,5991;68355,8992;Asfalto;1_San Jose
+1561;27;147;1;1000,300048;0;3;147;Alta Capacidad;68355,8992;69356,1993;Asfalto;1_San Jose
+1562;27;148;1;1000,300195;0;3;148;Alta Capacidad;69356,1993;70356,4995;Asfalto;1_San Jose
+1563;27;149;1;1000,300082;0;3;149;Alta Capacidad;70356,4995;71356,7996;Asfalto;1_San Jose
+1564;27;150;1;1000,300132;0;3;150;Alta Capacidad;71356,7996;72357,0997;Asfalto;1_San Jose
+1565;27;151;1;1000,300137;0;3;151;Alta Capacidad;72357,0997;73357,3998;Asfalto;1_San Jose
+1566;27;152;1;1000,300081;0;3;152;Alta Capacidad;73357,3998;74357,6999;Asfalto;1_San Jose
+1567;27;154;1;1000,300107;0;2;154;Alta Capacidad;75358;76358,3001;Asfalto;1_San Jose
+1568;27;76;0;1000,300138;0;2;76;Alta Capacidad;75022,5089;76022,8091;Asfalto;6_Puntarenas
+1569;27;1;0;1000,300046;0;2;1;Alta Capacidad;0;1000,3;Asfalto;1_San Jose
+1570;27;2;0;1000,300114;0;2;2;Alta Capacidad;1000,3;2000,6002;Asfalto;1_San Jose
+1571;27;3;0;1000,300212;0;3;3;Alta Capacidad;2000,6002;3000,9004;Asfalto;1_San Jose
+1572;27;4;0;1000,300086;0;3;4;Alta Capacidad;3000,9004;4001,2005;Asfalto;1_San Jose
+1573;27;5;0;1000,300101;0;3;5;Alta Capacidad;4001,2005;5001,5006;Asfalto;1_San Jose
+1574;27;6;0;1000,30014;0;3;6;Alta Capacidad;5001,5006;6001,8007;Asfalto;1_San Jose
+1575;27;7;0;1000,300146;0;3;7;Alta Capacidad;6001,8007;7002,1008;Asfalto;1_San Jose
+1576;27;8;0;1000,30008;0;3;8;Alta Capacidad;7002,1008;8002,4009;Asfalto;1_San Jose
+1577;27;9;0;1000,300166;0;3;9;Alta Capacidad;8002,4009;9002,7011;Asfalto;1_San Jose
+1578;27;10;0;1000,300092;0;3;10;Alta Capacidad;9002,7011;10003,0012;Asfalto;1_San Jose
+1579;27;11;0;1000,300095;0;3;11;Alta Capacidad;10003,0012;11003,3013;Asfalto;1_San Jose
+1580;27;12;0;1000,300109;0;3;12;Alta Capacidad;11003,3013;12003,6014;Asfalto;1_San Jose
+1581;27;13;0;1000,300124;0;3;13;Alta Capacidad;12003,6014;13003,9015;Asfalto;1_San Jose
+1582;27;14;0;1000,300114;0;3;14;Alta Capacidad;13003,9015;14004,2016;Asfalto;1_San Jose
+1583;27;15;0;1000,300145;0;3;15;Alta Capacidad;14004,2016;15004,5018;Asfalto;1_San Jose
+1584;27;16;0;1000,30007;0;2;16;Alta Capacidad;15004,5018;16004,8018;Asfalto;1_San Jose
+1585;27;17;0;1000,300165;0;1;17;Alta Capacidad;16004,8018;17005,102;Asfalto;2_Alajuela
+1586;27;18;0;1000,300187;0;2;18;Alta Capacidad;17005,102;18005,4022;Asfalto;2_Alajuela
+1587;27;19;0;1000,300051;0;2;19;Alta Capacidad;18005,4022;19005,7022;Asfalto;2_Alajuela
+1588;27;20;0;1000,300121;0;2;20;Alta Capacidad;19005,7022;20006,0024;Asfalto;2_Alajuela
+1589;27;21;0;1000,300178;0;2;21;Alta Capacidad;20006,0024;21006,3025;Asfalto;2_Alajuela
+1590;27;22;0;1000,300049;0;2;22;Alta Capacidad;21006,3025;22006,6026;Asfalto;2_Alajuela
+1591;27;23;0;1000,300193;0;2;23;Alta Capacidad;22006,6026;23006,9028;Asfalto;2_Alajuela
+1592;27;24;0;1000,300081;0;2;24;Alta Capacidad;23006,9028;24007,2029;Asfalto;2_Alajuela
+1593;27;25;0;1000,300141;0;2;25;Alta Capacidad;24007,2029;25007,503;Asfalto;2_Alajuela
+1594;27;26;0;1000,30007;0;2;26;Alta Capacidad;25007,503;26007,8031;Asfalto;2_Alajuela
+1595;27;27;0;1000,300121;0;2;27;Alta Capacidad;26007,8031;27008,1032;Asfalto;2_Alajuela
+1596;27;28;0;1000,300182;0;2;28;Alta Capacidad;27008,1032;28008,4034;Asfalto;2_Alajuela
+1597;27;29;0;1000,300106;0;2;29;Alta Capacidad;28008,4034;29008,7035;Asfalto;2_Alajuela
+1598;27;30;0;1000,300067;0;2;30;Alta Capacidad;29008,7035;30009,0036;Asfalto;2_Alajuela
+1599;27;31;0;1000,30009;0;2;31;Alta Capacidad;30009,0036;31009,3036;Asfalto;2_Alajuela
+1600;27;32;0;1000,300123;0;2;32;Alta Capacidad;31009,3036;32009,6038;Asfalto;2_Alajuela
+1601;27;33;0;1000,300177;0;2;33;Alta Capacidad;32009,6038;33009,9039;Asfalto;2_Alajuela
+1602;27;34;0;1000,300019;0;2;34;Alta Capacidad;33009,9039;34010,204;Asfalto;2_Alajuela
+1603;27;35;0;1000,300141;0;2;35;Alta Capacidad;34010,204;35010,5041;Asfalto;2_Alajuela
+1604;27;36;0;1000,30019;0;2;36;Alta Capacidad;35010,5041;36010,8043;Asfalto;2_Alajuela
+1605;27;37;0;1000,300057;0;2;37;Alta Capacidad;36010,8043;37011,1043;Asfalto;2_Alajuela
+1606;27;38;0;1000,300184;0;2;38;Alta Capacidad;37011,1043;38011,4045;Asfalto;2_Alajuela
+1607;27;39;0;1000,300044;0;2;39;Alta Capacidad;38011,4045;39011,7046;Asfalto;2_Alajuela
+1608;27;40;0;1000,300117;0;2;40;Alta Capacidad;39011,7046;40012,0047;Asfalto;2_Alajuela
+1609;27;41;0;1000,300232;0;2;41;Alta Capacidad;40012,0047;41012,3049;Asfalto;2_Alajuela
+1610;27;42;0;1000,300099;0;2;42;Alta Capacidad;41012,3049;42012,605;Asfalto;2_Alajuela
+1611;27;43;0;1000,300116;0;2;43;Alta Capacidad;42012,605;43012,9051;Asfalto;2_Alajuela
+1612;27;44;0;1000,300149;0;2;44;Alta Capacidad;43012,9051;44013,2053;Asfalto;2_Alajuela
+1613;27;45;0;1000,300092;0;2;45;Alta Capacidad;44013,2053;45013,5054;Asfalto;2_Alajuela
+1614;27;46;0;1000,300124;0;2;46;Alta Capacidad;45013,5054;46013,8055;Asfalto;2_Alajuela
+1615;27;47;0;1000,300021;0;2;47;Alta Capacidad;46013,8055;47014,1055;Asfalto;2_Alajuela
+1616;27;48;0;1000,300154;0;2;48;Alta Capacidad;47014,1055;48014,4057;Asfalto;2_Alajuela
+1617;27;49;0;1000,300178;0;2;49;Alta Capacidad;48014,4057;49014,7059;Asfalto;2_Alajuela
+1618;27;50;0;1000,300141;0;2;50;Alta Capacidad;49014,7059;50015,006;Asfalto;2_Alajuela
+1619;27;51;0;1000,300055;0;2;51;Alta Capacidad;50015,006;51015,3061;Asfalto;2_Alajuela
+1620;27;52;0;1000,300092;0;2;52;Alta Capacidad;51015,3061;52015,6061;Asfalto;2_Alajuela
+1621;27;53;0;1000,300151;0;2;53;Alta Capacidad;52015,6061;53015,9063;Asfalto;2_Alajuela
+1622;27;54;0;1000,300104;0;2;54;Alta Capacidad;53015,9063;54016,2064;Asfalto;2_Alajuela
+1623;27;55;0;1000,300118;0;2;55;Alta Capacidad;54016,2064;55016,5065;Asfalto;2_Alajuela
+1624;27;56;0;1000,300146;0;2;56;Alta Capacidad;55016,5065;56016,8067;Asfalto;2_Alajuela
+1625;27;57;0;1000,300123;0;2;57;Alta Capacidad;56016,8067;57017,1068;Asfalto;2_Alajuela
+1626;27;58;0;1000,300176;0;2;58;Alta Capacidad;57017,1068;58017,407;Asfalto;2_Alajuela
+1627;27;59;0;1000,300078;0;2;59;Alta Capacidad;58017,407;59017,707;Asfalto;2_Alajuela
+1628;27;60;0;1000,300113;0;2;60;Alta Capacidad;59017,707;60018,0072;Asfalto;2_Alajuela
+1629;27;61;0;1000,300122;0;2;61;Alta Capacidad;60018,0072;61018,3073;Asfalto;2_Alajuela
+1630;27;62;0;1000,300104;0;2;62;Alta Capacidad;61018,3073;62018,6074;Asfalto;2_Alajuela
+1631;27;63;0;1000,300147;0;2;63;Alta Capacidad;62018,6074;63018,9075;Asfalto;2_Alajuela
+1632;27;64;0;1000,300059;0;2;64;Alta Capacidad;63018,9075;64019,2076;Asfalto;2_Alajuela
+1633;27;65;0;1000,300147;0;2;65;Alta Capacidad;64019,2076;65019,5077;Asfalto;2_Alajuela
+1634;27;66;0;1000,300091;0;2;66;Alta Capacidad;65019,5077;66019,8078;Asfalto;2_Alajuela
+1635;27;67;0;1000,300122;0;2;67;Alta Capacidad;66019,8078;67020,1079;Asfalto;2_Alajuela
+1636;27;68;0;1000,300192;0;2;68;Alta Capacidad;67020,1079;68020,4081;Asfalto;2_Alajuela
+1637;27;69;0;1000,300058;0;2;69;Alta Capacidad;68020,4081;69020,7082;Asfalto;2_Alajuela
+1638;27;70;0;1000,300122;0;2;70;Alta Capacidad;69020,7082;70021,0083;Asfalto;2_Alajuela
+1639;27;71;0;1000,30012;0;2;71;Alta Capacidad;70021,0083;71021,3084;Asfalto;2_Alajuela
+1640;27;72;0;1000,300118;0;2;72;Alta Capacidad;71021,3084;72021,6086;Asfalto;2_Alajuela
+1641;27;73;0;1000,300124;0;3;73;Alta Capacidad;72021,6086;73021,9087;Asfalto;6_Puntarenas
+1642;27;74;0;1000,300201;0;2;74;Alta Capacidad;73021,9087;74022,2089;Asfalto;6_Puntarenas
+1643;27;75;0;1000,300053;0;2;75;Alta Capacidad;74022,2089;75022,5089;Asfalto;6_Puntarenas
+1644;27;77;0;308,8944324;0;1;77;Alta Capacidad;76022,8091;76325,3724;Asfalto;6_Puntarenas
+1645;35;15;0;4952,391284;1;2;15;Sin clasificar;29996,8785;34949,2698;Asfalto;2_Alajuela
+1646;35;29;1;5770,830247;1;2;29;Sin clasificar;28953,564;34724,3942;Asfalto;2_Alajuela
+1647;35;1;0;182,9496579;1;2;1;Sin clasificar;0;182,9497;Asfalto;2_Alajuela
+1648;35;2;0;5772,233574;1;2;2;Sin clasificar;182,9497;5955,1832;Asfalto;2_Alajuela
+1649;35;3;0;1445,852058;1;2;3;Sin clasificar;5955,1832;7401,0353;Asfalto;2_Alajuela
+1650;35;4;0;1115,07304;1;2;4;Sin clasificar;7401,0353;8516,1083;Asfalto;2_Alajuela
+1651;35;5;0;2221,931427;1;2;5;Sin clasificar;8516,1083;10738,0398;Asfalto;2_Alajuela
+1652;35;6;0;313,4608546;1;2;6;Sin clasificar;10738,0398;11051,5006;Asfalto;2_Alajuela
+1653;35;7;0;505,2542587;1;2;7;Sin clasificar;11051,5006;11556,7549;Asfalto;2_Alajuela
+1654;35;8;0;2422,948864;1;2;8;Sin clasificar;11556,7549;13979,7037;Asfalto;2_Alajuela
+1655;35;9;0;196,8301453;1;2;9;Sin clasificar;13979,7037;14176,5339;Asfalto;2_Alajuela
+1656;35;10;0;5621,731931;1;2;10;Sin clasificar;14176,5339;19798,2659;Asfalto;2_Alajuela
+1657;35;11;0;2402,281727;1;2;11;Sin clasificar;19798,2659;22200,5475;Asfalto;2_Alajuela
+1658;35;12;0;1301,333557;1;2;12;Sin clasificar;22200,5475;23501,8811;Asfalto;2_Alajuela
+1659;35;13;0;3819,113744;1;2;13;Sin clasificar;23501,8811;27320,9948;Asfalto;2_Alajuela
+1660;35;14;0;2675,883664;1;2;14;Sin clasificar;27320,9948;29996,8785;Asfalto;2_Alajuela
+1661;35;16;1;4948,975405;1;2;16;Sin clasificar;0;4948,9754;Asfalto;2_Alajuela
+1662;35;17;1;2626,170523;1;2;17;Sin clasificar;4948,9754;7575,1459;Asfalto;2_Alajuela
+1663;35;18;1;3824,067276;1;2;18;Sin clasificar;7575,1459;11399,2132;Asfalto;2_Alajuela
+1664;35;19;1;1302,668132;1;2;19;Sin clasificar;11399,2132;12701,8814;Asfalto;2_Alajuela
+1665;35;20;1;2400,36722;1;2;20;Sin clasificar;12701,8814;15102,2485;Asfalto;2_Alajuela
+1666;35;21;1;5624,562138;1;2;21;Sin clasificar;15102,2485;20726,8107;Asfalto;2_Alajuela
+1667;35;22;1;181,0084089;1;2;22;Sin clasificar;20726,8107;20907,8191;Asfalto;2_Alajuela
+1668;35;23;1;2437,819946;1;2;23;Sin clasificar;20907,8191;23345,639;Asfalto;2_Alajuela
+1669;35;24;1;513,6179092;1;2;24;Sin clasificar;23345,639;23859,2569;Asfalto;2_Alajuela
+1670;35;25;1;321,2133539;1;2;25;Sin clasificar;23859,2569;24180,4703;Asfalto;2_Alajuela
+1671;35;26;1;2206,220775;1;2;26;Sin clasificar;24180,4703;26386,6911;Asfalto;2_Alajuela
+1672;35;27;1;1113,354155;1;2;27;Sin clasificar;26386,6911;27500,0452;Asfalto;2_Alajuela
+1673;35;28;1;1453,518749;1;2;28;Sin clasificar;27500,0452;28953,564;Asfalto;2_Alajuela
+1674;35;30;1;195,3535585;1;2;30;Sin clasificar;34724,3942;34919,7478;Asfalto;2_Alajuela
+1675;1;40040;0;3466,73882;1;3;3;Alta Capacidad;5600,602376;9067,341196;Asfalto;4_Heredia
+1676;1;19002;0;2494,666604;1;3;1;Alta Capacidad;0;2494,666604;Asfalto;1_San Jose
+1677;1;50050;0;27177,91143;1;2;26;Alta Capacidad;243080,8338;270258,7452;Asfalto;5_Guanacaste
+1678;1;40710;0;3061,044004;1;2;4;Alta Capacidad;9067,341196;12128,3852;Asfalto;4_Heredia
+1679;1;20000;0;3184,94899;1;2;5;Alta Capacidad;12128,3852;15313,33419;Asfalto;2_Alajuela
+1680;1;20010;0;11845,22747;1;2;6;Alta Capacidad;15313,33419;27158,56166;Asfalto;2_Alajuela
+1681;1;20020;0;7126,716613;1;2;7;Alta Capacidad;27158,56166;34285,27827;Asfalto;2_Alajuela
+1682;1;20031;0;8091,185394;1;2;8;Alta Capacidad;34285,27827;42376,46367;Asfalto;2_Alajuela
+1683;1;20040;0;4244,133014;1;2;10;Alta Capacidad;47499,4169;51743,54992;Asfalto;2_Alajuela
+1684;1;20050;0;4830,235835;1;2;11;Alta Capacidad;51743,54992;56573,78575;Asfalto;2_Alajuela
+1685;1;20060;0;18463,55358;1;2;12;Alta Capacidad;56573,78575;75037,33933;Asfalto;2_Alajuela
+1686;1;60200;0;11657,64643;1;2;13;Alta Capacidad;75037,33933;86694,98576;Asfalto;6_Puntarenas
+1687;1;60210;0;4460,521841;1;2;14;Alta Capacidad;86694,98576;91155,5076;Asfalto;6_Puntarenas
+1688;1;60220;0;4854,401297;1;2;15;Alta Capacidad;91155,5076;96009,9089;Asfalto;6_Puntarenas
+1689;1;50000;0;12716,80422;1;2;18;Alta Capacidad;126213,4251;138930,2294;Asfalto;5_Guanacaste
+1690;1;60230;0;11051,57667;1;2;16;Alta Capacidad;96009,9089;107061,4856;Asfalto;6_Puntarenas
+1691;1;60240;0;19151,93956;1;2;17;Alta Capacidad;107061,4856;126213,4251;Asfalto;6_Puntarenas
+1692;1;50010;0;11432,57391;1;2;19;Alta Capacidad;138930,2294;150362,8033;Asfalto;5_Guanacaste
+1693;1;50020;0;9208,622708;1;2;21;Alta Capacidad;164883,8627;174092,4854;Concreto;5_Guanacaste
+1694;1;51120;0;12695,29983;1;2;22;Alta Capacidad;174092,4854;186787,7852;Concreto;5_Guanacaste
+1695;1;50030;0;16384,31787;1;2;23;Alta Capacidad;186787,7852;203172,1031;Concreto;5_Guanacaste
+1696;1;51130;0;9220,628237;1;2;24;Alta Capacidad;203172,1031;212392,7313;Concreto;5_Guanacaste
+1697;1;50060;0;18980,4894;1;2;27;Alta Capacidad;270258,7452;289239,2346;Asfalto;5_Guanacaste
+1698;1;19003;0;3105,935771;1;3;2;Alta Capacidad;2494,666604;5600,602376;Asfalto;1_San Jose
+1699;1;20032;0;5122,953236;1;2;9;Alta Capacidad;42376,46367;47499,4169;Asfalto;2_Alajuela
+1700;149;70102;2;1322,164503;1;1;1;Red Basica de Acceso;0;1322,1645;Asfalto;7_Limon
+1701;149;70101;2;1260,761368;1;1;1;Red Basica de Acceso;1322,1645;2582,9259;Asfalto;7_Limon
+1702;170;21042;2;4951,72589;1;1;4;Conectores de Integracion Territorial;17761,1596;22712,8855;Lastre;2_Alajuela
+1703;170;50250;2;9560,00046;1;1;1;Conectores de Integracion Territorial;0;9560,0005;Lastre;5_Guanacaste
+1704;170;21041;2;8201,159155;1;1;3;Conectores de Integracion Territorial;9560,0005;17761,1596;Lastre;2_Alajuela
+1705;175;19112;2;1465,576522;1;2;1;Conectores de Integracion Territorial;0;1465,5765;Asfalto;1_San Jose
+1706;175;19113;2;499,8647955;1;2;2;Conectores de Integracion Territorial;1465,5765;1965,4413;Asfalto;1_San Jose
+1707;175;19114;2;369,0705405;1;2;3;Conectores de Integracion Territorial;1965,4413;2334,5119;Asfalto;1_San Jose
+1708;176;19118;2;1805,446977;1;2;1;Red Basica de Acceso;0;1805,446977;Asfalto;1_San Jose
+1709;176;19119;2;205,0981654;1;2;2;Red Basica de Acceso;1805,446977;2010,545143;TS;1_San Jose
+1710;248;70382;2;12276,06321;1;1;4;Conectores de Integracion Territorial;25361,4218;37637,4851;Asfalto;7_Limon
+1711;248;70350;2;11583,04579;1;1;1;Conectores de Integracion Territorial;0;11583,0458;Asfalto;7_Limon
+1712;248;70322;2;6504,949814;1;1;2;Conectores de Integracion Territorial;11583,0458;18087,9956;Lastre;7_Limon
+1713;248;70321;2;7273,426241;1;1;3;Conectores de Integracion Territorial;18087,9956;25361,4218;Asfalto;7_Limon
+1714;248;70381;2;2214,611538;1;1;5;Conectores de Integracion Territorial;37637,4851;39852,0966;Asfalto;7_Limon
+1715;318;10091;2;12682,96571;1;1;1;Conectores de Integracion Territorial;0;12682,9658;Lastre;1_San Jose
+1716;318;10092;2;3393,173721;1;1;2;Conectores de Integracion Territorial;12682,9658;16076,13943;Lastre;1_San Jose
+1717;318;60510;2;2023,146323;1;1;3;Conectores de Integracion Territorial;16076,13943;18099,2858;Lastre;6_Puntarenas
+1718;751;20992;2;8834,747645;1;2;3;Conectores de Integracion Territorial;11681,84173;20516,58937;Lastre;2_Alajuela
+1719;751;20994;2;3958,094926;1;2;1;Conectores de Integracion Territorial;0;3958,094926;Asfalto;2_Alajuela
+1720;751;20991;2;6345,48778;1;2;4;Conectores de Integracion Territorial;20516,58937;26862,07715;Lastre;2_Alajuela
+1721;752;21142;2;7692,639826;1;2;2;Red Basica de Acceso;6060,095661;13742,29837;Lastre;2_Alajuela
+1722;752;21143;2;7213,810254;1;2;3;Red Basica de Acceso;13742,29837;20948,87774;TS;2_Alajuela
+1723;753;21091;2;11040,93148;1;1;1;Red Basica de Acceso;0;11040,93148;Lastre;2_Alajuela
+1724;753;21092;2;6790,159382;1;1;2;Red Basica de Acceso;11040,93148;17831,09086;Lastre;2_Alajuela
+1725;755;20272;2;5012,861557;1;1;2;Red Basica de Acceso;4352,139611;9365,001169;TS;2_Alajuela
+1726;755;20271;2;4352,139611;1;1;1;Red Basica de Acceso;0;4352,139611;TS;2_Alajuela
+1727;755;60470;2;1858,901282;1;1;3;Red Basica de Acceso;9365,001169;11223,90245;Asfalto;6_Puntarenas
+1728;756;60571;2;5277,541789;1;1;2;Red Basica de Acceso;439,9872157;5717,529004;Asfalto;6_Puntarenas
+1729;756;21820;2;439,9872157;1;1;1;Red Basica de Acceso;0;439,9872157;Asfalto;2_Alajuela
+1730;756;60572;2;4235,129481;1;1;3;Red Basica de Acceso;5717,529004;9952,658486;Asfalto;6_Puntarenas
+1731;757;20712;2;6093,133252;1;1;2;Red Basica de Acceso;5705,964784;11799,09804;TS;2_Alajuela
+1732;757;20711;2;5705,964784;1;1;1;Red Basica de Acceso;0;5705,964784;Asfalto;2_Alajuela
+1733;35;21860;2;7575,53193;1;2;10;Alta Capacidad;86038,809;93614,34093;TS;2_Alajuela
+1734;1;20010;1;11846,86633;2;2;6;Alta Capacidad;15314,46598;27161,33231;Asfalto;2_Alajuela
+1735;1;19002;1;2485,07591;2;3;1;Alta Capacidad;0;2485,07591;Asfalto;1_San Jose
+1736;1;20020;1;89,77234963;2;2;7;Alta Capacidad;27161,33231;27251,10466;Asfalto;2_Alajuela
+1737;1;20000;1;3204,65166;2;2;5;Alta Capacidad;12109,81432;15314,46598;Asfalto;2_Alajuela
+1738;1;40710;1;3049,616912;2;2;4;Alta Capacidad;9060,197407;12109,81432;Asfalto;4_Heredia
+1739;1;40040;1;3474,425499;2;3;3;Alta Capacidad;5585,771908;9060,197407;Asfalto;4_Heredia
+1740;1;19003;1;3100,695998;2;3;2;Alta Capacidad;2485,07591;5585,771908;Asfalto;1_San Jose
+1741;1;50020;1;9196,540416;2;2;21;Alta Capacidad;164877,4925;174074,0329;Concreto;5_Guanacaste
+1742;1;51120;1;12697,15773;2;2;22;Alta Capacidad;174074,0329;186771,1906;Concreto;5_Guanacaste
+1743;1;50030;1;16366,11463;2;2;23;Alta Capacidad;186771,1906;203137,3052;Concreto;5_Guanacaste
+1744;1;51130;1;9225,919335;2;2;24;Alta Capacidad;203137,3052;212363,2246;Concreto;5_Guanacaste
+1745;148;21730;2;4349,512394;1;1;2;Red Basica de Acceso;6709,5653;11059,07769;TS;2_Alajuela
+1746;143;21163;2;1544,946787;1;2;4;Conectores de Integracion Territorial;16511,8502;19647,5166;TS;2_Alajuela
+1747;927;50922;2;2796,055149;1;1;2;Red Basica de Acceso;6310,7208;15027,0648;TS;5_Guanacaste
+1748;927;50922;2;408,7500916;1;1;2;Red Basica de Acceso;6310,7208;15027,0648;Lastre;5_Guanacaste
